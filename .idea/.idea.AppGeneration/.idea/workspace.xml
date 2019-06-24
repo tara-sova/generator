@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="63f25266-ea63-4127-85a1-4fde364d34d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppGenerator.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/LoadDependencies.cs" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AppGeneration/LectureListActivityTemplate.cshtml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1995">
+              <caret line="134" selection-start-line="134" selection-end-line="134" />
+              <folding>
+                <marker date="1561333723399" expanded="false" signature="7:38" ph="..." />
+                <marker date="1561333723399" expanded="true" signature="2491:2730" ph="@..." />
+                <marker date="1561333723399" expanded="true" signature="2530:2623" ph="{...}" />
+                <marker date="1561333723399" expanded="true" signature="2636:2730" ph="{...}" />
+                <marker date="1561333723399" expanded="true" signature="3040:3693" ph="@..." />
+                <marker date="1561333723399" expanded="true" signature="3079:3617" ph="{...}" />
+                <marker date="1561333723399" expanded="true" signature="3102:3607" ph="@{...}" />
+                <marker date="1561333723399" expanded="true" signature="3630:3693" ph="{...}" />
+                <marker date="1561333723399" expanded="true" signature="4044:4630" ph="@..." />
+                <marker date="1561333723399" expanded="true" signature="4082:4630" ph="{...}" />
+                <marker date="1561333723399" expanded="true" signature="4105:4620" ph="@{...}" />
+                <marker date="1561333723399" expanded="true" signature="4639:5320" ph="@..." />
+                <marker date="1561333723399" expanded="true" signature="4673:5320" ph="{...}" />
+                <marker date="1561333723399" expanded="true" signature="4696:5297" ph="@{...}" />
+                <marker date="1561333723399" expanded="true" signature="5856:6000" ph="@..." />
+                <marker date="1561333723399" expanded="true" signature="5890:6000" ph="{...}" />
+                <marker date="1561333723399" expanded="true" signature="6706:7620" ph="@..." />
+                <marker date="1561333723399" expanded="true" signature="6744:7620" ph="{...}" />
+                <marker date="1561333723399" expanded="true" signature="6775:7606" ph="@{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AppGeneration/adminapp/ServerConnectionInstallation/ServerSetting.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/AppGeneration/FeatureWithParameters.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+              <folding>
+                <marker date="1561312218315" expanded="true" signature="40:1060" ph="{...}" />
+                <marker date="1561312218315" expanded="true" signature="81:1058" ph="{...}" />
+                <marker date="1561312218315" expanded="true" signature="742:1034" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AppGeneration/generatedModel.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AppGeneration/AppGenerator.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+              <folding>
+                <marker date="1561331224680" expanded="false" signature="6:267" ph="..." />
+                <marker date="1561331224680" expanded="true" signature="292:10027" ph="{...}" />
+                <marker date="1561331224680" expanded="true" signature="331:10025" ph="{...}" />
+                <marker date="1561331224680" expanded="true" signature="523:882" ph="{...}" />
+                <marker date="1561331224680" expanded="true" signature="979:1186" ph="{...}" />
+                <marker date="1561331224680" expanded="true" signature="1273:4386" ph="{...}" />
+                <marker date="1561331224680" expanded="true" signature="2116:4325" ph="{...}" />
+                <marker date="1561331224680" expanded="true" signature="2320:4311" ph="{...}" />
+                <marker date="1561331224680" expanded="true" signature="2676:4055" ph="{...}" />
+                <marker date="1561331224680" expanded="true" signature="2890:4033" ph="{...}" />
+                <marker date="1561331224680" expanded="true" signature="4522:6728" ph="{...}" />
+                <marker date="1561331224680" expanded="true" signature="4882:6629" ph="{...}" />
+                <marker date="1561331224680" expanded="true" signature="5077:6341" ph="{...}" />
+                <marker date="1561331224680" expanded="true" signature="5148:5277" ph="{...}" />
+                <marker date="1561331224680" expanded="true" signature="6906:7434" ph="{...}" />
+                <marker date="1561331224680" expanded="true" signature="7503:8922" ph="{...}" />
+                <marker date="1561331224680" expanded="true" signature="7791:8879" ph="{...}" />
+                <marker date="1561331224680" expanded="true" signature="7859:8036" ph="{...}" />
+                <marker date="1561331224680" expanded="true" signature="8127:8865" ph="{...}" />
+                <marker date="1561331224680" expanded="true" signature="8224:8847" ph="{...}" />
+                <marker date="1561331224680" expanded="true" signature="8507:8825" ph="{...}" />
+                <marker date="1561331224680" expanded="true" signature="8607:8799" ph="{...}" />
+                <marker date="1561331224680" expanded="true" signature="9029:9310" ph="{...}" />
+                <marker date="1561331224680" expanded="true" signature="9392:10010" ph="{...}" />
+                <marker date="1561331224680" expanded="true" signature="9521:9721" ph="{...}" />
+                <marker date="1561331224680" expanded="true" signature="9806:10000" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AppGeneration/adminapp/AttendedClientsActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-63">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AppGeneration/adminapp/AnnotationList.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="477">
+              <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AppGeneration/adminapp/Lecture.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AppGeneration/adminapp/LectureEdition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="13" column="18" selection-start-line="13" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AppGeneration/adminapp/LectureListActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>appgen</find>
+      <find>if</find>
+      <find>onListItemClick</find>
+      <find>onItemLongClick</find>
+      <find>beAttendedFeature</find>
+      <find>listener</find>
+      <find>}</find>
+      <find>LectureEditionFeature</find>
+      <find>TemplateNotFoundException</find>
+      <find>onlistitem</find>
+      <find>ser</find>
+      <find>annotationlist.fe</find>
+      <find>!</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/AppGeneration/FeatureWithParameters.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/088051FB-72DE-4607-81C4-D1937DDE71E2/bb/d7fa0ad2/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79984452-719B-4E08-BAA5-54379632421B/ab/1bae2d59/TemplateFactoryProvider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/19CEFD2C-51FB-4C83-8489-238D9F3B2749/cf/ed387a96/Regex.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AppGeneration/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AppGeneration/LectureListActivityTemplate__.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E75ECE5B-6641-41CC-A623-CFA83F657588/6c/672cd7c6/XmlSerializer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BBAD746A-B614-4D9F-90F1-8E1D6EEE458B/06/4bc807bd/ConcurrentDictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79984452-719B-4E08-BAA5-54379632421B/20/337a9b9f/RazorSourceGenerator.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AppGeneration/LectureListActivityTemplate.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AppGeneration/FeatureModel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79984452-719B-4E08-BAA5-54379632421B/8f/99072a27/FileSystemRazorProject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AppGeneration/AppGenerator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E75ECE5B-6641-41CC-A623-CFA83F657588/d7/00644bfa/TypeDesc.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E75ECE5B-6641-41CC-A623-CFA83F657588/6e/76e9f5df/XmlNode.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/088051FB-72DE-4607-81C4-D1937DDE71E2/16/420f12db/Task.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/088051FB-72DE-4607-81C4-D1937DDE71E2/91/4ffdcaaf/Task`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79984452-719B-4E08-BAA5-54379632421B/97/a6a1c4e8/RazorLightEngine.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E75ECE5B-6641-41CC-A623-CFA83F657588/fe/b11e5f02/XmlNodeList.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79984452-719B-4E08-BAA5-54379632421B/59/2bbda9c4/MemoryCachingProvider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/088051FB-72DE-4607-81C4-D1937DDE71E2/8f/d9a34113/ConfiguredTaskAwaitable`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BB916E5D-77F9-4A2E-888B-6F58CF7A713C/46/b7820538/StringReader.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/AppGen/LectureListActivityTemplate" />
+        <option value="$PROJECT_DIR$/AppGen/LectureListActivityTemplate.template" />
+        <option value="$PROJECT_DIR$/AppGen/LectureListActivityModel.cs" />
+        <option value="$PROJECT_DIR$/AppGen/Program.cs" />
+        <option value="$PROJECT_DIR$/AppGen/LectureListActivityTemplate.cshtml" />
+        <option value="$PROJECT_DIR$/AppGeneration/out.html" />
+        <option value="$PROJECT_DIR$/AppGeneration/LinkType.cs" />
+        <option value="$PROJECT_DIR$/AppGeneration/Link.cs" />
+        <option value="$PROJECT_DIR$/AppGeneration/Model.xml" />
+        <option value="$PROJECT_DIR$/AppGeneration/LectureListActivityModel.cs" />
+        <option value="$PROJECT_DIR$/AppGeneration/FeatureModel.cs" />
+        <option value="$PROJECT_DIR$/AppGeneration/LectureListActivityTemplate_.cshtml" />
+        <option value="$PROJECT_DIR$/AppGeneration/AppForGeneration/app/src/main/java/com/example/polina/adminapp/Features/AnnotationList.java" />
+        <option value="$PROJECT_DIR$/AppGeneration/AppForGeneration/app/src/main/java/com/example/polina/adminapp/Features/AttendedClientsActivity.java" />
+        <option value="$PROJECT_DIR$/AppGeneration/AppForGeneration/app/src/main/java/com/example/polina/adminapp/Features/ClientFormActivity.java" />
+        <option value="$PROJECT_DIR$/AppGeneration/AppForGeneration/app/src/main/java/com/example/polina/adminapp/Features/LectureEdition.java" />
+        <option value="$PROJECT_DIR$/AppGeneration/adminapp/ServerConnectionInstallation/IServerConnection.java" />
+        <option value="$PROJECT_DIR$/AppGeneration/adminapp/ServerConnectionInstallation/NoServerConnection.java" />
+        <option value="$PROJECT_DIR$/AppGeneration/adminapp/ServerConnectionInstallation/ServerConnection.java" />
+        <option value="$PROJECT_DIR$/AppGeneration/adminapp/Features/AnnotationList.java" />
+        <option value="$PROJECT_DIR$/AppGeneration/adminapp/Features/AttendedClientsActivity.java" />
+        <option value="$PROJECT_DIR$/AppGeneration/adminapp/Features/ClientFormActivity.java" />
+        <option value="$PROJECT_DIR$/AppGeneration/adminapp/Features/LectureEdition.java" />
+        <option value="$PROJECT_DIR$/AppGeneration/AppForGeneration/FeatureWithParameters.cs" />
+        <option value="$PROJECT_DIR$/AppGeneration/LoadDependencies.cs" />
+        <option value="$PROJECT_DIR$/AppGeneration/GenerateModelXml.cs" />
+        <option value="$PROJECT_DIR$/AppGeneration/adminapp/Lecture.java" />
+        <option value="$PROJECT_DIR$/AppGeneration/adminapp/AttendedClientsActivity.java" />
+        <option value="$PROJECT_DIR$/AppGeneration/FileAndModelXmlGenerator.cs" />
+        <option value="$PROJECT_DIR$/AppGeneration/Program.cs" />
+        <option value="$PROJECT_DIR$/AppGeneration/AppGenerator.cs" />
+        <option value="$PROJECT_DIR$/AppGeneration/adminapp/ClientFormActivity.java" />
+        <option value="$PROJECT_DIR$/AppGeneration/adminapp/LectureEdition.java" />
+        <option value="$PROJECT_DIR$/AppGeneration/adminapp/AnnotationList.java" />
+        <option value="$PROJECT_DIR$/AppGeneration/adminapp/LectureListActivity.java" />
+        <option value="$PROJECT_DIR$/AppGeneration/generatedModel.xml" />
+        <option value="$PROJECT_DIR$/AppGeneration/LectureListActivityTemplate.cshtml" />
+        <option value="$PROJECT_DIR$/AppGeneration/adminapp/ServerConnectionInstallation/ServerSetting.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/.idea.AppGeneration/.idea/vcs.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="AppGeneration" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="AppGeneration" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="AppGeneration" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="AppGeneration" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="AppGeneration" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="adminapp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="AppGeneration" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="AppGeneration" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="adminapp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ServerConnectionInstallation" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/AppGen/bin/Debug/netcoreapp2.2/AppGen.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AppGen" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/AppGeneration/AppGeneration.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.2" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="63f25266-ea63-4127-85a1-4fde364d34d8" name="Default Changelist" comment="" />
+      <created>1557850117028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1557850117028</updated>
+      <workItem from="1557850118370" duration="51372000" />
+      <workItem from="1561327117223" duration="5952000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="57324000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.23962805" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="1" />
+      <window_info anchor="bottom" id="Terminal" order="2" />
+      <window_info anchor="bottom" id="Database Changes" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Performance Profiler" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.32891566" />
+      <window_info anchor="bottom" id="NuGet" order="8" weight="0.28674698" />
+      <window_info anchor="bottom" id="Message" order="9" />
+      <window_info anchor="bottom" id="Find" order="10" />
+      <window_info anchor="bottom" id="Run" order="11" visible="true" weight="0.26506025" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.33373493" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="right" id="Database" order="0" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="1" />
+      <window_info anchor="right" id="Errors In Solution" order="2" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="3" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="4" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="5" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/AppGeneration/LectureListActivityTemplate.cshtml</url>
+          <line>2</line>
+          <properties documentPath="$PROJECT_DIR$/AppGeneration/LectureListActivityTemplate.cshtml" initialLine="2" isMultiMethodBreakpoint="true">
+            <option name="multiMethodBreakpoint" value="true" />
+            <startOffsets>
+              <option value="-1" />
+            </startOffsets>
+            <endOffsets>
+              <option value="-1" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/AppGeneration/LectureListActivityTemplate.cshtml</url>
+          <line>4</line>
+          <properties documentPath="$PROJECT_DIR$/AppGeneration/LectureListActivityTemplate.cshtml" initialLine="4" isMultiMethodBreakpoint="true">
+            <option name="multiMethodBreakpoint" value="true" />
+            <startOffsets>
+              <option value="-1" />
+            </startOffsets>
+            <endOffsets>
+              <option value="-1" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/AppGeneration/LectureListActivityTemplate.cshtml</url>
+          <line>5</line>
+          <properties documentPath="$PROJECT_DIR$/AppGeneration/LectureListActivityTemplate.cshtml" initialLine="8" isMultiMethodBreakpoint="true">
+            <option name="multiMethodBreakpoint" value="true" />
+            <startOffsets>
+              <option value="-1" />
+            </startOffsets>
+            <endOffsets>
+              <option value="-1" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79984452-719B-4E08-BAA5-54379632421B/97/a6a1c4e8/RazorLightEngine.cs</url>
+          <line>99</line>
+          <properties documentPath="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79984452-719B-4E08-BAA5-54379632421B/97/a6a1c4e8/RazorLightEngine.cs" initialLine="99">
+            <startOffsets>
+              <option value="2991" />
+            </startOffsets>
+            <endOffsets>
+              <option value="3118" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79984452-719B-4E08-BAA5-54379632421B/20/337a9b9f/RazorSourceGenerator.cs</url>
+          <line>43</line>
+          <properties documentPath="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79984452-719B-4E08-BAA5-54379632421B/20/337a9b9f/RazorSourceGenerator.cs" initialLine="43">
+            <startOffsets>
+              <option value="1332" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1362" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79984452-719B-4E08-BAA5-54379632421B/8f/99072a27/FileSystemRazorProject.cs</url>
+          <line>36</line>
+          <properties documentPath="$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79984452-719B-4E08-BAA5-54379632421B/8f/99072a27/FileSystemRazorProject.cs" initialLine="36">
+            <startOffsets>
+              <option value="1361" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1389" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/AppGeneration/LectureListActivityTemplate.cshtml</url>
+          <line>74</line>
+          <properties documentPath="$PROJECT_DIR$/AppGeneration/LectureListActivityTemplate.cshtml" initialLine="80" isMultiMethodBreakpoint="true">
+            <option name="multiMethodBreakpoint" value="true" />
+            <startOffsets>
+              <option value="-1" />
+            </startOffsets>
+            <endOffsets>
+              <option value="-1" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/AppGeneration/LectureListActivityTemplate__.cshtml</url>
+          <line>47</line>
+          <properties documentPath="$PROJECT_DIR$/AppGeneration/LectureListActivityTemplate.cshtml" initialLine="47" isMultiMethodBreakpoint="true">
+            <option name="multiMethodBreakpoint" value="true" />
+            <startOffsets>
+              <option value="-1" />
+            </startOffsets>
+            <endOffsets>
+              <option value="-1" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="46" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/AppGeneration/AppGenerator.cs</url>
+          <line>90</line>
+          <properties documentPath="$PROJECT_DIR$/AppGeneration/GenerateModelXml.cs" initialLine="93" />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/AppGeneration/LectureListActivityTemplate.cshtml</url>
+          <properties documentPath="$PROJECT_DIR$/AppGeneration/LectureListActivityTemplate.cshtml" initialLine="0" isMultiMethodBreakpoint="true">
+            <option name="multiMethodBreakpoint" value="true" />
+            <startOffsets>
+              <option value="-1" />
+            </startOffsets>
+            <endOffsets>
+              <option value="-1" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="DotNetProject">
+        <watch expression="targetDirectory + &quot;/&quot; + sourceDirectory.Split(&quot;/&quot;).Last()" language="C#" custom="RiderImportsList:" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>targetDirectory + &quot;/&quot; + sourceDirectory.Split(&quot;/&quot;).Last()</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>group</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>group[0]</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>res.</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>res[0]</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>filePath</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>f</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>line.Split(&quot;Feature&quot;)[1].Split(&quot;\&quot;&quot;)[1]</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>Regex.Match(line, patternFeatureName).Success</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>line</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AppGen/LectureListActivityTemplate" />
+    <entry file="file://$PROJECT_DIR$/AppGen/LectureListActivityTemplate.template" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79984452-719B-4E08-BAA5-54379632421B/59/2bbda9c4/MemoryCachingProvider.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BBAD746A-B614-4D9F-90F1-8E1D6EEE458B/06/4bc807bd/ConcurrentDictionary`2.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="204" column="6" selection-start-line="204" selection-start-column="6" selection-end-line="204" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/088051FB-72DE-4607-81C4-D1937DDE71E2/91/4ffdcaaf/Task`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="227" column="8" selection-start-line="227" selection-start-column="8" selection-end-line="227" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79984452-719B-4E08-BAA5-54379632421B/ab/1bae2d59/TemplateFactoryProvider.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="67" column="6" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/088051FB-72DE-4607-81C4-D1937DDE71E2/8f/d9a34113/ConfiguredTaskAwaitable`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="42" column="7" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79984452-719B-4E08-BAA5-54379632421B/20/337a9b9f/RazorSourceGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="43" column="6" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79984452-719B-4E08-BAA5-54379632421B/8f/99072a27/FileSystemRazorProject.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="36" column="6" selection-start-line="36" selection-start-column="6" selection-end-line="36" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/088051FB-72DE-4607-81C4-D1937DDE71E2/bb/d7fa0ad2/String.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="2334" column="18" selection-start-line="2334" selection-start-column="18" selection-end-line="2334" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/088051FB-72DE-4607-81C4-D1937DDE71E2/16/420f12db/Task.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="869" column="5" selection-start-line="869" selection-start-column="5" selection-end-line="869" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/19CEFD2C-51FB-4C83-8489-238D9F3B2749/cf/ed387a96/Regex.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1362">
+          <caret line="498" column="24" selection-start-line="498" selection-start-column="24" selection-end-line="498" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/LinkType.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BB916E5D-77F9-4A2E-888B-6F58CF7A713C/46/b7820538/StringReader.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="17" column="11" selection-start-line="17" selection-start-column="11" selection-end-line="17" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E75ECE5B-6641-41CC-A623-CFA83F657588/d7/00644bfa/TypeDesc.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="472" column="37" lean-forward="true" selection-start-line="472" selection-start-column="37" selection-end-line="472" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E75ECE5B-6641-41CC-A623-CFA83F657588/6c/672cd7c6/XmlSerializer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="316" column="18" selection-start-line="316" selection-start-column="18" selection-end-line="316" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E75ECE5B-6641-41CC-A623-CFA83F657588/6e/76e9f5df/XmlNode.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="112" column="22" selection-start-line="112" selection-start-column="22" selection-end-line="112" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E75ECE5B-6641-41CC-A623-CFA83F657588/fe/b11e5f02/XmlNodeList.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79984452-719B-4E08-BAA5-54379632421B/97/a6a1c4e8/RazorLightEngine.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1395">
+          <caret line="99" column="6" selection-start-line="99" selection-start-column="6" selection-end-line="99" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/AppForGeneration/app/src/main/java/com/example/polina/adminapp/Features/AttendedClientsFeature.java" />
+    <entry file="file://$PROJECT_DIR$/AppGeneration/AppForGeneration/app/src/main/java/com/example/polina/adminapp/Features/LectureFeature.java" />
+    <entry file="file://$PROJECT_DIR$/AppGeneration/AppForGeneration/app/src/main/java/com/example/polina/adminapp/Features/ServerFeature.java" />
+    <entry file="file://$PROJECT_DIR$/AppGeneration/AppForGeneration/app/src/main/java/com/example/polina/adminapp/Features/ClientFeature.java" />
+    <entry file="file://$PROJECT_DIR$/AppGeneration/Link.cs" />
+    <entry file="file://$PROJECT_DIR$/AppGeneration/adminapp/ServerConnectionInstallation/ServerConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="10" selection-start-line="4" selection-start-column="10" selection-end-line="4" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/adminapp/ServerConnectionInstallation/NoServerConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/adminapp/ServerConnectionInstallation/IServerConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="10" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/AppForGeneration/FeatureWithParameters.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="79">
+          <caret line="8" column="38" lean-forward="true" selection-start-line="8" selection-start-column="38" selection-end-line="8" selection-end-column="38" />
+          <folding>
+            <marker date="1561312218315" expanded="true" signature="40:1060" ph="{...}" />
+            <marker date="1561312218315" expanded="true" signature="81:1058" ph="{...}" />
+            <marker date="1561312218315" expanded="true" signature="742:1034" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/out.html" />
+    <entry file="file://$PROJECT_DIR$/AppGeneration/AppForGeneration/app/src/main/java/com/AnnotationList.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/AppForGeneration/app/src/main/java/com/AttendedClientsActivity.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.dotnet/sdk/2.2.104/Microsoft.Common.CurrentVersion.targets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="3061" column="11" selection-start-line="3061" selection-start-column="11" selection-end-line="3061" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="18" column="120" selection-start-line="18" selection-start-column="120" selection-end-line="18" selection-end-column="120" />
+          <folding>
+            <marker date="1561330986677" expanded="false" signature="6:162" ph="..." />
+            <marker date="1561330986677" expanded="true" signature="187:989" ph="{...}" />
+            <marker date="1561330986677" expanded="true" signature="207:987" ph="{...}" />
+            <marker date="1561330986677" expanded="true" signature="796:970" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/FeatureModel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <marker date="1561128873635" expanded="true" signature="58:400" ph="{...}" />
+            <marker date="1561128873635" expanded="true" signature="90:398" ph="{...}" />
+            <marker date="1561128873635" expanded="true" signature="219:239" ph="{...}" />
+            <marker date="1561128873635" expanded="true" signature="315:379" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/LectureListActivityTemplate__.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="206" column="9" selection-start-line="206" selection-start-column="9" selection-end-line="206" selection-end-column="9" />
+          <folding>
+            <marker date="1561128805126" expanded="false" signature="7:38" ph="..." />
+            <marker date="1561128805126" expanded="true" signature="1549:1652" ph="@..." />
+            <marker date="1561128805126" expanded="true" signature="1579:1652" ph="{...}" />
+            <marker date="1561128805126" expanded="true" signature="1661:1758" ph="@..." />
+            <marker date="1561128805126" expanded="true" signature="1692:1758" ph="{...}" />
+            <marker date="1561128805126" expanded="true" signature="3100:3357" ph="@..." />
+            <marker date="1561128805126" expanded="true" signature="3139:3357" ph="{...}" />
+            <marker date="1561128805126" expanded="true" signature="3162:3347" ph="@{...}" />
+            <marker date="1561128805126" expanded="true" signature="3597:4031" ph="@..." />
+            <marker date="1561128805126" expanded="true" signature="3635:4031" ph="{...}" />
+            <marker date="1561128805126" expanded="true" signature="3658:4021" ph="@{...}" />
+            <marker date="1561128805126" expanded="true" signature="4041:4485" ph="@..." />
+            <marker date="1561128805126" expanded="true" signature="4075:4485" ph="{...}" />
+            <marker date="1561128805126" expanded="true" signature="4098:4475" ph="@{...}" />
+            <marker date="1561128805126" expanded="true" signature="4495:4633" ph="@..." />
+            <marker date="1561128805126" expanded="true" signature="4567:4633" ph="{...}" />
+            <marker date="1561128805126" expanded="true" signature="5897:6279" ph="@..." />
+            <marker date="1561128805126" expanded="true" signature="5935:6279" ph="{...}" />
+            <marker date="1561128805126" expanded="true" signature="5958:6269" ph="@{...}" />
+            <marker date="1561128805126" expanded="true" signature="6288:6383" ph="@..." />
+            <marker date="1561128805126" expanded="true" signature="6327:6383" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/adminapp/ClientFormActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="37" selection-start-line="15" selection-start-column="37" selection-end-line="15" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/adminapp/AttendedClientsActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/adminapp/LectureEdition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="18" selection-start-line="13" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/adminapp/AnnotationList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="477">
+          <caret line="59" column="5" selection-start-line="59" selection-start-column="5" selection-end-line="59" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/adminapp/LectureListActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/adminapp/Lecture.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="40" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/Model.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="30" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/AppGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="21" column="39" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+          <folding>
+            <marker date="1561331224680" expanded="false" signature="6:267" ph="..." />
+            <marker date="1561331224680" expanded="true" signature="292:10027" ph="{...}" />
+            <marker date="1561331224680" expanded="true" signature="331:10025" ph="{...}" />
+            <marker date="1561331224680" expanded="true" signature="523:882" ph="{...}" />
+            <marker date="1561331224680" expanded="true" signature="979:1186" ph="{...}" />
+            <marker date="1561331224680" expanded="true" signature="1273:4386" ph="{...}" />
+            <marker date="1561331224680" expanded="true" signature="2116:4325" ph="{...}" />
+            <marker date="1561331224680" expanded="true" signature="2320:4311" ph="{...}" />
+            <marker date="1561331224680" expanded="true" signature="2676:4055" ph="{...}" />
+            <marker date="1561331224680" expanded="true" signature="2890:4033" ph="{...}" />
+            <marker date="1561331224680" expanded="true" signature="4522:6728" ph="{...}" />
+            <marker date="1561331224680" expanded="true" signature="4882:6629" ph="{...}" />
+            <marker date="1561331224680" expanded="true" signature="5077:6341" ph="{...}" />
+            <marker date="1561331224680" expanded="true" signature="5148:5277" ph="{...}" />
+            <marker date="1561331224680" expanded="true" signature="6906:7434" ph="{...}" />
+            <marker date="1561331224680" expanded="true" signature="7503:8922" ph="{...}" />
+            <marker date="1561331224680" expanded="true" signature="7791:8879" ph="{...}" />
+            <marker date="1561331224680" expanded="true" signature="7859:8036" ph="{...}" />
+            <marker date="1561331224680" expanded="true" signature="8127:8865" ph="{...}" />
+            <marker date="1561331224680" expanded="true" signature="8224:8847" ph="{...}" />
+            <marker date="1561331224680" expanded="true" signature="8507:8825" ph="{...}" />
+            <marker date="1561331224680" expanded="true" signature="8607:8799" ph="{...}" />
+            <marker date="1561331224680" expanded="true" signature="9029:9310" ph="{...}" />
+            <marker date="1561331224680" expanded="true" signature="9392:10010" ph="{...}" />
+            <marker date="1561331224680" expanded="true" signature="9521:9721" ph="{...}" />
+            <marker date="1561331224680" expanded="true" signature="9806:10000" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/generatedModel.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/LectureListActivityTemplate.cshtml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="134" selection-start-line="134" selection-end-line="134" />
+          <folding>
+            <marker date="1561333723399" expanded="false" signature="7:38" ph="..." />
+            <marker date="1561333723399" expanded="true" signature="2491:2730" ph="@..." />
+            <marker date="1561333723399" expanded="true" signature="2530:2623" ph="{...}" />
+            <marker date="1561333723399" expanded="true" signature="2636:2730" ph="{...}" />
+            <marker date="1561333723399" expanded="true" signature="3040:3693" ph="@..." />
+            <marker date="1561333723399" expanded="true" signature="3079:3617" ph="{...}" />
+            <marker date="1561333723399" expanded="true" signature="3102:3607" ph="@{...}" />
+            <marker date="1561333723399" expanded="true" signature="3630:3693" ph="{...}" />
+            <marker date="1561333723399" expanded="true" signature="4044:4630" ph="@..." />
+            <marker date="1561333723399" expanded="true" signature="4082:4630" ph="{...}" />
+            <marker date="1561333723399" expanded="true" signature="4105:4620" ph="@{...}" />
+            <marker date="1561333723399" expanded="true" signature="4639:5320" ph="@..." />
+            <marker date="1561333723399" expanded="true" signature="4673:5320" ph="{...}" />
+            <marker date="1561333723399" expanded="true" signature="4696:5297" ph="@{...}" />
+            <marker date="1561333723399" expanded="true" signature="5856:6000" ph="@..." />
+            <marker date="1561333723399" expanded="true" signature="5890:6000" ph="{...}" />
+            <marker date="1561333723399" expanded="true" signature="6706:7620" ph="@..." />
+            <marker date="1561333723399" expanded="true" signature="6744:7620" ph="{...}" />
+            <marker date="1561333723399" expanded="true" signature="6775:7606" ph="@{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/adminapp/ServerConnectionInstallation/ServerSetting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/FeatureWithParameters.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="26" selection-start-line="11" selection-start-column="26" selection-end-line="11" selection-end-column="26" />
+          <folding>
+            <marker date="1561312218315" expanded="true" signature="40:1060" ph="{...}" />
+            <marker date="1561312218315" expanded="true" signature="81:1058" ph="{...}" />
+            <marker date="1561312218315" expanded="true" signature="742:1034" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

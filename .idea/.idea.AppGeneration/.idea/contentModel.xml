@@ -1,0 +1,2433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_AppGeneration.1728328516.00" t="ExcludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="AppGeneration" t="IncludeRecursive">
+        <e p="adminapp" t="Include">
+          <e p="AnnotationList.java" t="Include" />
+          <e p="AttendedClientsActivity.java" t="Include" />
+          <e p="ClientFormActivity.java" t="Include" />
+          <e p="Lecture.java" t="Include" />
+          <e p="LectureEdition.java" t="Include" />
+          <e p="LectureListActivity.java" t="Include" />
+          <e p="ServerConnectionInstallation" t="Include">
+            <e p="IServerConnection.java" t="Include" />
+            <e p="NoServerConnection.java" t="Include" />
+            <e p="ServerConnection.java" t="Include" />
+            <e p="ServerSetting.java" t="Include" />
+          </e>
+        </e>
+        <e p="AppForGeneration" t="Include">
+          <e p=".idea" t="Include">
+            <e p="Caches" t="Include">
+              <e p="build_file_checksums.ser" t="Include" />
+            </e>
+            <e p="codeStyles" t="Include">
+              <e p="Project.xml" t="Include" />
+            </e>
+            <e p="compiler.xml" t="Include" />
+            <e p="gradle.xml" t="Include" />
+            <e p="libraries" t="Include">
+              <e p="Gradle__android_arch_core_common_1_1_0_jar.xml" t="Include" />
+              <e p="Gradle__android_arch_core_runtime_1_1_0.xml" t="Include" />
+              <e p="Gradle__android_arch_lifecycle_common_1_1_0_jar.xml" t="Include" />
+              <e p="Gradle__android_arch_lifecycle_livedata_core_1_1_0.xml" t="Include" />
+              <e p="Gradle__android_arch_lifecycle_runtime_1_1_0.xml" t="Include" />
+              <e p="Gradle__android_arch_lifecycle_viewmodel_1_1_0.xml" t="Include" />
+              <e p="Gradle__com_android_support_animated_vector_drawable_27_1_1.xml" t="Include" />
+              <e p="Gradle__com_android_support_appcompat_v7_27_1_1.xml" t="Include" />
+              <e p="Gradle__com_android_support_constraint_constraint_layout_1_1_3.xml" t="Include" />
+              <e p="Gradle__com_android_support_constraint_constraint_layout_solver_1_1_3_jar.xml" t="Include" />
+              <e p="Gradle__com_android_support_design_27_1_1.xml" t="Include" />
+              <e p="Gradle__com_android_support_recyclerview_v7_27_1_1.xml" t="Include" />
+              <e p="Gradle__com_android_support_support_annotations_27_1_1_jar.xml" t="Include" />
+              <e p="Gradle__com_android_support_support_compat_27_1_1.xml" t="Include" />
+              <e p="Gradle__com_android_support_support_core_ui_27_1_1.xml" t="Include" />
+              <e p="Gradle__com_android_support_support_core_utils_27_1_1.xml" t="Include" />
+              <e p="Gradle__com_android_support_support_fragment_27_1_1.xml" t="Include" />
+              <e p="Gradle__com_android_support_support_media_compat_27_1_1.xml" t="Include" />
+              <e p="Gradle__com_android_support_support_v4_27_1_1.xml" t="Include" />
+              <e p="Gradle__com_android_support_support_vector_drawable_27_1_1.xml" t="Include" />
+              <e p="Gradle__com_android_support_test_espresso_espresso_core_3_0_2.xml" t="Include" />
+              <e p="Gradle__com_android_support_test_espresso_espresso_idling_resource_3_0_2.xml" t="Include" />
+              <e p="Gradle__com_android_support_test_monitor_1_0_2.xml" t="Include" />
+              <e p="Gradle__com_android_support_test_runner_1_0_2.xml" t="Include" />
+              <e p="Gradle__com_android_support_transition_27_1_1.xml" t="Include" />
+              <e p="Gradle__com_fasterxml_jackson_core_jackson_annotations_2_3_0_jar.xml" t="Include" />
+              <e p="Gradle__com_fasterxml_jackson_core_jackson_core_2_3_2_jar.xml" t="Include" />
+              <e p="Gradle__com_fasterxml_jackson_core_jackson_databind_2_3_2_jar.xml" t="Include" />
+              <e p="Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" t="Include" />
+              <e p="Gradle__com_google_code_gson_gson_2_8_2_jar.xml" t="Include" />
+              <e p="Gradle__com_squareup_javawriter_2_1_1_jar.xml" t="Include" />
+              <e p="Gradle__javax_inject_javax_inject_1_jar.xml" t="Include" />
+              <e p="Gradle__javax_persistence_persistence_api_1_0_jar.xml" t="Include" />
+              <e p="Gradle__junit_junit_4_12_jar.xml" t="Include" />
+              <e p="Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" t="Include" />
+              <e p="Gradle__org_apache_http_legacy_android_27.xml" t="Include" />
+              <e p="Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" t="Include" />
+              <e p="Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" t="Include" />
+              <e p="Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" t="Include" />
+              <e p="Gradle__org_projectlombok_lombok_1_18_4_jar.xml" t="Include" />
+              <e p="Gradle__org_springframework_android_spring_android_core_2_0_0_M3_jar.xml" t="Include" />
+              <e p="Gradle__org_springframework_android_spring_android_rest_template_2_0_0_M3_jar.xml" t="Include" />
+            </e>
+            <e p="misc.xml" t="Include" />
+            <e p="modules.xml" t="Include" />
+            <e p="runConfigurations.xml" t="Include" />
+            <e p="workspace.xml" t="Include" />
+          </e>
+          <e p="adminapp" t="Include">
+            <e p=".gitignore" t="Include" />
+            <e p=".gradle" t="Include">
+              <e p="4.4" t="Include">
+                <e p="fileChanges" t="Include">
+                  <e p="last-build.bin" t="Include" />
+                </e>
+                <e p="fileContent" t="Include">
+                  <e p="fileContent.lock" t="Include" />
+                </e>
+                <e p="fileHashes" t="Include">
+                  <e p="fileHashes.bin" t="Include" />
+                  <e p="fileHashes.lock" t="Include" />
+                  <e p="resourceHashesCache.bin" t="Include" />
+                </e>
+                <e p="javaCompile" t="Include">
+                  <e p="classAnalysis.bin" t="Include" />
+                  <e p="jarAnalysis.bin" t="Include" />
+                  <e p="javaCompile.lock" t="Include" />
+                  <e p="taskHistory.bin" t="Include" />
+                  <e p="taskJars.bin" t="Include" />
+                </e>
+                <e p="taskHistory" t="Include">
+                  <e p="taskHistory.bin" t="Include" />
+                  <e p="taskHistory.lock" t="Include" />
+                </e>
+              </e>
+              <e p="buildOutputCleanup" t="Include">
+                <e p="buildOutputCleanup.lock" t="Include" />
+                <e p="cache.properties" t="Include" />
+                <e p="outputFiles.bin" t="Include" />
+              </e>
+            </e>
+            <e p="AdminApp.iml" t="Include" />
+            <e p="app" t="Include">
+              <e p=".gitignore" t="Include" />
+              <e p="app.iml" t="Include" />
+              <e p="build" t="Include">
+                <e p="generated" t="Include">
+                  <e p="res" t="Include">
+                    <e p="pngs" t="Include">
+                      <e p="Debug" t="Include">
+                        <e p="drawable-anydpi-v21" t="Include">
+                          <e p="ic_add_black_24dp.xml" t="Include" />
+                          <e p="ic_launcher_background.xml" t="Include" />
+                        </e>
+                        <e p="drawable-hdpi" t="Include">
+                          <e p="ic_add_black_24dp.png" t="Include" />
+                          <e p="ic_launcher_background.png" t="Include" />
+                        </e>
+                        <e p="drawable-ldpi" t="Include">
+                          <e p="ic_add_black_24dp.png" t="Include" />
+                          <e p="ic_launcher_background.png" t="Include" />
+                        </e>
+                        <e p="drawable-mdpi" t="Include">
+                          <e p="ic_add_black_24dp.png" t="Include" />
+                          <e p="ic_launcher_background.png" t="Include" />
+                        </e>
+                        <e p="drawable-xhdpi" t="Include">
+                          <e p="ic_add_black_24dp.png" t="Include" />
+                          <e p="ic_launcher_background.png" t="Include" />
+                        </e>
+                        <e p="drawable-xxhdpi" t="Include">
+                          <e p="ic_add_black_24dp.png" t="Include" />
+                          <e p="ic_launcher_background.png" t="Include" />
+                        </e>
+                        <e p="drawable-xxxhdpi" t="Include">
+                          <e p="ic_add_black_24dp.png" t="Include" />
+                          <e p="ic_launcher_background.png" t="Include" />
+                        </e>
+                      </e>
+                    </e>
+                  </e>
+                  <e p="source" t="Include">
+                    <e p="buildConfig" t="Include">
+                      <e p="Debug" t="Include">
+                        <e p="com" t="Include">
+                          <e p="example" t="Include">
+                            <e p="polina" t="Include">
+                              <e p="adminapp" t="Include">
+                                <e p="BuildConfig.java" t="Include" />
+                              </e>
+                            </e>
+                          </e>
+                        </e>
+                      </e>
+                    </e>
+                    <e p="r" t="Include">
+                      <e p="Debug" t="Include">
+                        <e p="android" t="Include">
+                          <e p="arch" t="Include">
+                            <e p="core" t="Include">
+                              <e p="R.java" t="Include" />
+                            </e>
+                            <e p="lifecycle" t="Include">
+                              <e p="livedata" t="Include">
+                                <e p="core" t="Include">
+                                  <e p="R.java" t="Include" />
+                                </e>
+                              </e>
+                              <e p="R.java" t="Include" />
+                              <e p="viewmodel" t="Include">
+                                <e p="R.java" t="Include" />
+                              </e>
+                            </e>
+                          </e>
+                          <e p="support" t="Include">
+                            <e p="compat" t="Include">
+                              <e p="R.java" t="Include" />
+                            </e>
+                            <e p="constraint" t="Include">
+                              <e p="R.java" t="Include" />
+                            </e>
+                            <e p="coreui" t="Include">
+                              <e p="R.java" t="Include" />
+                            </e>
+                            <e p="coreutils" t="Include">
+                              <e p="R.java" t="Include" />
+                            </e>
+                            <e p="design" t="Include">
+                              <e p="R.java" t="Include" />
+                            </e>
+                            <e p="fragment" t="Include">
+                              <e p="R.java" t="Include" />
+                            </e>
+                            <e p="graphics" t="Include">
+                              <e p="drawable" t="Include">
+                                <e p="animated" t="Include">
+                                  <e p="R.java" t="Include" />
+                                </e>
+                                <e p="R.java" t="Include" />
+                              </e>
+                            </e>
+                            <e p="mediacompat" t="Include">
+                              <e p="R.java" t="Include" />
+                            </e>
+                            <e p="transition" t="Include">
+                              <e p="R.java" t="Include" />
+                            </e>
+                            <e p="v4" t="Include">
+                              <e p="R.java" t="Include" />
+                            </e>
+                            <e p="v7" t="Include">
+                              <e p="appcompat" t="Include">
+                                <e p="R.java" t="Include" />
+                              </e>
+                              <e p="recyclerview" t="Include">
+                                <e p="R.java" t="Include" />
+                              </e>
+                            </e>
+                          </e>
+                        </e>
+                        <e p="com" t="Include">
+                          <e p="example" t="Include">
+                            <e p="polina" t="Include">
+                              <e p="adminapp" t="Include">
+                                <e p="R.java" t="Include" />
+                              </e>
+                            </e>
+                          </e>
+                        </e>
+                      </e>
+                    </e>
+                  </e>
+                </e>
+                <e p="intermediates" t="Include">
+                  <e p="blame" t="Include">
+                    <e p="res" t="Include">
+                      <e p="Debug" t="Include">
+                        <e p="multi-v2" t="Include">
+                          <e p="debug.json" t="Include" />
+                          <e p="values-af.json" t="Include" />
+                          <e p="values-am.json" t="Include" />
+                          <e p="values-ar.json" t="Include" />
+                          <e p="values-az.json" t="Include" />
+                          <e p="values-b+sr+Latn.json" t="Include" />
+                          <e p="values-be.json" t="Include" />
+                          <e p="values-bg.json" t="Include" />
+                          <e p="values-bn.json" t="Include" />
+                          <e p="values-bs.json" t="Include" />
+                          <e p="values-ca.json" t="Include" />
+                          <e p="values-cs.json" t="Include" />
+                          <e p="values-da.json" t="Include" />
+                          <e p="values-de.json" t="Include" />
+                          <e p="values-el.json" t="Include" />
+                          <e p="values-en-rAU.json" t="Include" />
+                          <e p="values-en-rCA.json" t="Include" />
+                          <e p="values-en-rGB.json" t="Include" />
+                          <e p="values-en-rIN.json" t="Include" />
+                          <e p="values-en-rXC.json" t="Include" />
+                          <e p="values-es-rUS.json" t="Include" />
+                          <e p="values-es.json" t="Include" />
+                          <e p="values-et.json" t="Include" />
+                          <e p="values-eu.json" t="Include" />
+                          <e p="values-fa.json" t="Include" />
+                          <e p="values-fi.json" t="Include" />
+                          <e p="values-fr-rCA.json" t="Include" />
+                          <e p="values-fr.json" t="Include" />
+                          <e p="values-gl.json" t="Include" />
+                          <e p="values-gu.json" t="Include" />
+                          <e p="values-h720dp-v13.json" t="Include" />
+                          <e p="values-hdpi-v4.json" t="Include" />
+                          <e p="values-hi.json" t="Include" />
+                          <e p="values-hr.json" t="Include" />
+                          <e p="values-hu.json" t="Include" />
+                          <e p="values-hy.json" t="Include" />
+                          <e p="values-in.json" t="Include" />
+                          <e p="values-is.json" t="Include" />
+                          <e p="values-it.json" t="Include" />
+                          <e p="values-iw.json" t="Include" />
+                          <e p="values-ja.json" t="Include" />
+                          <e p="values-ka.json" t="Include" />
+                          <e p="values-kk.json" t="Include" />
+                          <e p="values-km.json" t="Include" />
+                          <e p="values-kn.json" t="Include" />
+                          <e p="values-ko.json" t="Include" />
+                          <e p="values-ky.json" t="Include" />
+                          <e p="values-land.json" t="Include" />
+                          <e p="values-large-v4.json" t="Include" />
+                          <e p="values-ldltr-v21.json" t="Include" />
+                          <e p="values-lo.json" t="Include" />
+                          <e p="values-lt.json" t="Include" />
+                          <e p="values-lv.json" t="Include" />
+                          <e p="values-mk.json" t="Include" />
+                          <e p="values-ml.json" t="Include" />
+                          <e p="values-mn.json" t="Include" />
+                          <e p="values-mr.json" t="Include" />
+                          <e p="values-ms.json" t="Include" />
+                          <e p="values-my.json" t="Include" />
+                          <e p="values-nb.json" t="Include" />
+                          <e p="values-ne.json" t="Include" />
+                          <e p="values-night-v8.json" t="Include" />
+                          <e p="values-nl.json" t="Include" />
+                          <e p="values-pa.json" t="Include" />
+                          <e p="values-pl.json" t="Include" />
+                          <e p="values-port.json" t="Include" />
+                          <e p="values-pt-rBR.json" t="Include" />
+                          <e p="values-pt-rPT.json" t="Include" />
+                          <e p="values-pt.json" t="Include" />
+                          <e p="values-ro.json" t="Include" />
+                          <e p="values-ru.json" t="Include" />
+                          <e p="values-si.json" t="Include" />
+                          <e p="values-sk.json" t="Include" />
+                          <e p="values-sl.json" t="Include" />
+                          <e p="values-sq.json" t="Include" />
+                          <e p="values-sr.json" t="Include" />
+                          <e p="values-sv.json" t="Include" />
+                          <e p="values-sw.json" t="Include" />
+                          <e p="values-sw600dp-v13.json" t="Include" />
+                          <e p="values-ta.json" t="Include" />
+                          <e p="values-te.json" t="Include" />
+                          <e p="values-th.json" t="Include" />
+                          <e p="values-tl.json" t="Include" />
+                          <e p="values-tr.json" t="Include" />
+                          <e p="values-uk.json" t="Include" />
+                          <e p="values-ur.json" t="Include" />
+                          <e p="values-uz.json" t="Include" />
+                          <e p="values-v16.json" t="Include" />
+                          <e p="values-v17.json" t="Include" />
+                          <e p="values-v18.json" t="Include" />
+                          <e p="values-v21.json" t="Include" />
+                          <e p="values-v22.json" t="Include" />
+                          <e p="values-v23.json" t="Include" />
+                          <e p="values-v24.json" t="Include" />
+                          <e p="values-v25.json" t="Include" />
+                          <e p="values-v26.json" t="Include" />
+                          <e p="values-vi.json" t="Include" />
+                          <e p="values-watch-v20.json" t="Include" />
+                          <e p="values-xlarge-v4.json" t="Include" />
+                          <e p="values-zh-rCN.json" t="Include" />
+                          <e p="values-zh-rHK.json" t="Include" />
+                          <e p="values-zh-rTW.json" t="Include" />
+                          <e p="values-zu.json" t="Include" />
+                          <e p="values.json" t="Include" />
+                        </e>
+                        <e p="single" t="Include">
+                          <e p="debug.json" t="Include" />
+                        </e>
+                      </e>
+                    </e>
+                  </e>
+                  <e p="classes" t="Include">
+                    <e p="Debug" t="Include">
+                      <e p="android" t="Include">
+                        <e p="arch" t="Include">
+                          <e p="core" t="Include">
+                            <e p="R.class" t="Include" />
+                          </e>
+                          <e p="lifecycle" t="Include">
+                            <e p="livedata" t="Include">
+                              <e p="core" t="Include">
+                                <e p="R.class" t="Include" />
+                              </e>
+                            </e>
+                            <e p="R.class" t="Include" />
+                            <e p="viewmodel" t="Include">
+                              <e p="R.class" t="Include" />
+                            </e>
+                          </e>
+                        </e>
+                        <e p="support" t="Include">
+                          <e p="compat" t="Include">
+                            <e p="R$attr.class" t="Include" />
+                            <e p="R$bool.class" t="Include" />
+                            <e p="R$color.class" t="Include" />
+                            <e p="R$dimen.class" t="Include" />
+                            <e p="R$drawable.class" t="Include" />
+                            <e p="R$id.class" t="Include" />
+                            <e p="R$integer.class" t="Include" />
+                            <e p="R$layout.class" t="Include" />
+                            <e p="R$string.class" t="Include" />
+                            <e p="R$style.class" t="Include" />
+                            <e p="R$styleable.class" t="Include" />
+                            <e p="R.class" t="Include" />
+                          </e>
+                          <e p="constraint" t="Include">
+                            <e p="R$attr.class" t="Include" />
+                            <e p="R$id.class" t="Include" />
+                            <e p="R$styleable.class" t="Include" />
+                            <e p="R.class" t="Include" />
+                          </e>
+                          <e p="coreui" t="Include">
+                            <e p="R$attr.class" t="Include" />
+                            <e p="R$bool.class" t="Include" />
+                            <e p="R$color.class" t="Include" />
+                            <e p="R$dimen.class" t="Include" />
+                            <e p="R$drawable.class" t="Include" />
+                            <e p="R$id.class" t="Include" />
+                            <e p="R$integer.class" t="Include" />
+                            <e p="R$layout.class" t="Include" />
+                            <e p="R$string.class" t="Include" />
+                            <e p="R$style.class" t="Include" />
+                            <e p="R$styleable.class" t="Include" />
+                            <e p="R.class" t="Include" />
+                          </e>
+                          <e p="coreutils" t="Include">
+                            <e p="R$attr.class" t="Include" />
+                            <e p="R$bool.class" t="Include" />
+                            <e p="R$color.class" t="Include" />
+                            <e p="R$dimen.class" t="Include" />
+                            <e p="R$drawable.class" t="Include" />
+                            <e p="R$id.class" t="Include" />
+                            <e p="R$integer.class" t="Include" />
+                            <e p="R$layout.class" t="Include" />
+                            <e p="R$string.class" t="Include" />
+                            <e p="R$style.class" t="Include" />
+                            <e p="R$styleable.class" t="Include" />
+                            <e p="R.class" t="Include" />
+                          </e>
+                          <e p="design" t="Include">
+                            <e p="R$anim.class" t="Include" />
+                            <e p="R$animator.class" t="Include" />
+                            <e p="R$attr.class" t="Include" />
+                            <e p="R$bool.class" t="Include" />
+                            <e p="R$color.class" t="Include" />
+                            <e p="R$dimen.class" t="Include" />
+                            <e p="R$drawable.class" t="Include" />
+                            <e p="R$id.class" t="Include" />
+                            <e p="R$integer.class" t="Include" />
+                            <e p="R$layout.class" t="Include" />
+                            <e p="R$string.class" t="Include" />
+                            <e p="R$style.class" t="Include" />
+                            <e p="R$styleable.class" t="Include" />
+                            <e p="R.class" t="Include" />
+                          </e>
+                          <e p="fragment" t="Include">
+                            <e p="R$attr.class" t="Include" />
+                            <e p="R$bool.class" t="Include" />
+                            <e p="R$color.class" t="Include" />
+                            <e p="R$dimen.class" t="Include" />
+                            <e p="R$drawable.class" t="Include" />
+                            <e p="R$id.class" t="Include" />
+                            <e p="R$integer.class" t="Include" />
+                            <e p="R$layout.class" t="Include" />
+                            <e p="R$string.class" t="Include" />
+                            <e p="R$style.class" t="Include" />
+                            <e p="R$styleable.class" t="Include" />
+                            <e p="R.class" t="Include" />
+                          </e>
+                          <e p="graphics" t="Include">
+                            <e p="drawable" t="Include">
+                              <e p="animated" t="Include">
+                                <e p="R$attr.class" t="Include" />
+                                <e p="R$bool.class" t="Include" />
+                                <e p="R$color.class" t="Include" />
+                                <e p="R$dimen.class" t="Include" />
+                                <e p="R$drawable.class" t="Include" />
+                                <e p="R$id.class" t="Include" />
+                                <e p="R$integer.class" t="Include" />
+                                <e p="R$layout.class" t="Include" />
+                                <e p="R$string.class" t="Include" />
+                                <e p="R$style.class" t="Include" />
+                                <e p="R$styleable.class" t="Include" />
+                                <e p="R.class" t="Include" />
+                              </e>
+                              <e p="R$attr.class" t="Include" />
+                              <e p="R$bool.class" t="Include" />
+                              <e p="R$color.class" t="Include" />
+                              <e p="R$dimen.class" t="Include" />
+                              <e p="R$drawable.class" t="Include" />
+                              <e p="R$id.class" t="Include" />
+                              <e p="R$integer.class" t="Include" />
+                              <e p="R$layout.class" t="Include" />
+                              <e p="R$string.class" t="Include" />
+                              <e p="R$style.class" t="Include" />
+                              <e p="R$styleable.class" t="Include" />
+                              <e p="R.class" t="Include" />
+                            </e>
+                          </e>
+                          <e p="mediacompat" t="Include">
+                            <e p="R$attr.class" t="Include" />
+                            <e p="R$bool.class" t="Include" />
+                            <e p="R$color.class" t="Include" />
+                            <e p="R$dimen.class" t="Include" />
+                            <e p="R$drawable.class" t="Include" />
+                            <e p="R$id.class" t="Include" />
+                            <e p="R$integer.class" t="Include" />
+                            <e p="R$layout.class" t="Include" />
+                            <e p="R$string.class" t="Include" />
+                            <e p="R$style.class" t="Include" />
+                            <e p="R$styleable.class" t="Include" />
+                            <e p="R.class" t="Include" />
+                          </e>
+                          <e p="transition" t="Include">
+                            <e p="R$attr.class" t="Include" />
+                            <e p="R$bool.class" t="Include" />
+                            <e p="R$color.class" t="Include" />
+                            <e p="R$dimen.class" t="Include" />
+                            <e p="R$drawable.class" t="Include" />
+                            <e p="R$id.class" t="Include" />
+                            <e p="R$integer.class" t="Include" />
+                            <e p="R$layout.class" t="Include" />
+                            <e p="R$string.class" t="Include" />
+                            <e p="R$style.class" t="Include" />
+                            <e p="R$styleable.class" t="Include" />
+                            <e p="R.class" t="Include" />
+                          </e>
+                          <e p="v4" t="Include">
+                            <e p="R$attr.class" t="Include" />
+                            <e p="R$bool.class" t="Include" />
+                            <e p="R$color.class" t="Include" />
+                            <e p="R$dimen.class" t="Include" />
+                            <e p="R$drawable.class" t="Include" />
+                            <e p="R$id.class" t="Include" />
+                            <e p="R$integer.class" t="Include" />
+                            <e p="R$layout.class" t="Include" />
+                            <e p="R$string.class" t="Include" />
+                            <e p="R$style.class" t="Include" />
+                            <e p="R$styleable.class" t="Include" />
+                            <e p="R.class" t="Include" />
+                          </e>
+                          <e p="v7" t="Include">
+                            <e p="appcompat" t="Include">
+                              <e p="R$anim.class" t="Include" />
+                              <e p="R$attr.class" t="Include" />
+                              <e p="R$bool.class" t="Include" />
+                              <e p="R$color.class" t="Include" />
+                              <e p="R$dimen.class" t="Include" />
+                              <e p="R$drawable.class" t="Include" />
+                              <e p="R$id.class" t="Include" />
+                              <e p="R$integer.class" t="Include" />
+                              <e p="R$layout.class" t="Include" />
+                              <e p="R$string.class" t="Include" />
+                              <e p="R$style.class" t="Include" />
+                              <e p="R$styleable.class" t="Include" />
+                              <e p="R.class" t="Include" />
+                            </e>
+                            <e p="recyclerview" t="Include">
+                              <e p="R$attr.class" t="Include" />
+                              <e p="R$bool.class" t="Include" />
+                              <e p="R$color.class" t="Include" />
+                              <e p="R$dimen.class" t="Include" />
+                              <e p="R$drawable.class" t="Include" />
+                              <e p="R$id.class" t="Include" />
+                              <e p="R$integer.class" t="Include" />
+                              <e p="R$layout.class" t="Include" />
+                              <e p="R$string.class" t="Include" />
+                              <e p="R$style.class" t="Include" />
+                              <e p="R$styleable.class" t="Include" />
+                              <e p="R.class" t="Include" />
+                            </e>
+                          </e>
+                        </e>
+                      </e>
+                      <e p="com" t="Include">
+                        <e p="adminapp" t="Include">
+                          <e p="AnnotationList$AbstractFeature.class" t="Include" />
+                          <e p="AnnotationList$Feature.class" t="Include" />
+                          <e p="AnnotationList$InComingArg.class" t="Include" />
+                          <e p="AnnotationList$OnItemClickFROM.class" t="Include" />
+                          <e p="AnnotationList$OnItemClickTO.class" t="Include" />
+                          <e p="AnnotationList$OnLongItemClickFROM.class" t="Include" />
+                          <e p="AnnotationList$OnLongItemClickTO.class" t="Include" />
+                          <e p="AnnotationList$OutComingArg.class" t="Include" />
+                          <e p="AnnotationList.class" t="Include" />
+                          <e p="AttendedClientsActivity.class" t="Include" />
+                          <e p="ClientFormActivity$1.class" t="Include" />
+                          <e p="ClientFormActivity.class" t="Include" />
+                          <e p="Lecture.class" t="Include" />
+                          <e p="LectureEdition$1.class" t="Include" />
+                          <e p="LectureEdition.class" t="Include" />
+                          <e p="LectureListActivity$1.class" t="Include" />
+                          <e p="LectureListActivity.class" t="Include" />
+                          <e p="ServerConnectionInstallation" t="Include">
+                            <e p="IServerConnection.class" t="Include" />
+                            <e p="NoServerConnection.class" t="Include" />
+                            <e p="ServerConnection.class" t="Include" />
+                            <e p="ServerSetting.class" t="Include" />
+                          </e>
+                        </e>
+                        <e p="example" t="Include">
+                          <e p="polina" t="Include">
+                            <e p="adminapp" t="Include">
+                              <e p="BuildConfig.class" t="Include" />
+                              <e p="R$anim.class" t="Include" />
+                              <e p="R$animator.class" t="Include" />
+                              <e p="R$attr.class" t="Include" />
+                              <e p="R$bool.class" t="Include" />
+                              <e p="R$color.class" t="Include" />
+                              <e p="R$dimen.class" t="Include" />
+                              <e p="R$drawable.class" t="Include" />
+                              <e p="R$id.class" t="Include" />
+                              <e p="R$integer.class" t="Include" />
+                              <e p="R$layout.class" t="Include" />
+                              <e p="R$mipmap.class" t="Include" />
+                              <e p="R$string.class" t="Include" />
+                              <e p="R$style.class" t="Include" />
+                              <e p="R$styleable.class" t="Include" />
+                              <e p="R.class" t="Include" />
+                            </e>
+                          </e>
+                        </e>
+                      </e>
+                    </e>
+                  </e>
+                  <e p="incremental" t="Include">
+                    <e p="compileDebugAidl" t="Include">
+                      <e p="dependency.store" t="Include" />
+                    </e>
+                    <e p="debug-mergeJavaRes" t="Include">
+                      <e p="merge-state" t="Include" />
+                      <e p="zip-cache" t="Include">
+                        <e p="2fa0gujdJGH1sxeGHpofAqk5vSk=" t="Include" />
+                        <e p="47EGKd4q6WIzD3Ei3iOp_+AWvNo=" t="Include" />
+                        <e p="65RPoUqXf6Pvyvt1sVs5A6qq70A=" t="Include" />
+                        <e p="6KJFHJJBr4kXFGI7CrMAyZT6VZM=" t="Include" />
+                        <e p="85w3gMyEsJ6KfFzXqMcXyOI9clc=" t="Include" />
+                        <e p="8jNDucPImLCT1kMhzkxGPNd9txI=" t="Include" />
+                        <e p="_5Mthi2Q898YS_thWaKc_1wlM4o=" t="Include" />
+                        <e p="_hv_c0FhkBuEHsl1dWHIAFVQQwc=" t="Include" />
+                        <e p="_YlLBI+9A0XZfF0coFX1_Qd1gZ8=" t="Include" />
+                        <e p="baR4xy9Of54PBzXrwNV7vg3GV+g=" t="Include" />
+                        <e p="h8DGjTJDozU81llzN+HoHOZlcBo=" t="Include" />
+                        <e p="JCj2lwx6csd3Xpzz+3oB9hdVwPk=" t="Include" />
+                        <e p="kzCbdG+atTe2MACUQABnaud3bMg=" t="Include" />
+                        <e p="m70RRCoIySM6A5mApdLUJmPI+Pc=" t="Include" />
+                        <e p="MmLCM1t6cLSQzFImm7QkjMSQeq0=" t="Include" />
+                        <e p="Mx8IlF_rvIMZ4bYXIq2QZuHFP7k=" t="Include" />
+                        <e p="NgaMRBzqsDbyg9BdUx6XtXxwFB4=" t="Include" />
+                        <e p="nhhj3BZRnifpxhRICUAG1DYnjSQ=" t="Include" />
+                        <e p="nP8h11ihbwhSVzNP7yU4RiVPQrc=" t="Include" />
+                        <e p="Q05C_vgEIksswjlIKr3wP3umAK0=" t="Include" />
+                        <e p="RKdPnc4x9ItS9V1a8n2MptbXTSY=" t="Include" />
+                        <e p="SegZMT79nDCoDlAHB2z7nO8z5cQ=" t="Include" />
+                        <e p="Sj17xBQ5AAsoQVqKU_xezQ15BwM=" t="Include" />
+                        <e p="veYaZl+c4eakjClcnMc9ivSo3eA=" t="Include" />
+                        <e p="VkhVYNgynza4y2w53zLtCPXQvHg=" t="Include" />
+                        <e p="VkYwacm2HHChXxYKuhB7sK0FQgI=" t="Include" />
+                        <e p="zgsyatFFzr9gKpZoSRzzckggzR4=" t="Include" />
+                        <e p="zXhftb7FQK0fLcJWEG5DpKTsFoM=" t="Include" />
+                      </e>
+                    </e>
+                    <e p="debug-mergeJniLibs" t="Include">
+                      <e p="merge-state" t="Include" />
+                      <e p="zip-cache" t="Include">
+                        <e p="2fa0gujdJGH1sxeGHpofAqk5vSk=" t="Include" />
+                        <e p="47EGKd4q6WIzD3Ei3iOp_+AWvNo=" t="Include" />
+                        <e p="65RPoUqXf6Pvyvt1sVs5A6qq70A=" t="Include" />
+                        <e p="6KJFHJJBr4kXFGI7CrMAyZT6VZM=" t="Include" />
+                        <e p="85w3gMyEsJ6KfFzXqMcXyOI9clc=" t="Include" />
+                        <e p="8jNDucPImLCT1kMhzkxGPNd9txI=" t="Include" />
+                        <e p="_5Mthi2Q898YS_thWaKc_1wlM4o=" t="Include" />
+                        <e p="_hv_c0FhkBuEHsl1dWHIAFVQQwc=" t="Include" />
+                        <e p="_YlLBI+9A0XZfF0coFX1_Qd1gZ8=" t="Include" />
+                        <e p="baR4xy9Of54PBzXrwNV7vg3GV+g=" t="Include" />
+                        <e p="h8DGjTJDozU81llzN+HoHOZlcBo=" t="Include" />
+                        <e p="JCj2lwx6csd3Xpzz+3oB9hdVwPk=" t="Include" />
+                        <e p="kzCbdG+atTe2MACUQABnaud3bMg=" t="Include" />
+                        <e p="m70RRCoIySM6A5mApdLUJmPI+Pc=" t="Include" />
+                        <e p="MmLCM1t6cLSQzFImm7QkjMSQeq0=" t="Include" />
+                        <e p="Mx8IlF_rvIMZ4bYXIq2QZuHFP7k=" t="Include" />
+                        <e p="NgaMRBzqsDbyg9BdUx6XtXxwFB4=" t="Include" />
+                        <e p="nhhj3BZRnifpxhRICUAG1DYnjSQ=" t="Include" />
+                        <e p="nP8h11ihbwhSVzNP7yU4RiVPQrc=" t="Include" />
+                        <e p="Q05C_vgEIksswjlIKr3wP3umAK0=" t="Include" />
+                        <e p="RKdPnc4x9ItS9V1a8n2MptbXTSY=" t="Include" />
+                        <e p="SegZMT79nDCoDlAHB2z7nO8z5cQ=" t="Include" />
+                        <e p="Sj17xBQ5AAsoQVqKU_xezQ15BwM=" t="Include" />
+                        <e p="veYaZl+c4eakjClcnMc9ivSo3eA=" t="Include" />
+                        <e p="VkhVYNgynza4y2w53zLtCPXQvHg=" t="Include" />
+                        <e p="VkYwacm2HHChXxYKuhB7sK0FQgI=" t="Include" />
+                        <e p="zgsyatFFzr9gKpZoSRzzckggzR4=" t="Include" />
+                        <e p="zXhftb7FQK0fLcJWEG5DpKTsFoM=" t="Include" />
+                      </e>
+                    </e>
+                    <e p="mergeDebugAssets" t="Include">
+                      <e p="merger.xml" t="Include" />
+                    </e>
+                    <e p="mergeDebugJniLibFolders" t="Include">
+                      <e p="merger.xml" t="Include" />
+                    </e>
+                    <e p="mergeDebugResources" t="Include">
+                      <e p="compile-file-map.properties" t="Include" />
+                      <e p="merged.dir" t="Include">
+                        <e p="values" t="Include">
+                          <e p="values.xml" t="Include" />
+                        </e>
+                        <e p="values-af" t="Include">
+                          <e p="values-af.xml" t="Include" />
+                        </e>
+                        <e p="values-am" t="Include">
+                          <e p="values-am.xml" t="Include" />
+                        </e>
+                        <e p="values-ar" t="Include">
+                          <e p="values-ar.xml" t="Include" />
+                        </e>
+                        <e p="values-az" t="Include">
+                          <e p="values-az.xml" t="Include" />
+                        </e>
+                        <e p="values-b+sr+Latn" t="Include">
+                          <e p="values-b+sr+Latn.xml" t="Include" />
+                        </e>
+                        <e p="values-be" t="Include">
+                          <e p="values-be.xml" t="Include" />
+                        </e>
+                        <e p="values-bg" t="Include">
+                          <e p="values-bg.xml" t="Include" />
+                        </e>
+                        <e p="values-bn" t="Include">
+                          <e p="values-bn.xml" t="Include" />
+                        </e>
+                        <e p="values-bs" t="Include">
+                          <e p="values-bs.xml" t="Include" />
+                        </e>
+                        <e p="values-ca" t="Include">
+                          <e p="values-ca.xml" t="Include" />
+                        </e>
+                        <e p="values-cs" t="Include">
+                          <e p="values-cs.xml" t="Include" />
+                        </e>
+                        <e p="values-da" t="Include">
+                          <e p="values-da.xml" t="Include" />
+                        </e>
+                        <e p="values-de" t="Include">
+                          <e p="values-de.xml" t="Include" />
+                        </e>
+                        <e p="values-el" t="Include">
+                          <e p="values-el.xml" t="Include" />
+                        </e>
+                        <e p="values-en-rAU" t="Include">
+                          <e p="values-en-rAU.xml" t="Include" />
+                        </e>
+                        <e p="values-en-rCA" t="Include">
+                          <e p="values-en-rCA.xml" t="Include" />
+                        </e>
+                        <e p="values-en-rGB" t="Include">
+                          <e p="values-en-rGB.xml" t="Include" />
+                        </e>
+                        <e p="values-en-rIN" t="Include">
+                          <e p="values-en-rIN.xml" t="Include" />
+                        </e>
+                        <e p="values-en-rXC" t="Include">
+                          <e p="values-en-rXC.xml" t="Include" />
+                        </e>
+                        <e p="values-es" t="Include">
+                          <e p="values-es.xml" t="Include" />
+                        </e>
+                        <e p="values-es-rUS" t="Include">
+                          <e p="values-es-rUS.xml" t="Include" />
+                        </e>
+                        <e p="values-et" t="Include">
+                          <e p="values-et.xml" t="Include" />
+                        </e>
+                        <e p="values-eu" t="Include">
+                          <e p="values-eu.xml" t="Include" />
+                        </e>
+                        <e p="values-fa" t="Include">
+                          <e p="values-fa.xml" t="Include" />
+                        </e>
+                        <e p="values-fi" t="Include">
+                          <e p="values-fi.xml" t="Include" />
+                        </e>
+                        <e p="values-fr" t="Include">
+                          <e p="values-fr.xml" t="Include" />
+                        </e>
+                        <e p="values-fr-rCA" t="Include">
+                          <e p="values-fr-rCA.xml" t="Include" />
+                        </e>
+                        <e p="values-gl" t="Include">
+                          <e p="values-gl.xml" t="Include" />
+                        </e>
+                        <e p="values-gu" t="Include">
+                          <e p="values-gu.xml" t="Include" />
+                        </e>
+                        <e p="values-h720dp-v13" t="Include">
+                          <e p="values-h720dp-v13.xml" t="Include" />
+                        </e>
+                        <e p="values-hdpi-v4" t="Include">
+                          <e p="values-hdpi-v4.xml" t="Include" />
+                        </e>
+                        <e p="values-hi" t="Include">
+                          <e p="values-hi.xml" t="Include" />
+                        </e>
+                        <e p="values-hr" t="Include">
+                          <e p="values-hr.xml" t="Include" />
+                        </e>
+                        <e p="values-hu" t="Include">
+                          <e p="values-hu.xml" t="Include" />
+                        </e>
+                        <e p="values-hy" t="Include">
+                          <e p="values-hy.xml" t="Include" />
+                        </e>
+                        <e p="values-in" t="Include">
+                          <e p="values-in.xml" t="Include" />
+                        </e>
+                        <e p="values-is" t="Include">
+                          <e p="values-is.xml" t="Include" />
+                        </e>
+                        <e p="values-it" t="Include">
+                          <e p="values-it.xml" t="Include" />
+                        </e>
+                        <e p="values-iw" t="Include">
+                          <e p="values-iw.xml" t="Include" />
+                        </e>
+                        <e p="values-ja" t="Include">
+                          <e p="values-ja.xml" t="Include" />
+                        </e>
+                        <e p="values-ka" t="Include">
+                          <e p="values-ka.xml" t="Include" />
+                        </e>
+                        <e p="values-kk" t="Include">
+                          <e p="values-kk.xml" t="Include" />
+                        </e>
+                        <e p="values-km" t="Include">
+                          <e p="values-km.xml" t="Include" />
+                        </e>
+                        <e p="values-kn" t="Include">
+                          <e p="values-kn.xml" t="Include" />
+                        </e>
+                        <e p="values-ko" t="Include">
+                          <e p="values-ko.xml" t="Include" />
+                        </e>
+                        <e p="values-ky" t="Include">
+                          <e p="values-ky.xml" t="Include" />
+                        </e>
+                        <e p="values-land" t="Include">
+                          <e p="values-land.xml" t="Include" />
+                        </e>
+                        <e p="values-large-v4" t="Include">
+                          <e p="values-large-v4.xml" t="Include" />
+                        </e>
+                        <e p="values-ldltr-v21" t="Include">
+                          <e p="values-ldltr-v21.xml" t="Include" />
+                        </e>
+                        <e p="values-lo" t="Include">
+                          <e p="values-lo.xml" t="Include" />
+                        </e>
+                        <e p="values-lt" t="Include">
+                          <e p="values-lt.xml" t="Include" />
+                        </e>
+                        <e p="values-lv" t="Include">
+                          <e p="values-lv.xml" t="Include" />
+                        </e>
+                        <e p="values-mk" t="Include">
+                          <e p="values-mk.xml" t="Include" />
+                        </e>
+                        <e p="values-ml" t="Include">
+                          <e p="values-ml.xml" t="Include" />
+                        </e>
+                        <e p="values-mn" t="Include">
+                          <e p="values-mn.xml" t="Include" />
+                        </e>
+                        <e p="values-mr" t="Include">
+                          <e p="values-mr.xml" t="Include" />
+                        </e>
+                        <e p="values-ms" t="Include">
+                          <e p="values-ms.xml" t="Include" />
+                        </e>
+                        <e p="values-my" t="Include">
+                          <e p="values-my.xml" t="Include" />
+                        </e>
+                        <e p="values-nb" t="Include">
+                          <e p="values-nb.xml" t="Include" />
+                        </e>
+                        <e p="values-ne" t="Include">
+                          <e p="values-ne.xml" t="Include" />
+                        </e>
+                        <e p="values-night-v8" t="Include">
+                          <e p="values-night-v8.xml" t="Include" />
+                        </e>
+                        <e p="values-nl" t="Include">
+                          <e p="values-nl.xml" t="Include" />
+                        </e>
+                        <e p="values-pa" t="Include">
+                          <e p="values-pa.xml" t="Include" />
+                        </e>
+                        <e p="values-pl" t="Include">
+                          <e p="values-pl.xml" t="Include" />
+                        </e>
+                        <e p="values-port" t="Include">
+                          <e p="values-port.xml" t="Include" />
+                        </e>
+                        <e p="values-pt" t="Include">
+                          <e p="values-pt.xml" t="Include" />
+                        </e>
+                        <e p="values-pt-rBR" t="Include">
+                          <e p="values-pt-rBR.xml" t="Include" />
+                        </e>
+                        <e p="values-pt-rPT" t="Include">
+                          <e p="values-pt-rPT.xml" t="Include" />
+                        </e>
+                        <e p="values-ro" t="Include">
+                          <e p="values-ro.xml" t="Include" />
+                        </e>
+                        <e p="values-ru" t="Include">
+                          <e p="values-ru.xml" t="Include" />
+                        </e>
+                        <e p="values-si" t="Include">
+                          <e p="values-si.xml" t="Include" />
+                        </e>
+                        <e p="values-sk" t="Include">
+                          <e p="values-sk.xml" t="Include" />
+                        </e>
+                        <e p="values-sl" t="Include">
+                          <e p="values-sl.xml" t="Include" />
+                        </e>
+                        <e p="values-sq" t="Include">
+                          <e p="values-sq.xml" t="Include" />
+                        </e>
+                        <e p="values-sr" t="Include">
+                          <e p="values-sr.xml" t="Include" />
+                        </e>
+                        <e p="values-sv" t="Include">
+                          <e p="values-sv.xml" t="Include" />
+                        </e>
+                        <e p="values-sw" t="Include">
+                          <e p="values-sw.xml" t="Include" />
+                        </e>
+                        <e p="values-sw600dp-v13" t="Include">
+                          <e p="values-sw600dp-v13.xml" t="Include" />
+                        </e>
+                        <e p="values-ta" t="Include">
+                          <e p="values-ta.xml" t="Include" />
+                        </e>
+                        <e p="values-te" t="Include">
+                          <e p="values-te.xml" t="Include" />
+                        </e>
+                        <e p="values-th" t="Include">
+                          <e p="values-th.xml" t="Include" />
+                        </e>
+                        <e p="values-tl" t="Include">
+                          <e p="values-tl.xml" t="Include" />
+                        </e>
+                        <e p="values-tr" t="Include">
+                          <e p="values-tr.xml" t="Include" />
+                        </e>
+                        <e p="values-uk" t="Include">
+                          <e p="values-uk.xml" t="Include" />
+                        </e>
+                        <e p="values-ur" t="Include">
+                          <e p="values-ur.xml" t="Include" />
+                        </e>
+                        <e p="values-uz" t="Include">
+                          <e p="values-uz.xml" t="Include" />
+                        </e>
+                        <e p="values-v16" t="Include">
+                          <e p="values-v16.xml" t="Include" />
+                        </e>
+                        <e p="values-v17" t="Include">
+                          <e p="values-v17.xml" t="Include" />
+                        </e>
+                        <e p="values-v18" t="Include">
+                          <e p="values-v18.xml" t="Include" />
+                        </e>
+                        <e p="values-v21" t="Include">
+                          <e p="values-v21.xml" t="Include" />
+                        </e>
+                        <e p="values-v22" t="Include">
+                          <e p="values-v22.xml" t="Include" />
+                        </e>
+                        <e p="values-v23" t="Include">
+                          <e p="values-v23.xml" t="Include" />
+                        </e>
+                        <e p="values-v24" t="Include">
+                          <e p="values-v24.xml" t="Include" />
+                        </e>
+                        <e p="values-v25" t="Include">
+                          <e p="values-v25.xml" t="Include" />
+                        </e>
+                        <e p="values-v26" t="Include">
+                          <e p="values-v26.xml" t="Include" />
+                        </e>
+                        <e p="values-vi" t="Include">
+                          <e p="values-vi.xml" t="Include" />
+                        </e>
+                        <e p="values-watch-v20" t="Include">
+                          <e p="values-watch-v20.xml" t="Include" />
+                        </e>
+                        <e p="values-xlarge-v4" t="Include">
+                          <e p="values-xlarge-v4.xml" t="Include" />
+                        </e>
+                        <e p="values-zh-rCN" t="Include">
+                          <e p="values-zh-rCN.xml" t="Include" />
+                        </e>
+                        <e p="values-zh-rHK" t="Include">
+                          <e p="values-zh-rHK.xml" t="Include" />
+                        </e>
+                        <e p="values-zh-rTW" t="Include">
+                          <e p="values-zh-rTW.xml" t="Include" />
+                        </e>
+                        <e p="values-zu" t="Include">
+                          <e p="values-zu.xml" t="Include" />
+                        </e>
+                      </e>
+                      <e p="merger.xml" t="Include" />
+                    </e>
+                    <e p="mergeDebugShaders" t="Include">
+                      <e p="merger.xml" t="Include" />
+                    </e>
+                    <e p="packageDebug" t="Include">
+                      <e p="tmp" t="Include">
+                        <e p="Debug" t="Include">
+                          <e p="dex-renamer-state.txt" t="Include" />
+                          <e p="file-input-save-data.txt" t="Include" />
+                          <e p="zip-cache" t="Include">
+                            <e p="7yvjiFe8y2H6Nh0lZkuV_0UCYss=" t="Include" />
+                            <e p="yTbs8ubrinByJqP2SmKJxGr_KK4=" t="Include" />
+                          </e>
+                        </e>
+                      </e>
+                    </e>
+                  </e>
+                  <e p="javaPrecompile" t="Include">
+                    <e p="Debug" t="Include">
+                      <e p="annotationProcessors.json" t="Include" />
+                    </e>
+                  </e>
+                  <e p="manifests" t="Include">
+                    <e p="density" t="Include">
+                      <e p="Debug" t="Include">
+                        <e p="output.json" t="Include" />
+                      </e>
+                    </e>
+                    <e p="full" t="Include">
+                      <e p="Debug" t="Include">
+                        <e p="AndroidManifest.xml" t="Include" />
+                        <e p="output.json" t="Include" />
+                      </e>
+                    </e>
+                    <e p="instant-run" t="Include">
+                      <e p="Debug" t="Include">
+                        <e p="output.json" t="Include" />
+                      </e>
+                    </e>
+                  </e>
+                  <e p="processing-tools" t="Include">
+                    <e p="runtime-deps" t="Include">
+                      <e p="Debug" t="Include">
+                        <e p="desugar_try_with_resources.jar" t="Include" />
+                      </e>
+                    </e>
+                  </e>
+                  <e p="res" t="Include">
+                    <e p="Debug" t="Include">
+                      <e p="output.json" t="Include" />
+                      <e p="resources-debug.ap_" t="Include" />
+                    </e>
+                    <e p="merged" t="Include">
+                      <e p="Debug" t="Include">
+                        <e p="anim-v21_design_bottom_sheet_slide_in.xml.flat" t="Include" />
+                        <e p="anim-v21_design_bottom_sheet_slide_out.xml.flat" t="Include" />
+                        <e p="anim_abc_fade_in.xml.flat" t="Include" />
+                        <e p="anim_abc_fade_out.xml.flat" t="Include" />
+                        <e p="anim_abc_grow_fade_in_from_bottom.xml.flat" t="Include" />
+                        <e p="anim_abc_popup_enter.xml.flat" t="Include" />
+                        <e p="anim_abc_popup_exit.xml.flat" t="Include" />
+                        <e p="anim_abc_shrink_fade_out_from_bottom.xml.flat" t="Include" />
+                        <e p="anim_abc_slide_in_bottom.xml.flat" t="Include" />
+                        <e p="anim_abc_slide_in_top.xml.flat" t="Include" />
+                        <e p="anim_abc_slide_out_bottom.xml.flat" t="Include" />
+                        <e p="anim_abc_slide_out_top.xml.flat" t="Include" />
+                        <e p="anim_abc_tooltip_enter.xml.flat" t="Include" />
+                        <e p="anim_abc_tooltip_exit.xml.flat" t="Include" />
+                        <e p="anim_design_bottom_sheet_slide_in.xml.flat" t="Include" />
+                        <e p="anim_design_bottom_sheet_slide_out.xml.flat" t="Include" />
+                        <e p="anim_design_snackbar_in.xml.flat" t="Include" />
+                        <e p="anim_design_snackbar_out.xml.flat" t="Include" />
+                        <e p="animator-v21_design_appbar_state_list_animator.xml.flat" t="Include" />
+                        <e p="color-v21_abc_btn_colored_borderless_text_material.xml.flat" t="Include" />
+                        <e p="color-v23_abc_btn_colored_borderless_text_material.xml.flat" t="Include" />
+                        <e p="color-v23_abc_btn_colored_text_material.xml.flat" t="Include" />
+                        <e p="color-v23_abc_color_highlight_material.xml.flat" t="Include" />
+                        <e p="color-v23_abc_tint_btn_checkable.xml.flat" t="Include" />
+                        <e p="color-v23_abc_tint_default.xml.flat" t="Include" />
+                        <e p="color-v23_abc_tint_edittext.xml.flat" t="Include" />
+                        <e p="color-v23_abc_tint_seek_thumb.xml.flat" t="Include" />
+                        <e p="color-v23_abc_tint_spinner.xml.flat" t="Include" />
+                        <e p="color-v23_abc_tint_switch_track.xml.flat" t="Include" />
+                        <e p="color-v23_design_tint_password_toggle.xml.flat" t="Include" />
+                        <e p="color_abc_background_cache_hint_selector_material_dark.xml.flat" t="Include" />
+                        <e p="color_abc_background_cache_hint_selector_material_light.xml.flat" t="Include" />
+                        <e p="color_abc_btn_colored_borderless_text_material.xml.flat" t="Include" />
+                        <e p="color_abc_btn_colored_text_material.xml.flat" t="Include" />
+                        <e p="color_abc_hint_foreground_material_dark.xml.flat" t="Include" />
+                        <e p="color_abc_hint_foreground_material_light.xml.flat" t="Include" />
+                        <e p="color_abc_primary_text_disable_only_material_dark.xml.flat" t="Include" />
+                        <e p="color_abc_primary_text_disable_only_material_light.xml.flat" t="Include" />
+                        <e p="color_abc_primary_text_material_dark.xml.flat" t="Include" />
+                        <e p="color_abc_primary_text_material_light.xml.flat" t="Include" />
+                        <e p="color_abc_search_url_text.xml.flat" t="Include" />
+                        <e p="color_abc_secondary_text_material_dark.xml.flat" t="Include" />
+                        <e p="color_abc_secondary_text_material_light.xml.flat" t="Include" />
+                        <e p="color_abc_tint_btn_checkable.xml.flat" t="Include" />
+                        <e p="color_abc_tint_default.xml.flat" t="Include" />
+                        <e p="color_abc_tint_edittext.xml.flat" t="Include" />
+                        <e p="color_abc_tint_seek_thumb.xml.flat" t="Include" />
+                        <e p="color_abc_tint_spinner.xml.flat" t="Include" />
+                        <e p="color_abc_tint_switch_track.xml.flat" t="Include" />
+                        <e p="color_design_error.xml.flat" t="Include" />
+                        <e p="color_design_tint_password_toggle.xml.flat" t="Include" />
+                        <e p="color_switch_thumb_material_dark.xml.flat" t="Include" />
+                        <e p="color_switch_thumb_material_light.xml.flat" t="Include" />
+                        <e p="drawable-anydpi-v21_design_ic_visibility.xml.flat" t="Include" />
+                        <e p="drawable-anydpi-v21_design_ic_visibility_off.xml.flat" t="Include" />
+                        <e p="drawable-anydpi-v21_ic_add_black_24dp.xml.flat" t="Include" />
+                        <e p="drawable-anydpi-v21_ic_launcher_background.xml.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_list_focused_holo.9.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_design_ic_visibility.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_design_ic_visibility_off.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_notification_bg_low_normal.9.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_notification_bg_normal.9.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat" t="Include" />
+                        <e p="drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat" t="Include" />
+                        <e p="drawable-hdpi_ic_add_black_24dp.png.flat" t="Include" />
+                        <e p="drawable-hdpi_ic_launcher_background.png.flat" t="Include" />
+                        <e p="drawable-ldpi_ic_add_black_24dp.png.flat" t="Include" />
+                        <e p="drawable-ldpi_ic_launcher_background.png.flat" t="Include" />
+                        <e p="drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat" t="Include" />
+                        <e p="drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat" t="Include" />
+                        <e p="drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat" t="Include" />
+                        <e p="drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat" t="Include" />
+                        <e p="drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat" t="Include" />
+                        <e p="drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat" t="Include" />
+                        <e p="drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat" t="Include" />
+                        <e p="drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat" t="Include" />
+                        <e p="drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat" t="Include" />
+                        <e p="drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat" t="Include" />
+                        <e p="drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_list_focused_holo.9.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_design_ic_visibility.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_design_ic_visibility_off.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_notification_bg_low_normal.9.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_notification_bg_normal.9.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat" t="Include" />
+                        <e p="drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat" t="Include" />
+                        <e p="drawable-mdpi_ic_add_black_24dp.png.flat" t="Include" />
+                        <e p="drawable-mdpi_ic_launcher_background.png.flat" t="Include" />
+                        <e p="drawable-v21_abc_action_bar_item_background_material.xml.flat" t="Include" />
+                        <e p="drawable-v21_abc_btn_colored_material.xml.flat" t="Include" />
+                        <e p="drawable-v21_abc_edit_text_material.xml.flat" t="Include" />
+                        <e p="drawable-v21_avd_hide_password.xml.flat" t="Include" />
+                        <e p="drawable-v21_avd_show_password.xml.flat" t="Include" />
+                        <e p="drawable-v21_design_bottom_navigation_item_background.xml.flat" t="Include" />
+                        <e p="drawable-v21_design_password_eye.xml.flat" t="Include" />
+                        <e p="drawable-v21_notification_action_background.xml.flat" t="Include" />
+                        <e p="drawable-v23_abc_control_background_material.xml.flat" t="Include" />
+                        <e p="drawable-v24_ic_launcher_foreground.xml.flat" t="Include" />
+                        <e p="drawable-watch-v20_abc_dialog_material_background.xml.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_design_ic_visibility.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_design_ic_visibility_off.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_notification_bg_normal.9.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat" t="Include" />
+                        <e p="drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat" t="Include" />
+                        <e p="drawable-xhdpi_ic_add_black_24dp.png.flat" t="Include" />
+                        <e p="drawable-xhdpi_ic_launcher_background.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_design_ic_visibility.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi-v4_design_ic_visibility_off.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi_ic_add_black_24dp.png.flat" t="Include" />
+                        <e p="drawable-xxhdpi_ic_launcher_background.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi-v4_design_ic_visibility.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi-v4_design_ic_visibility_off.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi_ic_add_black_24dp.png.flat" t="Include" />
+                        <e p="drawable-xxxhdpi_ic_launcher_background.png.flat" t="Include" />
+                        <e p="drawable_abc_btn_borderless_material.xml.flat" t="Include" />
+                        <e p="drawable_abc_btn_check_material.xml.flat" t="Include" />
+                        <e p="drawable_abc_btn_colored_material.xml.flat" t="Include" />
+                        <e p="drawable_abc_btn_default_mtrl_shape.xml.flat" t="Include" />
+                        <e p="drawable_abc_btn_radio_material.xml.flat" t="Include" />
+                        <e p="drawable_abc_cab_background_internal_bg.xml.flat" t="Include" />
+                        <e p="drawable_abc_cab_background_top_material.xml.flat" t="Include" />
+                        <e p="drawable_abc_dialog_material_background.xml.flat" t="Include" />
+                        <e p="drawable_abc_edit_text_material.xml.flat" t="Include" />
+                        <e p="drawable_abc_ic_ab_back_material.xml.flat" t="Include" />
+                        <e p="drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat" t="Include" />
+                        <e p="drawable_abc_ic_clear_material.xml.flat" t="Include" />
+                        <e p="drawable_abc_ic_go_search_api_material.xml.flat" t="Include" />
+                        <e p="drawable_abc_ic_menu_overflow_material.xml.flat" t="Include" />
+                        <e p="drawable_abc_ic_search_api_material.xml.flat" t="Include" />
+                        <e p="drawable_abc_ic_voice_search_api_material.xml.flat" t="Include" />
+                        <e p="drawable_abc_item_background_holo_dark.xml.flat" t="Include" />
+                        <e p="drawable_abc_item_background_holo_light.xml.flat" t="Include" />
+                        <e p="drawable_abc_list_selector_background_transition_holo_dark.xml.flat" t="Include" />
+                        <e p="drawable_abc_list_selector_background_transition_holo_light.xml.flat" t="Include" />
+                        <e p="drawable_abc_list_selector_holo_dark.xml.flat" t="Include" />
+                        <e p="drawable_abc_list_selector_holo_light.xml.flat" t="Include" />
+                        <e p="drawable_abc_ratingbar_indicator_material.xml.flat" t="Include" />
+                        <e p="drawable_abc_ratingbar_material.xml.flat" t="Include" />
+                        <e p="drawable_abc_ratingbar_small_material.xml.flat" t="Include" />
+                        <e p="drawable_abc_seekbar_thumb_material.xml.flat" t="Include" />
+                        <e p="drawable_abc_seekbar_tick_mark_material.xml.flat" t="Include" />
+                        <e p="drawable_abc_seekbar_track_material.xml.flat" t="Include" />
+                        <e p="drawable_abc_spinner_textfield_background_material.xml.flat" t="Include" />
+                        <e p="drawable_abc_switch_thumb_material.xml.flat" t="Include" />
+                        <e p="drawable_abc_tab_indicator_material.xml.flat" t="Include" />
+                        <e p="drawable_abc_text_cursor_material.xml.flat" t="Include" />
+                        <e p="drawable_abc_textfield_search_material.xml.flat" t="Include" />
+                        <e p="drawable_abc_vector_test.xml.flat" t="Include" />
+                        <e p="drawable_design_bottom_navigation_item_background.xml.flat" t="Include" />
+                        <e p="drawable_design_fab_background.xml.flat" t="Include" />
+                        <e p="drawable_design_password_eye.xml.flat" t="Include" />
+                        <e p="drawable_design_snackbar_background.xml.flat" t="Include" />
+                        <e p="drawable_navigation_empty_icon.xml.flat" t="Include" />
+                        <e p="drawable_notification_bg.xml.flat" t="Include" />
+                        <e p="drawable_notification_bg_low.xml.flat" t="Include" />
+                        <e p="drawable_notification_icon_background.xml.flat" t="Include" />
+                        <e p="drawable_notification_tile_bg.xml.flat" t="Include" />
+                        <e p="drawable_tooltip_frame_dark.xml.flat" t="Include" />
+                        <e p="drawable_tooltip_frame_light.xml.flat" t="Include" />
+                        <e p="layout-sw600dp-v13_design_layout_snackbar.xml.flat" t="Include" />
+                        <e p="layout-v16_notification_template_custom_big.xml.flat" t="Include" />
+                        <e p="layout-v21_notification_action.xml.flat" t="Include" />
+                        <e p="layout-v21_notification_action_tombstone.xml.flat" t="Include" />
+                        <e p="layout-v21_notification_template_custom_big.xml.flat" t="Include" />
+                        <e p="layout-v21_notification_template_icon_group.xml.flat" t="Include" />
+                        <e p="layout-v26_abc_screen_toolbar.xml.flat" t="Include" />
+                        <e p="layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat" t="Include" />
+                        <e p="layout-watch-v20_abc_alert_dialog_title_material.xml.flat" t="Include" />
+                        <e p="layout_abc_action_bar_title_item.xml.flat" t="Include" />
+                        <e p="layout_abc_action_bar_up_container.xml.flat" t="Include" />
+                        <e p="layout_abc_action_menu_item_layout.xml.flat" t="Include" />
+                        <e p="layout_abc_action_menu_layout.xml.flat" t="Include" />
+                        <e p="layout_abc_action_mode_bar.xml.flat" t="Include" />
+                        <e p="layout_abc_action_mode_close_item_material.xml.flat" t="Include" />
+                        <e p="layout_abc_activity_chooser_view.xml.flat" t="Include" />
+                        <e p="layout_abc_activity_chooser_view_list_item.xml.flat" t="Include" />
+                        <e p="layout_abc_alert_dialog_button_bar_material.xml.flat" t="Include" />
+                        <e p="layout_abc_alert_dialog_material.xml.flat" t="Include" />
+                        <e p="layout_abc_alert_dialog_title_material.xml.flat" t="Include" />
+                        <e p="layout_abc_dialog_title_material.xml.flat" t="Include" />
+                        <e p="layout_abc_expanded_menu_layout.xml.flat" t="Include" />
+                        <e p="layout_abc_list_menu_item_checkbox.xml.flat" t="Include" />
+                        <e p="layout_abc_list_menu_item_icon.xml.flat" t="Include" />
+                        <e p="layout_abc_list_menu_item_layout.xml.flat" t="Include" />
+                        <e p="layout_abc_list_menu_item_radio.xml.flat" t="Include" />
+                        <e p="layout_abc_popup_menu_header_item_layout.xml.flat" t="Include" />
+                        <e p="layout_abc_popup_menu_item_layout.xml.flat" t="Include" />
+                        <e p="layout_abc_screen_content_include.xml.flat" t="Include" />
+                        <e p="layout_abc_screen_simple.xml.flat" t="Include" />
+                        <e p="layout_abc_screen_simple_overlay_action_mode.xml.flat" t="Include" />
+                        <e p="layout_abc_screen_toolbar.xml.flat" t="Include" />
+                        <e p="layout_abc_search_dropdown_item_icons_2line.xml.flat" t="Include" />
+                        <e p="layout_abc_search_view.xml.flat" t="Include" />
+                        <e p="layout_abc_select_dialog_material.xml.flat" t="Include" />
+                        <e p="layout_abc_tooltip.xml.flat" t="Include" />
+                        <e p="layout_activity_attended_clients.xml.flat" t="Include" />
+                        <e p="layout_activity_attented_client_form.xml.flat" t="Include" />
+                        <e p="layout_activity_common_settings.xml.flat" t="Include" />
+                        <e p="layout_activity_lecture_edition.xml.flat" t="Include" />
+                        <e p="layout_activity_main.xml.flat" t="Include" />
+                        <e p="layout_activity_runner.xml.flat" t="Include" />
+                        <e p="layout_design_bottom_navigation_item.xml.flat" t="Include" />
+                        <e p="layout_design_bottom_sheet_dialog.xml.flat" t="Include" />
+                        <e p="layout_design_layout_snackbar.xml.flat" t="Include" />
+                        <e p="layout_design_layout_snackbar_include.xml.flat" t="Include" />
+                        <e p="layout_design_layout_tab_icon.xml.flat" t="Include" />
+                        <e p="layout_design_layout_tab_text.xml.flat" t="Include" />
+                        <e p="layout_design_menu_item_action_area.xml.flat" t="Include" />
+                        <e p="layout_design_navigation_item.xml.flat" t="Include" />
+                        <e p="layout_design_navigation_item_header.xml.flat" t="Include" />
+                        <e p="layout_design_navigation_item_separator.xml.flat" t="Include" />
+                        <e p="layout_design_navigation_item_subheader.xml.flat" t="Include" />
+                        <e p="layout_design_navigation_menu.xml.flat" t="Include" />
+                        <e p="layout_design_navigation_menu_item.xml.flat" t="Include" />
+                        <e p="layout_design_text_input_password_icon.xml.flat" t="Include" />
+                        <e p="layout_notification_action.xml.flat" t="Include" />
+                        <e p="layout_notification_action_tombstone.xml.flat" t="Include" />
+                        <e p="layout_notification_media_action.xml.flat" t="Include" />
+                        <e p="layout_notification_media_cancel_action.xml.flat" t="Include" />
+                        <e p="layout_notification_template_big_media.xml.flat" t="Include" />
+                        <e p="layout_notification_template_big_media_custom.xml.flat" t="Include" />
+                        <e p="layout_notification_template_big_media_narrow.xml.flat" t="Include" />
+                        <e p="layout_notification_template_big_media_narrow_custom.xml.flat" t="Include" />
+                        <e p="layout_notification_template_custom_big.xml.flat" t="Include" />
+                        <e p="layout_notification_template_icon_group.xml.flat" t="Include" />
+                        <e p="layout_notification_template_lines_media.xml.flat" t="Include" />
+                        <e p="layout_notification_template_media.xml.flat" t="Include" />
+                        <e p="layout_notification_template_media_custom.xml.flat" t="Include" />
+                        <e p="layout_notification_template_part_chronometer.xml.flat" t="Include" />
+                        <e p="layout_notification_template_part_time.xml.flat" t="Include" />
+                        <e p="layout_select_dialog_item_material.xml.flat" t="Include" />
+                        <e p="layout_select_dialog_multichoice_material.xml.flat" t="Include" />
+                        <e p="layout_select_dialog_singlechoice_material.xml.flat" t="Include" />
+                        <e p="layout_support_simple_spinner_dropdown_item.xml.flat" t="Include" />
+                        <e p="mipmap-anydpi-v26_ic_launcher.xml.flat" t="Include" />
+                        <e p="mipmap-anydpi-v26_ic_launcher_round.xml.flat" t="Include" />
+                        <e p="mipmap-hdpi_ic_launcher.png.flat" t="Include" />
+                        <e p="mipmap-hdpi_ic_launcher_round.png.flat" t="Include" />
+                        <e p="mipmap-mdpi_ic_launcher.png.flat" t="Include" />
+                        <e p="mipmap-mdpi_ic_launcher_round.png.flat" t="Include" />
+                        <e p="mipmap-xhdpi_ic_launcher.png.flat" t="Include" />
+                        <e p="mipmap-xhdpi_ic_launcher_round.png.flat" t="Include" />
+                        <e p="mipmap-xxhdpi_ic_launcher.png.flat" t="Include" />
+                        <e p="mipmap-xxhdpi_ic_launcher_round.png.flat" t="Include" />
+                        <e p="mipmap-xxxhdpi_ic_launcher.png.flat" t="Include" />
+                        <e p="mipmap-xxxhdpi_ic_launcher_round.png.flat" t="Include" />
+                        <e p="values-af_values-af.arsc.flat" t="Include" />
+                        <e p="values-am_values-am.arsc.flat" t="Include" />
+                        <e p="values-ar_values-ar.arsc.flat" t="Include" />
+                        <e p="values-az_values-az.arsc.flat" t="Include" />
+                        <e p="values-b+sr+Latn_values-b+sr+Latn.arsc.flat" t="Include" />
+                        <e p="values-be_values-be.arsc.flat" t="Include" />
+                        <e p="values-bg_values-bg.arsc.flat" t="Include" />
+                        <e p="values-bn_values-bn.arsc.flat" t="Include" />
+                        <e p="values-bs_values-bs.arsc.flat" t="Include" />
+                        <e p="values-ca_values-ca.arsc.flat" t="Include" />
+                        <e p="values-cs_values-cs.arsc.flat" t="Include" />
+                        <e p="values-da_values-da.arsc.flat" t="Include" />
+                        <e p="values-de_values-de.arsc.flat" t="Include" />
+                        <e p="values-el_values-el.arsc.flat" t="Include" />
+                        <e p="values-en-rAU_values-en-rAU.arsc.flat" t="Include" />
+                        <e p="values-en-rCA_values-en-rCA.arsc.flat" t="Include" />
+                        <e p="values-en-rGB_values-en-rGB.arsc.flat" t="Include" />
+                        <e p="values-en-rIN_values-en-rIN.arsc.flat" t="Include" />
+                        <e p="values-en-rXC_values-en-rXC.arsc.flat" t="Include" />
+                        <e p="values-es-rUS_values-es-rUS.arsc.flat" t="Include" />
+                        <e p="values-es_values-es.arsc.flat" t="Include" />
+                        <e p="values-et_values-et.arsc.flat" t="Include" />
+                        <e p="values-eu_values-eu.arsc.flat" t="Include" />
+                        <e p="values-fa_values-fa.arsc.flat" t="Include" />
+                        <e p="values-fi_values-fi.arsc.flat" t="Include" />
+                        <e p="values-fr-rCA_values-fr-rCA.arsc.flat" t="Include" />
+                        <e p="values-fr_values-fr.arsc.flat" t="Include" />
+                        <e p="values-gl_values-gl.arsc.flat" t="Include" />
+                        <e p="values-gu_values-gu.arsc.flat" t="Include" />
+                        <e p="values-h720dp-v13_values-h720dp-v13.arsc.flat" t="Include" />
+                        <e p="values-hdpi-v4_values-hdpi-v4.arsc.flat" t="Include" />
+                        <e p="values-hi_values-hi.arsc.flat" t="Include" />
+                        <e p="values-hr_values-hr.arsc.flat" t="Include" />
+                        <e p="values-hu_values-hu.arsc.flat" t="Include" />
+                        <e p="values-hy_values-hy.arsc.flat" t="Include" />
+                        <e p="values-in_values-in.arsc.flat" t="Include" />
+                        <e p="values-is_values-is.arsc.flat" t="Include" />
+                        <e p="values-it_values-it.arsc.flat" t="Include" />
+                        <e p="values-iw_values-iw.arsc.flat" t="Include" />
+                        <e p="values-ja_values-ja.arsc.flat" t="Include" />
+                        <e p="values-ka_values-ka.arsc.flat" t="Include" />
+                        <e p="values-kk_values-kk.arsc.flat" t="Include" />
+                        <e p="values-km_values-km.arsc.flat" t="Include" />
+                        <e p="values-kn_values-kn.arsc.flat" t="Include" />
+                        <e p="values-ko_values-ko.arsc.flat" t="Include" />
+                        <e p="values-ky_values-ky.arsc.flat" t="Include" />
+                        <e p="values-land_values-land.arsc.flat" t="Include" />
+                        <e p="values-large-v4_values-large-v4.arsc.flat" t="Include" />
+                        <e p="values-ldltr-v21_values-ldltr-v21.arsc.flat" t="Include" />
+                        <e p="values-lo_values-lo.arsc.flat" t="Include" />
+                        <e p="values-lt_values-lt.arsc.flat" t="Include" />
+                        <e p="values-lv_values-lv.arsc.flat" t="Include" />
+                        <e p="values-mk_values-mk.arsc.flat" t="Include" />
+                        <e p="values-ml_values-ml.arsc.flat" t="Include" />
+                        <e p="values-mn_values-mn.arsc.flat" t="Include" />
+                        <e p="values-mr_values-mr.arsc.flat" t="Include" />
+                        <e p="values-ms_values-ms.arsc.flat" t="Include" />
+                        <e p="values-my_values-my.arsc.flat" t="Include" />
+                        <e p="values-nb_values-nb.arsc.flat" t="Include" />
+                        <e p="values-ne_values-ne.arsc.flat" t="Include" />
+                        <e p="values-night-v8_values-night-v8.arsc.flat" t="Include" />
+                        <e p="values-nl_values-nl.arsc.flat" t="Include" />
+                        <e p="values-pa_values-pa.arsc.flat" t="Include" />
+                        <e p="values-pl_values-pl.arsc.flat" t="Include" />
+                        <e p="values-port_values-port.arsc.flat" t="Include" />
+                        <e p="values-pt-rBR_values-pt-rBR.arsc.flat" t="Include" />
+                        <e p="values-pt-rPT_values-pt-rPT.arsc.flat" t="Include" />
+                        <e p="values-pt_values-pt.arsc.flat" t="Include" />
+                        <e p="values-ro_values-ro.arsc.flat" t="Include" />
+                        <e p="values-ru_values-ru.arsc.flat" t="Include" />
+                        <e p="values-si_values-si.arsc.flat" t="Include" />
+                        <e p="values-sk_values-sk.arsc.flat" t="Include" />
+                        <e p="values-sl_values-sl.arsc.flat" t="Include" />
+                        <e p="values-sq_values-sq.arsc.flat" t="Include" />
+                        <e p="values-sr_values-sr.arsc.flat" t="Include" />
+                        <e p="values-sv_values-sv.arsc.flat" t="Include" />
+                        <e p="values-sw600dp-v13_values-sw600dp-v13.arsc.flat" t="Include" />
+                        <e p="values-sw_values-sw.arsc.flat" t="Include" />
+                        <e p="values-ta_values-ta.arsc.flat" t="Include" />
+                        <e p="values-te_values-te.arsc.flat" t="Include" />
+                        <e p="values-th_values-th.arsc.flat" t="Include" />
+                        <e p="values-tl_values-tl.arsc.flat" t="Include" />
+                        <e p="values-tr_values-tr.arsc.flat" t="Include" />
+                        <e p="values-uk_values-uk.arsc.flat" t="Include" />
+                        <e p="values-ur_values-ur.arsc.flat" t="Include" />
+                        <e p="values-uz_values-uz.arsc.flat" t="Include" />
+                        <e p="values-v16_values-v16.arsc.flat" t="Include" />
+                        <e p="values-v17_values-v17.arsc.flat" t="Include" />
+                        <e p="values-v18_values-v18.arsc.flat" t="Include" />
+                        <e p="values-v21_values-v21.arsc.flat" t="Include" />
+                        <e p="values-v22_values-v22.arsc.flat" t="Include" />
+                        <e p="values-v23_values-v23.arsc.flat" t="Include" />
+                        <e p="values-v24_values-v24.arsc.flat" t="Include" />
+                        <e p="values-v25_values-v25.arsc.flat" t="Include" />
+                        <e p="values-v26_values-v26.arsc.flat" t="Include" />
+                        <e p="values-vi_values-vi.arsc.flat" t="Include" />
+                        <e p="values-watch-v20_values-watch-v20.arsc.flat" t="Include" />
+                        <e p="values-xlarge-v4_values-xlarge-v4.arsc.flat" t="Include" />
+                        <e p="values-zh-rCN_values-zh-rCN.arsc.flat" t="Include" />
+                        <e p="values-zh-rHK_values-zh-rHK.arsc.flat" t="Include" />
+                        <e p="values-zh-rTW_values-zh-rTW.arsc.flat" t="Include" />
+                        <e p="values-zu_values-zu.arsc.flat" t="Include" />
+                        <e p="values_values.arsc.flat" t="Include" />
+                      </e>
+                    </e>
+                    <e p="symbol-table-with-package" t="Include">
+                      <e p="Debug" t="Include">
+                        <e p="package-aware-r.txt" t="Include" />
+                      </e>
+                    </e>
+                  </e>
+                  <e p="splits-support" t="Include">
+                    <e p="Debug" t="Include">
+                      <e p="apk-list" t="Include">
+                        <e p="apk-list.gson" t="Include" />
+                      </e>
+                      <e p="split-list" t="Include">
+                        <e p="split-list.gson" t="Include" />
+                      </e>
+                    </e>
+                  </e>
+                  <e p="symbols" t="Include">
+                    <e p="Debug" t="Include">
+                      <e p="R.txt" t="Include" />
+                    </e>
+                  </e>
+                  <e p="transforms" t="Include">
+                    <e p="desugar" t="Include">
+                      <e p="Debug" t="Include">
+                        <e p="0" t="Include">
+                          <e p="android" t="Include">
+                            <e p="arch" t="Include">
+                              <e p="core" t="Include">
+                                <e p="R.class" t="Include" />
+                              </e>
+                              <e p="lifecycle" t="Include">
+                                <e p="livedata" t="Include">
+                                  <e p="core" t="Include">
+                                    <e p="R.class" t="Include" />
+                                  </e>
+                                </e>
+                                <e p="R.class" t="Include" />
+                                <e p="viewmodel" t="Include">
+                                  <e p="R.class" t="Include" />
+                                </e>
+                              </e>
+                            </e>
+                            <e p="support" t="Include">
+                              <e p="compat" t="Include">
+                                <e p="R$attr.class" t="Include" />
+                                <e p="R$bool.class" t="Include" />
+                                <e p="R$color.class" t="Include" />
+                                <e p="R$dimen.class" t="Include" />
+                                <e p="R$drawable.class" t="Include" />
+                                <e p="R$id.class" t="Include" />
+                                <e p="R$integer.class" t="Include" />
+                                <e p="R$layout.class" t="Include" />
+                                <e p="R$string.class" t="Include" />
+                                <e p="R$style.class" t="Include" />
+                                <e p="R$styleable.class" t="Include" />
+                                <e p="R.class" t="Include" />
+                              </e>
+                              <e p="constraint" t="Include">
+                                <e p="R$attr.class" t="Include" />
+                                <e p="R$id.class" t="Include" />
+                                <e p="R$styleable.class" t="Include" />
+                                <e p="R.class" t="Include" />
+                              </e>
+                              <e p="coreui" t="Include">
+                                <e p="R$attr.class" t="Include" />
+                                <e p="R$bool.class" t="Include" />
+                                <e p="R$color.class" t="Include" />
+                                <e p="R$dimen.class" t="Include" />
+                                <e p="R$drawable.class" t="Include" />
+                                <e p="R$id.class" t="Include" />
+                                <e p="R$integer.class" t="Include" />
+                                <e p="R$layout.class" t="Include" />
+                                <e p="R$string.class" t="Include" />
+                                <e p="R$style.class" t="Include" />
+                                <e p="R$styleable.class" t="Include" />
+                                <e p="R.class" t="Include" />
+                              </e>
+                              <e p="coreutils" t="Include">
+                                <e p="R$attr.class" t="Include" />
+                                <e p="R$bool.class" t="Include" />
+                                <e p="R$color.class" t="Include" />
+                                <e p="R$dimen.class" t="Include" />
+                                <e p="R$drawable.class" t="Include" />
+                                <e p="R$id.class" t="Include" />
+                                <e p="R$integer.class" t="Include" />
+                                <e p="R$layout.class" t="Include" />
+                                <e p="R$string.class" t="Include" />
+                                <e p="R$style.class" t="Include" />
+                                <e p="R$styleable.class" t="Include" />
+                                <e p="R.class" t="Include" />
+                              </e>
+                              <e p="design" t="Include">
+                                <e p="R$anim.class" t="Include" />
+                                <e p="R$animator.class" t="Include" />
+                                <e p="R$attr.class" t="Include" />
+                                <e p="R$bool.class" t="Include" />
+                                <e p="R$color.class" t="Include" />
+                                <e p="R$dimen.class" t="Include" />
+                                <e p="R$drawable.class" t="Include" />
+                                <e p="R$id.class" t="Include" />
+                                <e p="R$integer.class" t="Include" />
+                                <e p="R$layout.class" t="Include" />
+                                <e p="R$string.class" t="Include" />
+                                <e p="R$style.class" t="Include" />
+                                <e p="R$styleable.class" t="Include" />
+                                <e p="R.class" t="Include" />
+                              </e>
+                              <e p="fragment" t="Include">
+                                <e p="R$attr.class" t="Include" />
+                                <e p="R$bool.class" t="Include" />
+                                <e p="R$color.class" t="Include" />
+                                <e p="R$dimen.class" t="Include" />
+                                <e p="R$drawable.class" t="Include" />
+                                <e p="R$id.class" t="Include" />
+                                <e p="R$integer.class" t="Include" />
+                                <e p="R$layout.class" t="Include" />
+                                <e p="R$string.class" t="Include" />
+                                <e p="R$style.class" t="Include" />
+                                <e p="R$styleable.class" t="Include" />
+                                <e p="R.class" t="Include" />
+                              </e>
+                              <e p="graphics" t="Include">
+                                <e p="drawable" t="Include">
+                                  <e p="animated" t="Include">
+                                    <e p="R$attr.class" t="Include" />
+                                    <e p="R$bool.class" t="Include" />
+                                    <e p="R$color.class" t="Include" />
+                                    <e p="R$dimen.class" t="Include" />
+                                    <e p="R$drawable.class" t="Include" />
+                                    <e p="R$id.class" t="Include" />
+                                    <e p="R$integer.class" t="Include" />
+                                    <e p="R$layout.class" t="Include" />
+                                    <e p="R$string.class" t="Include" />
+                                    <e p="R$style.class" t="Include" />
+                                    <e p="R$styleable.class" t="Include" />
+                                    <e p="R.class" t="Include" />
+                                  </e>
+                                  <e p="R$attr.class" t="Include" />
+                                  <e p="R$bool.class" t="Include" />
+                                  <e p="R$color.class" t="Include" />
+                                  <e p="R$dimen.class" t="Include" />
+                                  <e p="R$drawable.class" t="Include" />
+                                  <e p="R$id.class" t="Include" />
+                                  <e p="R$integer.class" t="Include" />
+                                  <e p="R$layout.class" t="Include" />
+                                  <e p="R$string.class" t="Include" />
+                                  <e p="R$style.class" t="Include" />
+                                  <e p="R$styleable.class" t="Include" />
+                                  <e p="R.class" t="Include" />
+                                </e>
+                              </e>
+                              <e p="mediacompat" t="Include">
+                                <e p="R$attr.class" t="Include" />
+                                <e p="R$bool.class" t="Include" />
+                                <e p="R$color.class" t="Include" />
+                                <e p="R$dimen.class" t="Include" />
+                                <e p="R$drawable.class" t="Include" />
+                                <e p="R$id.class" t="Include" />
+                                <e p="R$integer.class" t="Include" />
+                                <e p="R$layout.class" t="Include" />
+                                <e p="R$string.class" t="Include" />
+                                <e p="R$style.class" t="Include" />
+                                <e p="R$styleable.class" t="Include" />
+                                <e p="R.class" t="Include" />
+                              </e>
+                              <e p="transition" t="Include">
+                                <e p="R$attr.class" t="Include" />
+                                <e p="R$bool.class" t="Include" />
+                                <e p="R$color.class" t="Include" />
+                                <e p="R$dimen.class" t="Include" />
+                                <e p="R$drawable.class" t="Include" />
+                                <e p="R$id.class" t="Include" />
+                                <e p="R$integer.class" t="Include" />
+                                <e p="R$layout.class" t="Include" />
+                                <e p="R$string.class" t="Include" />
+                                <e p="R$style.class" t="Include" />
+                                <e p="R$styleable.class" t="Include" />
+                                <e p="R.class" t="Include" />
+                              </e>
+                              <e p="v4" t="Include">
+                                <e p="R$attr.class" t="Include" />
+                                <e p="R$bool.class" t="Include" />
+                                <e p="R$color.class" t="Include" />
+                                <e p="R$dimen.class" t="Include" />
+                                <e p="R$drawable.class" t="Include" />
+                                <e p="R$id.class" t="Include" />
+                                <e p="R$integer.class" t="Include" />
+                                <e p="R$layout.class" t="Include" />
+                                <e p="R$string.class" t="Include" />
+                                <e p="R$style.class" t="Include" />
+                                <e p="R$styleable.class" t="Include" />
+                                <e p="R.class" t="Include" />
+                              </e>
+                              <e p="v7" t="Include">
+                                <e p="appcompat" t="Include">
+                                  <e p="R$anim.class" t="Include" />
+                                  <e p="R$attr.class" t="Include" />
+                                  <e p="R$bool.class" t="Include" />
+                                  <e p="R$color.class" t="Include" />
+                                  <e p="R$dimen.class" t="Include" />
+                                  <e p="R$drawable.class" t="Include" />
+                                  <e p="R$id.class" t="Include" />
+                                  <e p="R$integer.class" t="Include" />
+                                  <e p="R$layout.class" t="Include" />
+                                  <e p="R$string.class" t="Include" />
+                                  <e p="R$style.class" t="Include" />
+                                  <e p="R$styleable.class" t="Include" />
+                                  <e p="R.class" t="Include" />
+                                </e>
+                                <e p="recyclerview" t="Include">
+                                  <e p="R$attr.class" t="Include" />
+                                  <e p="R$bool.class" t="Include" />
+                                  <e p="R$color.class" t="Include" />
+                                  <e p="R$dimen.class" t="Include" />
+                                  <e p="R$drawable.class" t="Include" />
+                                  <e p="R$id.class" t="Include" />
+                                  <e p="R$integer.class" t="Include" />
+                                  <e p="R$layout.class" t="Include" />
+                                  <e p="R$string.class" t="Include" />
+                                  <e p="R$style.class" t="Include" />
+                                  <e p="R$styleable.class" t="Include" />
+                                  <e p="R.class" t="Include" />
+                                </e>
+                              </e>
+                            </e>
+                          </e>
+                          <e p="com" t="Include">
+                            <e p="adminapp" t="Include">
+                              <e p="AnnotationList$AbstractFeature.class" t="Include" />
+                              <e p="AnnotationList$Feature.class" t="Include" />
+                              <e p="AnnotationList$InComingArg.class" t="Include" />
+                              <e p="AnnotationList$OnItemClickFROM.class" t="Include" />
+                              <e p="AnnotationList$OnItemClickTO.class" t="Include" />
+                              <e p="AnnotationList$OnLongItemClickFROM.class" t="Include" />
+                              <e p="AnnotationList$OnLongItemClickTO.class" t="Include" />
+                              <e p="AnnotationList$OutComingArg.class" t="Include" />
+                              <e p="AnnotationList.class" t="Include" />
+                              <e p="AttendedClientsActivity.class" t="Include" />
+                              <e p="ClientFormActivity$1.class" t="Include" />
+                              <e p="ClientFormActivity.class" t="Include" />
+                              <e p="Lecture.class" t="Include" />
+                              <e p="LectureEdition$1.class" t="Include" />
+                              <e p="LectureEdition.class" t="Include" />
+                              <e p="LectureListActivity$1.class" t="Include" />
+                              <e p="LectureListActivity.class" t="Include" />
+                              <e p="ServerConnectionInstallation" t="Include">
+                                <e p="IServerConnection.class" t="Include" />
+                                <e p="NoServerConnection.class" t="Include" />
+                                <e p="ServerConnection.class" t="Include" />
+                                <e p="ServerSetting.class" t="Include" />
+                              </e>
+                            </e>
+                            <e p="example" t="Include">
+                              <e p="polina" t="Include">
+                                <e p="adminapp" t="Include">
+                                  <e p="BuildConfig.class" t="Include" />
+                                  <e p="R$anim.class" t="Include" />
+                                  <e p="R$animator.class" t="Include" />
+                                  <e p="R$attr.class" t="Include" />
+                                  <e p="R$bool.class" t="Include" />
+                                  <e p="R$color.class" t="Include" />
+                                  <e p="R$dimen.class" t="Include" />
+                                  <e p="R$drawable.class" t="Include" />
+                                  <e p="R$id.class" t="Include" />
+                                  <e p="R$integer.class" t="Include" />
+                                  <e p="R$layout.class" t="Include" />
+                                  <e p="R$mipmap.class" t="Include" />
+                                  <e p="R$string.class" t="Include" />
+                                  <e p="R$style.class" t="Include" />
+                                  <e p="R$styleable.class" t="Include" />
+                                  <e p="R.class" t="Include" />
+                                </e>
+                              </e>
+                            </e>
+                          </e>
+                        </e>
+                        <e p="1.jar" t="Include" />
+                        <e p="10.jar" t="Include" />
+                        <e p="11.jar" t="Include" />
+                        <e p="12.jar" t="Include" />
+                        <e p="13.jar" t="Include" />
+                        <e p="14.jar" t="Include" />
+                        <e p="15.jar" t="Include" />
+                        <e p="16.jar" t="Include" />
+                        <e p="17.jar" t="Include" />
+                        <e p="18.jar" t="Include" />
+                        <e p="19.jar" t="Include" />
+                        <e p="2.jar" t="Include" />
+                        <e p="20.jar" t="Include" />
+                        <e p="21.jar" t="Include" />
+                        <e p="22.jar" t="Include" />
+                        <e p="23.jar" t="Include" />
+                        <e p="24.jar" t="Include" />
+                        <e p="25.jar" t="Include" />
+                        <e p="26.jar" t="Include" />
+                        <e p="27.jar" t="Include" />
+                        <e p="28.jar" t="Include" />
+                        <e p="3.jar" t="Include" />
+                        <e p="4.jar" t="Include" />
+                        <e p="5.jar" t="Include" />
+                        <e p="6.jar" t="Include" />
+                        <e p="7.jar" t="Include" />
+                        <e p="8.jar" t="Include" />
+                        <e p="9.jar" t="Include" />
+                        <e p="__content__.json" t="Include" />
+                      </e>
+                    </e>
+                    <e p="dexBuilder" t="Include">
+                      <e p="Debug" t="Include">
+                        <e p="0" t="Include">
+                          <e p="android" t="Include">
+                            <e p="arch" t="Include">
+                              <e p="core" t="Include">
+                                <e p="R.dex" t="Include" />
+                              </e>
+                              <e p="lifecycle" t="Include">
+                                <e p="livedata" t="Include">
+                                  <e p="core" t="Include">
+                                    <e p="R.dex" t="Include" />
+                                  </e>
+                                </e>
+                                <e p="R.dex" t="Include" />
+                                <e p="viewmodel" t="Include">
+                                  <e p="R.dex" t="Include" />
+                                </e>
+                              </e>
+                            </e>
+                            <e p="support" t="Include">
+                              <e p="compat" t="Include">
+                                <e p="R$attr.dex" t="Include" />
+                                <e p="R$bool.dex" t="Include" />
+                                <e p="R$color.dex" t="Include" />
+                                <e p="R$dimen.dex" t="Include" />
+                                <e p="R$drawable.dex" t="Include" />
+                                <e p="R$id.dex" t="Include" />
+                                <e p="R$integer.dex" t="Include" />
+                                <e p="R$layout.dex" t="Include" />
+                                <e p="R$string.dex" t="Include" />
+                                <e p="R$style.dex" t="Include" />
+                                <e p="R$styleable.dex" t="Include" />
+                                <e p="R.dex" t="Include" />
+                              </e>
+                              <e p="constraint" t="Include">
+                                <e p="R$attr.dex" t="Include" />
+                                <e p="R$id.dex" t="Include" />
+                                <e p="R$styleable.dex" t="Include" />
+                                <e p="R.dex" t="Include" />
+                              </e>
+                              <e p="coreui" t="Include">
+                                <e p="R$attr.dex" t="Include" />
+                                <e p="R$bool.dex" t="Include" />
+                                <e p="R$color.dex" t="Include" />
+                                <e p="R$dimen.dex" t="Include" />
+                                <e p="R$drawable.dex" t="Include" />
+                                <e p="R$id.dex" t="Include" />
+                                <e p="R$integer.dex" t="Include" />
+                                <e p="R$layout.dex" t="Include" />
+                                <e p="R$string.dex" t="Include" />
+                                <e p="R$style.dex" t="Include" />
+                                <e p="R$styleable.dex" t="Include" />
+                                <e p="R.dex" t="Include" />
+                              </e>
+                              <e p="coreutils" t="Include">
+                                <e p="R$attr.dex" t="Include" />
+                                <e p="R$bool.dex" t="Include" />
+                                <e p="R$color.dex" t="Include" />
+                                <e p="R$dimen.dex" t="Include" />
+                                <e p="R$drawable.dex" t="Include" />
+                                <e p="R$id.dex" t="Include" />
+                                <e p="R$integer.dex" t="Include" />
+                                <e p="R$layout.dex" t="Include" />
+                                <e p="R$string.dex" t="Include" />
+                                <e p="R$style.dex" t="Include" />
+                                <e p="R$styleable.dex" t="Include" />
+                                <e p="R.dex" t="Include" />
+                              </e>
+                              <e p="design" t="Include">
+                                <e p="R$anim.dex" t="Include" />
+                                <e p="R$animator.dex" t="Include" />
+                                <e p="R$attr.dex" t="Include" />
+                                <e p="R$bool.dex" t="Include" />
+                                <e p="R$color.dex" t="Include" />
+                                <e p="R$dimen.dex" t="Include" />
+                                <e p="R$drawable.dex" t="Include" />
+                                <e p="R$id.dex" t="Include" />
+                                <e p="R$integer.dex" t="Include" />
+                                <e p="R$layout.dex" t="Include" />
+                                <e p="R$string.dex" t="Include" />
+                                <e p="R$style.dex" t="Include" />
+                                <e p="R$styleable.dex" t="Include" />
+                                <e p="R.dex" t="Include" />
+                              </e>
+                              <e p="fragment" t="Include">
+                                <e p="R$attr.dex" t="Include" />
+                                <e p="R$bool.dex" t="Include" />
+                                <e p="R$color.dex" t="Include" />
+                                <e p="R$dimen.dex" t="Include" />
+                                <e p="R$drawable.dex" t="Include" />
+                                <e p="R$id.dex" t="Include" />
+                                <e p="R$integer.dex" t="Include" />
+                                <e p="R$layout.dex" t="Include" />
+                                <e p="R$string.dex" t="Include" />
+                                <e p="R$style.dex" t="Include" />
+                                <e p="R$styleable.dex" t="Include" />
+                                <e p="R.dex" t="Include" />
+                              </e>
+                              <e p="graphics" t="Include">
+                                <e p="drawable" t="Include">
+                                  <e p="animated" t="Include">
+                                    <e p="R$attr.dex" t="Include" />
+                                    <e p="R$bool.dex" t="Include" />
+                                    <e p="R$color.dex" t="Include" />
+                                    <e p="R$dimen.dex" t="Include" />
+                                    <e p="R$drawable.dex" t="Include" />
+                                    <e p="R$id.dex" t="Include" />
+                                    <e p="R$integer.dex" t="Include" />
+                                    <e p="R$layout.dex" t="Include" />
+                                    <e p="R$string.dex" t="Include" />
+                                    <e p="R$style.dex" t="Include" />
+                                    <e p="R$styleable.dex" t="Include" />
+                                    <e p="R.dex" t="Include" />
+                                  </e>
+                                  <e p="R$attr.dex" t="Include" />
+                                  <e p="R$bool.dex" t="Include" />
+                                  <e p="R$color.dex" t="Include" />
+                                  <e p="R$dimen.dex" t="Include" />
+                                  <e p="R$drawable.dex" t="Include" />
+                                  <e p="R$id.dex" t="Include" />
+                                  <e p="R$integer.dex" t="Include" />
+                                  <e p="R$layout.dex" t="Include" />
+                                  <e p="R$string.dex" t="Include" />
+                                  <e p="R$style.dex" t="Include" />
+                                  <e p="R$styleable.dex" t="Include" />
+                                  <e p="R.dex" t="Include" />
+                                </e>
+                              </e>
+                              <e p="mediacompat" t="Include">
+                                <e p="R$attr.dex" t="Include" />
+                                <e p="R$bool.dex" t="Include" />
+                                <e p="R$color.dex" t="Include" />
+                                <e p="R$dimen.dex" t="Include" />
+                                <e p="R$drawable.dex" t="Include" />
+                                <e p="R$id.dex" t="Include" />
+                                <e p="R$integer.dex" t="Include" />
+                                <e p="R$layout.dex" t="Include" />
+                                <e p="R$string.dex" t="Include" />
+                                <e p="R$style.dex" t="Include" />
+                                <e p="R$styleable.dex" t="Include" />
+                                <e p="R.dex" t="Include" />
+                              </e>
+                              <e p="transition" t="Include">
+                                <e p="R$attr.dex" t="Include" />
+                                <e p="R$bool.dex" t="Include" />
+                                <e p="R$color.dex" t="Include" />
+                                <e p="R$dimen.dex" t="Include" />
+                                <e p="R$drawable.dex" t="Include" />
+                                <e p="R$id.dex" t="Include" />
+                                <e p="R$integer.dex" t="Include" />
+                                <e p="R$layout.dex" t="Include" />
+                                <e p="R$string.dex" t="Include" />
+                                <e p="R$style.dex" t="Include" />
+                                <e p="R$styleable.dex" t="Include" />
+                                <e p="R.dex" t="Include" />
+                              </e>
+                              <e p="v4" t="Include">
+                                <e p="R$attr.dex" t="Include" />
+                                <e p="R$bool.dex" t="Include" />
+                                <e p="R$color.dex" t="Include" />
+                                <e p="R$dimen.dex" t="Include" />
+                                <e p="R$drawable.dex" t="Include" />
+                                <e p="R$id.dex" t="Include" />
+                                <e p="R$integer.dex" t="Include" />
+                                <e p="R$layout.dex" t="Include" />
+                                <e p="R$string.dex" t="Include" />
+                                <e p="R$style.dex" t="Include" />
+                                <e p="R$styleable.dex" t="Include" />
+                                <e p="R.dex" t="Include" />
+                              </e>
+                              <e p="v7" t="Include">
+                                <e p="appcompat" t="Include">
+                                  <e p="R$anim.dex" t="Include" />
+                                  <e p="R$attr.dex" t="Include" />
+                                  <e p="R$bool.dex" t="Include" />
+                                  <e p="R$color.dex" t="Include" />
+                                  <e p="R$dimen.dex" t="Include" />
+                                  <e p="R$drawable.dex" t="Include" />
+                                  <e p="R$id.dex" t="Include" />
+                                  <e p="R$integer.dex" t="Include" />
+                                  <e p="R$layout.dex" t="Include" />
+                                  <e p="R$string.dex" t="Include" />
+                                  <e p="R$style.dex" t="Include" />
+                                  <e p="R$styleable.dex" t="Include" />
+                                  <e p="R.dex" t="Include" />
+                                </e>
+                                <e p="recyclerview" t="Include">
+                                  <e p="R$attr.dex" t="Include" />
+                                  <e p="R$bool.dex" t="Include" />
+                                  <e p="R$color.dex" t="Include" />
+                                  <e p="R$dimen.dex" t="Include" />
+                                  <e p="R$drawable.dex" t="Include" />
+                                  <e p="R$id.dex" t="Include" />
+                                  <e p="R$integer.dex" t="Include" />
+                                  <e p="R$layout.dex" t="Include" />
+                                  <e p="R$string.dex" t="Include" />
+                                  <e p="R$style.dex" t="Include" />
+                                  <e p="R$styleable.dex" t="Include" />
+                                  <e p="R.dex" t="Include" />
+                                </e>
+                              </e>
+                            </e>
+                          </e>
+                          <e p="com" t="Include">
+                            <e p="adminapp" t="Include">
+                              <e p="AnnotationList$AbstractFeature.dex" t="Include" />
+                              <e p="AnnotationList$Feature.dex" t="Include" />
+                              <e p="AnnotationList$InComingArg.dex" t="Include" />
+                              <e p="AnnotationList$OnItemClickFROM.dex" t="Include" />
+                              <e p="AnnotationList$OnItemClickTO.dex" t="Include" />
+                              <e p="AnnotationList$OnLongItemClickFROM.dex" t="Include" />
+                              <e p="AnnotationList$OnLongItemClickTO.dex" t="Include" />
+                              <e p="AnnotationList$OutComingArg.dex" t="Include" />
+                              <e p="AnnotationList.dex" t="Include" />
+                              <e p="AttendedClientsActivity.dex" t="Include" />
+                              <e p="ClientFormActivity$1.dex" t="Include" />
+                              <e p="ClientFormActivity.dex" t="Include" />
+                              <e p="Lecture.dex" t="Include" />
+                              <e p="LectureEdition$1.dex" t="Include" />
+                              <e p="LectureEdition.dex" t="Include" />
+                              <e p="LectureListActivity$1.dex" t="Include" />
+                              <e p="LectureListActivity.dex" t="Include" />
+                              <e p="ServerConnectionInstallation" t="Include">
+                                <e p="IServerConnection.dex" t="Include" />
+                                <e p="NoServerConnection.dex" t="Include" />
+                                <e p="ServerConnection.dex" t="Include" />
+                                <e p="ServerSetting.dex" t="Include" />
+                              </e>
+                            </e>
+                            <e p="example" t="Include">
+                              <e p="polina" t="Include">
+                                <e p="adminapp" t="Include">
+                                  <e p="BuildConfig.dex" t="Include" />
+                                  <e p="R$anim.dex" t="Include" />
+                                  <e p="R$animator.dex" t="Include" />
+                                  <e p="R$attr.dex" t="Include" />
+                                  <e p="R$bool.dex" t="Include" />
+                                  <e p="R$color.dex" t="Include" />
+                                  <e p="R$dimen.dex" t="Include" />
+                                  <e p="R$drawable.dex" t="Include" />
+                                  <e p="R$id.dex" t="Include" />
+                                  <e p="R$integer.dex" t="Include" />
+                                  <e p="R$layout.dex" t="Include" />
+                                  <e p="R$mipmap.dex" t="Include" />
+                                  <e p="R$string.dex" t="Include" />
+                                  <e p="R$style.dex" t="Include" />
+                                  <e p="R$styleable.dex" t="Include" />
+                                  <e p="R.dex" t="Include" />
+                                </e>
+                              </e>
+                            </e>
+                          </e>
+                        </e>
+                        <e p="1.jar" t="Include" />
+                        <e p="10.jar" t="Include" />
+                        <e p="11.jar" t="Include" />
+                        <e p="12.jar" t="Include" />
+                        <e p="13.jar" t="Include" />
+                        <e p="14.jar" t="Include" />
+                        <e p="15.jar" t="Include" />
+                        <e p="16.jar" t="Include" />
+                        <e p="17.jar" t="Include" />
+                        <e p="18.jar" t="Include" />
+                        <e p="19.jar" t="Include" />
+                        <e p="2.jar" t="Include" />
+                        <e p="20.jar" t="Include" />
+                        <e p="21.jar" t="Include" />
+                        <e p="22.jar" t="Include" />
+                        <e p="23.jar" t="Include" />
+                        <e p="24.jar" t="Include" />
+                        <e p="25.jar" t="Include" />
+                        <e p="26.jar" t="Include" />
+                        <e p="27.jar" t="Include" />
+                        <e p="28.jar" t="Include" />
+                        <e p="29.jar" t="Include" />
+                        <e p="3.jar" t="Include" />
+                        <e p="4.jar" t="Include" />
+                        <e p="5.jar" t="Include" />
+                        <e p="6.jar" t="Include" />
+                        <e p="7.jar" t="Include" />
+                        <e p="8.jar" t="Include" />
+                        <e p="9.jar" t="Include" />
+                        <e p="__content__.json" t="Include" />
+                      </e>
+                    </e>
+                    <e p="dexMerger" t="Include">
+                      <e p="Debug" t="Include">
+                        <e p="0" t="Include">
+                          <e p="classes.dex" t="Include" />
+                        </e>
+                        <e p="__content__.json" t="Include" />
+                      </e>
+                    </e>
+                    <e p="externalLibsDexMerger" t="Include">
+                      <e p="Debug" t="Include">
+                        <e p="0" t="Include">
+                          <e p="classes.dex" t="Include" />
+                        </e>
+                        <e p="__content__.json" t="Include" />
+                      </e>
+                    </e>
+                    <e p="mergeJavaRes" t="Include">
+                      <e p="Debug" t="Include">
+                        <e p="0.jar" t="Include" />
+                        <e p="__content__.json" t="Include" />
+                      </e>
+                    </e>
+                    <e p="mergeJniLibs" t="Include">
+                      <e p="Debug" t="Include">
+                        <e p="__content__.json" t="Include" />
+                      </e>
+                    </e>
+                    <e p="stackFramesFixer" t="Include">
+                      <e p="Debug" t="Include">
+                        <e p="0.jar" t="Include" />
+                        <e p="1.jar" t="Include" />
+                        <e p="10.jar" t="Include" />
+                        <e p="11.jar" t="Include" />
+                        <e p="12.jar" t="Include" />
+                        <e p="13.jar" t="Include" />
+                        <e p="14.jar" t="Include" />
+                        <e p="15.jar" t="Include" />
+                        <e p="16.jar" t="Include" />
+                        <e p="17.jar" t="Include" />
+                        <e p="18.jar" t="Include" />
+                        <e p="19.jar" t="Include" />
+                        <e p="2.jar" t="Include" />
+                        <e p="20.jar" t="Include" />
+                        <e p="21.jar" t="Include" />
+                        <e p="22.jar" t="Include" />
+                        <e p="23.jar" t="Include" />
+                        <e p="24.jar" t="Include" />
+                        <e p="25.jar" t="Include" />
+                        <e p="26.jar" t="Include" />
+                        <e p="27.jar" t="Include" />
+                        <e p="3.jar" t="Include" />
+                        <e p="4.jar" t="Include" />
+                        <e p="5.jar" t="Include" />
+                        <e p="6.jar" t="Include" />
+                        <e p="7.jar" t="Include" />
+                        <e p="8.jar" t="Include" />
+                        <e p="9.jar" t="Include" />
+                        <e p="__content__.json" t="Include" />
+                      </e>
+                    </e>
+                  </e>
+                </e>
+                <e p="outputs" t="Include">
+                  <e p="apk" t="Include">
+                    <e p="Debug" t="Include">
+                      <e p="app-debug.apk" t="Include" />
+                      <e p="output.json" t="Include" />
+                    </e>
+                  </e>
+                  <e p="logs" t="Include">
+                    <e p="manifest-merger-debug-report.txt" t="Include" />
+                  </e>
+                </e>
+              </e>
+              <e p="build.gradle" t="Include" />
+              <e p="proguard-rules.pro" t="Include" />
+              <e p="src" t="Include">
+                <e p="androidTest" t="Include">
+                  <e p="java" t="Include">
+                    <e p="com" t="Include">
+                      <e p="example" t="Include">
+                        <e p="polina" t="Include">
+                          <e p="adminapp" t="Include">
+                            <e p="ExampleInstrumentedTest.java" t="Include" />
+                          </e>
+                        </e>
+                      </e>
+                    </e>
+                  </e>
+                </e>
+                <e p="main" t="Include">
+                  <e p="AndroidManifest.xml" t="Include" />
+                  <e p="java" t="Include">
+                    <e p="com" t="Include">
+                      <e p="adminapp" t="Include">
+                        <e p="AnnotationList.java" t="Include" />
+                        <e p="AttendedClientsActivity.java" t="Include" />
+                        <e p="ClientFormActivity.java" t="Include" />
+                        <e p="Lecture.java" t="Include" />
+                        <e p="LectureEdition.java" t="Include" />
+                        <e p="LectureListActivity.java" t="Include" />
+                        <e p="ServerConnectionInstallation" t="Include">
+                          <e p="IServerConnection.java" t="Include" />
+                          <e p="NoServerConnection.java" t="Include" />
+                          <e p="ServerConnection.java" t="Include" />
+                          <e p="ServerSetting.java" t="Include" />
+                        </e>
+                      </e>
+                    </e>
+                  </e>
+                  <e p="res" t="Include">
+                    <e p="drawable" t="Include">
+                      <e p="ic_add_black_24dp.xml" t="Include" />
+                      <e p="ic_launcher_background.xml" t="Include" />
+                    </e>
+                    <e p="drawable-v24" t="Include">
+                      <e p="ic_launcher_foreground.xml" t="Include" />
+                    </e>
+                    <e p="layout" t="Include">
+                      <e p="activity_attended_clients.xml" t="Include" />
+                      <e p="activity_attented_client_form.xml" t="Include" />
+                      <e p="activity_common_settings.xml" t="Include" />
+                      <e p="activity_lecture_edition.xml" t="Include" />
+                      <e p="activity_main.xml" t="Include" />
+                      <e p="activity_runner.xml" t="Include" />
+                    </e>
+                    <e p="mipmap-anydpi-v26" t="Include">
+                      <e p="ic_launcher.xml" t="Include" />
+                      <e p="ic_launcher_round.xml" t="Include" />
+                    </e>
+                    <e p="mipmap-hdpi" t="Include">
+                      <e p="ic_launcher.png" t="Include" />
+                      <e p="ic_launcher_round.png" t="Include" />
+                    </e>
+                    <e p="mipmap-mdpi" t="Include">
+                      <e p="ic_launcher.png" t="Include" />
+                      <e p="ic_launcher_round.png" t="Include" />
+                    </e>
+                    <e p="mipmap-xhdpi" t="Include">
+                      <e p="ic_launcher.png" t="Include" />
+                      <e p="ic_launcher_round.png" t="Include" />
+                    </e>
+                    <e p="mipmap-xxhdpi" t="Include">
+                      <e p="ic_launcher.png" t="Include" />
+                      <e p="ic_launcher_round.png" t="Include" />
+                    </e>
+                    <e p="mipmap-xxxhdpi" t="Include">
+                      <e p="ic_launcher.png" t="Include" />
+                      <e p="ic_launcher_round.png" t="Include" />
+                    </e>
+                    <e p="values" t="Include">
+                      <e p="colors.xml" t="Include" />
+                      <e p="dimens.xml" t="Include" />
+                      <e p="strings.xml" t="Include" />
+                      <e p="styles.xml" t="Include" />
+                    </e>
+                  </e>
+                </e>
+                <e p="test" t="Include">
+                  <e p="java" t="Include">
+                    <e p="com" t="Include">
+                      <e p="example" t="Include">
+                        <e p="polina" t="Include">
+                          <e p="adminapp" t="Include">
+                            <e p="ExampleUnitTest.java" t="Include" />
+                          </e>
+                        </e>
+                      </e>
+                    </e>
+                  </e>
+                </e>
+              </e>
+            </e>
+            <e p="build.gradle" t="Include" />
+            <e p="gradle" t="Include">
+              <e p="wrapper" t="Include">
+                <e p="gradle-wrapper.jar" t="Include" />
+                <e p="gradle-wrapper.properties" t="Include" />
+              </e>
+            </e>
+            <e p="gradle.properties" t="Include" />
+            <e p="gradlew" t="Include" />
+            <e p="gradlew.bat" t="Include" />
+            <e p="local.properties" t="Include" />
+            <e p="settings.gradle" t="Include" />
+          </e>
+        </e>
+        <e p="AppGeneration.csproj" t="IncludeRecursive" />
+        <e p="AppGenerator.cs" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="FeatureModel.cs" t="Include" />
+        <e p="FeatureWithParameters.cs" t="Include" />
+        <e p="generatedModel.xml" t="Include" />
+        <e p="LectureListActivityTemplate.cshtml" t="Include" />
+        <e p="LectureListActivityTemplate__.cshtml" t="Include" />
+        <e p="Model.xml" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.2" t="Include">
+              <e p="AppGeneration.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="AppGeneration.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
