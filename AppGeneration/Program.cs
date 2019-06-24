@@ -1,10 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.IO;
-using System.Threading.Tasks;
-using System.Xml;
-using System.Xml.Serialization;
-using RazorLight;
 
 namespace AppGeneration
 {
@@ -21,11 +16,12 @@ namespace AppGeneration
 
         static void Main(string[] args)
         {
-            AppGenerator.generate(
-                modelFileName, classForGeneration, classTemplate, pathToDirectoryWithFeatures, pathToTargetDirectory);
+            string currentDirectoryPath = Directory.GetCurrentDirectory();
+            AppGenerator.generate(Path.Combine(currentDirectoryPath, modelFileName), 
+                classForGeneration,
+                classTemplate, 
+                Path.Combine(currentDirectoryPath, pathToDirectoryWithFeatures),
+                Path.Combine(currentDirectoryPath, pathToTargetDirectory));
         }
-
-        
-
     }
 }

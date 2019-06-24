@@ -149,7 +149,7 @@ namespace AppGeneration
                 .Build();
             
             var result = engine.CompileRenderAsync(classTemplate, model).Result;
-            File.WriteAllText(pathToDirectoryWithFeatures + "/" + classForGeneration, result);
+            File.WriteAllText(Path.Combine(pathToDirectoryWithFeatures, classForGeneration), result);
             Console.WriteLine("File generated");
         }
 
@@ -192,8 +192,8 @@ namespace AppGeneration
         private static void CopyAppDirectoryToEnvironment(string sourceDirectory, string targetDirectory)
         {
             DirectoryInfo diSource = new DirectoryInfo(sourceDirectory);
-            DirectoryInfo diTarget = new DirectoryInfo(
-                targetDirectory + "/" + sourceDirectory.Split("/").Last());
+            DirectoryInfo diTarget = 
+                new DirectoryInfo(Path.Combine(targetDirectory, sourceDirectory.Split("/").Last()));
  
             CopyAll(diSource, diTarget);
             
