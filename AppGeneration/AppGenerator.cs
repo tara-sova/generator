@@ -24,10 +24,10 @@ namespace AppGeneration
 //            CopyAppDirectoryToEnvironment(pathToDirectoryWithFeatures, pathToTargetDirectory, model);
         }
         
-        public static void GenerateModelXml(string path, string generatedModelFileName)
+        private static void GenerateModelXml(string path, string generatedModelFileName)
         {
             List<FeatureWithParameters> featureListForModelGeneration = LoadFeaturesWithParams(path);
-            GenerateXmlModel(featureListForModelGeneration, generatedModelFileName);
+            XmlModelGenerator.GenerateXmlModel(featureListForModelGeneration, generatedModelFileName);
         }
         private static List<FeatureWithParameters> LoadFeaturesWithParams(string path)
         {
@@ -42,6 +42,17 @@ namespace AppGeneration
             string patternOnItemClickFROM = @"\s*@AnnotationList.OnItemClickFROM\w*";
             string patternOnLongItemClickTO = @"\s*@AnnotationList.OnLongItemClickTO\w*";
             string patternOnLongItemClickFROM = @"\s*@AnnotationList.OnLongItemClickFROM\w*";
+            string patternOnSwipeRightTO = @"\s*@AnnotationList.OnSwipeRightTO\w*";
+            string patternOnButtonClickFromArgTO = @"\s*@AnnotationList.OnButtonClickFromArgTO\w*";
+            
+            string patternXorGroup = @"\s*@AnnotationList.XorGroup\w*";
+            string patternOrGroup = @"\s*@AnnotationList.OrGroup\w*";
+            string patternAndGroup = @"\s*@AnnotationList.AndGroup\w*";
+
+            string patternXorAbstractGroup = @"\s*@AnnotationList.XorAbstractGroup\w*";
+            string patternOrAbstractGroup = @"\s*@AnnotationList.OrAbstractGroup\w*";
+            string patternAndAbstractGroup = @"\s*@AnnotationList.AndAbstractGroup\w*";
+
             
             foreach(var filePath in filePaths)
             {
@@ -58,6 +69,17 @@ namespace AppGeneration
                     string clickTO = null;
                     string clickFROM = null;
                     
+                    string xorGroup = null;
+                    string orGroup = null;
+                    string andGroup = null;
+                    
+                    string xorAbstractGroup = null;
+                    string orAbstractGroup = null;
+                    string andAbstractGroup = null;
+
+                    string swipeRightTO = null;
+                    string onButtonClickFromArgTO = null;
+
                     while (!reader.EndOfStream)
                     {
                         var line = reader.ReadLine();
@@ -85,160 +107,134 @@ namespace AppGeneration
 
                             if (Regex.Match(line, patternRequired).Success)
                                 requiredFeature = true;
-
+                            
+                            if (Regex.Match(line, patternOnSwipeRightTO).Success)
+                                swipeRightTO = line.Split("SwipeRightTO")[1].Split("\"")[1];
+                            
+                            if (Regex.Match(line, patternOnButtonClickFromArgTO).Success)
+                                onButtonClickFromArgTO = line.Split("OnButtonClickFromArgTO")[1].Split("\"")[1];
+                            
+                            if (Regex.Match(line, patternXorGroup).Success)
+                                xorGroup = line.Split("XorGroup")[1].Split("\"")[1];
+                            
+                            if (Regex.Match(line, patternOrGroup).Success)
+                                orGroup = line.Split("OrGroup")[1].Split("\"")[1];
+                            
+                            if (Regex.Match(line, patternAndGroup).Success)
+                                andGroup = line.Split("AndGroup")[1].Split("\"")[1];
+                            
+                            if (Regex.Match(line, patternXorAbstractGroup).Success)
+                                xorAbstractGroup = line.Split("XorAbstractGroup")[1].Split("\"")[1];
+                            
+                            if (Regex.Match(line, patternOrAbstractGroup).Success)
+                                orAbstractGroup = line.Split("OrAbstractGroup")[1].Split("\"")[1];
+                            
+                            if (Regex.Match(line, patternAndAbstractGroup).Success)
+                                andAbstractGroup = line.Split("AndAbstractGroup")[1].Split("\"")[1];
                         }
                     }
                     if (featureName != null)
                         featureListForModelGeneration.Add(
                         new FeatureWithParameters(
                             featureName, abstractFeatureName, requiredFeature, 
-                            longClickTO, longClickFROM, clickTO, clickFROM));
+                            longClickTO, longClickFROM, clickTO, clickFROM,
+                            xorGroup, orGroup, andGroup,
+                            xorAbstractGroup, orAbstractGroup, andAbstractGroup,
+                            swipeRightTO, onButtonClickFromArgTO));
                 }
             }
 
             return featureListForModelGeneration;
         }
 
-        private static void GenerateXmlModel(List<FeatureWithParameters> featureListForModelGeneration, string generatedModelFileName)
-        {
-            XDocument xdoc = new XDocument();
-            
-            XElement model = new XElement("model");
-            model.Add(new XAttribute("name", "generated_model"));
-
-            var groupedByAbstractFeatures = featureListForModelGeneration.GroupBy(x => x.abstractFeatureName);
-            foreach (var group in groupedByAbstractFeatures)
-            {
-                string abstractFeatureName = null;
-                XElement concreteNodes = new XElement("concrete_nodes");
-                foreach (var featureWithParams in group)
-                {
-                    if (abstractFeatureName == null)
-                    {
-                        abstractFeatureName = featureWithParams.abstractFeatureName;
-                    }
-                    
-                    XElement concreteNode = new XElement("concrete_node");
-                    concreteNode.Add(new XAttribute("name", featureWithParams.featureName));
-                    concreteNode.Add(new XElement("selected", false));
-                    
-                    if (featureWithParams.clickTO != null)
-                        concreteNode.Add(new XElement("clickTO", featureWithParams.clickTO));
-                    
-                    if (featureWithParams.clickFROM != null)
-                        concreteNode.Add(new XElement("clickFROM", featureWithParams.clickFROM));
-                    
-                    if (featureWithParams.longClickTO != null)
-                        concreteNode.Add(new XElement("longClickTO", featureWithParams.longClickTO));
-
-                    if (featureWithParams.longClickFROM != null)
-                        concreteNode.Add(new XElement("longClickFROM", featureWithParams.longClickFROM));
-                    
-                    concreteNode.Add(new XElement("required", featureWithParams.required));
-
-//                    concreteNode.Add(new XElement("fileName", featureWithParams.fileName));
-                    
-                    concreteNodes.Add(concreteNode);
-                }
-                
-                XElement abstractNode = new XElement("abstract_node");
-                abstractNode.Add(new XAttribute("name", abstractFeatureName));
-                abstractNode.Add(concreteNodes);
-                
-                model.Add(abstractNode);
-            }
-            
-            xdoc.Add(model);
-            xdoc.Save(generatedModelFileName);
-        }
         
         private static async Task GenerateMainFile(FeatureModel model, string classTemplate, 
-            string classForGeneration, string pathToDirectoryWithFeatures)
-        {
-            Console.WriteLine("Start generate file");
-            var engine = new RazorLightEngineBuilder()
-                .UseFilesystemProject(AppDomain.CurrentDomain.BaseDirectory + "../../../")
-                .UseMemoryCachingProvider()
-                .Build();
+                 string classForGeneration, string pathToDirectoryWithFeatures)
+             {
+                 Console.WriteLine("Start generate file");
+                 var engine = new RazorLightEngineBuilder()
+                     .UseFilesystemProject(AppDomain.CurrentDomain.BaseDirectory + "../../../")
+                     .UseMemoryCachingProvider()
+                     .Build();
             
-            var result = engine.CompileRenderAsync(classTemplate, model).Result;
-            File.WriteAllText(Path.Combine(pathToDirectoryWithFeatures, classForGeneration), result);
-            Console.WriteLine("File generated");
-        }
+                 var result = engine.CompileRenderAsync(classTemplate, model).Result;
+                 File.WriteAllText(Path.Combine(pathToDirectoryWithFeatures, classForGeneration), result);
+                 Console.WriteLine("File generated");
+             }
 
-        private static FeatureModel LoadModel(string modelFileName)
-        {
-            XmlDocument xDoc = new XmlDocument();
-            xDoc.Load(modelFileName);
-            XmlElement model = xDoc.DocumentElement;
+             private static FeatureModel LoadModel(string modelFileName)
+             {
+                 XmlDocument xDoc = new XmlDocument();
+                 xDoc.Load(modelFileName);
+                 XmlElement model = xDoc.DocumentElement;
             
-            FeatureModel featureModel = new FeatureModel();
+                 FeatureModel featureModel = new FeatureModel();
             
-            foreach(XmlNode abstractNode in model)
-            {
-                if(abstractNode.Attributes.Count > 0)
-                {
-                    XmlNode attr = abstractNode.Attributes.GetNamedItem("name");
-                    Console.WriteLine("---" + attr?.Value);
-                }
+                 foreach(XmlNode abstractNode in model)
+                 {
+                     if(abstractNode.Attributes.Count > 0)
+                     {
+                         XmlNode attr = abstractNode.Attributes.GetNamedItem("name");
+                         Console.WriteLine("---" + attr?.Value);
+                     }
                 
-                foreach(XmlNode concreteNodes in abstractNode.ChildNodes)
-                {
-                    foreach (XmlNode concreteNode in concreteNodes.ChildNodes)
-                    {
-                        String concreteNodeName = concreteNode.Attributes.GetNamedItem("name").Value;
-                        Console.WriteLine("------" + concreteNodeName);
+                     foreach(XmlNode concreteNodes in abstractNode.ChildNodes)
+                     {
+                         foreach (XmlNode concreteNode in concreteNodes.ChildNodes)
+                         {
+                             String concreteNodeName = concreteNode.Attributes.GetNamedItem("name").Value;
+                             Console.WriteLine("------" + concreteNodeName);
 
-                        foreach (XmlNode concreteNodeItem in concreteNode.ChildNodes)
-                        {
-                            if (concreteNodeItem.Name.Equals("selected"))
-                            {
-                                featureModel.addFeatureWithSelectFlag(concreteNodeName, Boolean.Parse(concreteNodeItem.InnerText));
-                            }
+                             foreach (XmlNode concreteNodeItem in concreteNode.ChildNodes)
+                             {
+                                 if (concreteNodeItem.Name.Equals("selected"))
+                                 {
+                                     featureModel.addFeatureWithSelectFlag(concreteNodeName, Boolean.Parse(concreteNodeItem.InnerText));
+                                 }
 //                            if (concreteNodeItem.Name.Equals("required"))
 //                            {
 //                                featureModel.addFeatureWithSelectFlag(concreteNodeName, Boolean.Parse(concreteNodeItem.InnerText));
 //                            }
-                        }
-                    }
-                }
-            }
-            return featureModel;
-        }
+                             }
+                         }
+                     }
+                 }
+                 return featureModel;
+             }
 
-        private static void CopyAppDirectoryToEnvironment(string sourceDirectory, string targetDirectory, FeatureModel model)
-        {
-            DirectoryInfo dirSource = new DirectoryInfo(sourceDirectory);
-            DirectoryInfo dirTarget = 
-                new DirectoryInfo(Path.Combine(targetDirectory, sourceDirectory.Split("/").Last()));
+             private static void CopyAppDirectoryToEnvironment(string sourceDirectory, string targetDirectory, FeatureModel model)
+             {
+                 DirectoryInfo dirSource = new DirectoryInfo(sourceDirectory);
+                 DirectoryInfo dirTarget = 
+                     new DirectoryInfo(Path.Combine(targetDirectory, sourceDirectory.Split("/").Last()));
 
-            FindFeatureFilesThatShouldNotBeLoad(sourceDirectory, model);
+                 FindFeatureFilesThatShouldNotBeLoad(sourceDirectory, model);
  
-            CopyAll(dirSource, dirTarget, model);
+                 CopyAll(dirSource, dirTarget, model);
             
-        }
+             }
  
-        private static void CopyAll(DirectoryInfo source, DirectoryInfo target, FeatureModel model)
-        {
-            Directory.CreateDirectory(target.FullName);
+             private static void CopyAll(DirectoryInfo source, DirectoryInfo target, FeatureModel model)
+             {
+                 Directory.CreateDirectory(target.FullName);
  
-            foreach (FileInfo fileInfo in source.GetFiles())
-            {
-                if (shouldNotBeLoadedFileList.Contains(fileInfo.Name))
-                {
-                    continue;
-                }
+                 foreach (FileInfo fileInfo in source.GetFiles())
+                 {
+                     if (shouldNotBeLoadedFileList.Contains(fileInfo.Name))
+                     {
+                         continue;
+                     }
                 
-                Console.WriteLine(@"Copying {0}\{1}", target.FullName, fileInfo.Name);
-                    fileInfo.CopyTo(Path.Combine(target.FullName, fileInfo.Name), true);
-            }
+                     Console.WriteLine(@"Copying {0}\{1}", target.FullName, fileInfo.Name);
+                     fileInfo.CopyTo(Path.Combine(target.FullName, fileInfo.Name), true);
+                 }
  
-            foreach (DirectoryInfo dirInfoSourceSubDir in source.GetDirectories())
-            {
-                DirectoryInfo nextTargetSubDir = target.CreateSubdirectory(dirInfoSourceSubDir.Name);
-                CopyAll(dirInfoSourceSubDir, nextTargetSubDir, model);
-            }
-        }
+                 foreach (DirectoryInfo dirInfoSourceSubDir in source.GetDirectories())
+                 {
+                     DirectoryInfo nextTargetSubDir = target.CreateSubdirectory(dirInfoSourceSubDir.Name);
+                     CopyAll(dirInfoSourceSubDir, nextTargetSubDir, model);
+                 }
+             }
         
         private static readonly List<string> shouldNotBeLoadedFileList =  new List<string>();
 

@@ -2,66 +2,219 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="63f25266-ea63-4127-85a1-4fde364d34d8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/.idea/caches/build_file_checksums.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/.idea/runConfigurations.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/src/androidTest/java/com/example/polina/adminapp/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/src/main/res/drawable/ic_add_black_24dp.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/src/main/res/layout/activity_attended_clients.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/src/main/res/layout/activity_attented_client_form.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/src/main/res/layout/activity_common_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/src/main/res/layout/activity_lecture_edition.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/src/main/res/layout/activity_runner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/app/src/test/java/com/example/polina/adminapp/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration_________/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/XmlModelGenerator.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/adminapp/LectureAddition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/adminapp/LectureDeletion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/adminapp/LectureListActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/adminapp/OnSwipeTouchListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/adminapp/RunnerActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/adminapp_/AnnotationList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/adminapp_/AttendedClientsActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/adminapp_/ClientFormActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/adminapp_/Lecture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/adminapp_/LectureEdition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/adminapp_/ServerConnectionInstallation/IServerConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/adminapp_/ServerConnectionInstallation/NoServerConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/adminapp_/ServerConnectionInstallation/ServerConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppGeneration/adminapp_/ServerConnectionInstallation/ServerSetting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AppGeneration/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AppGeneration/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.AppGeneration/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AppGeneration/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.AppGeneration/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.AppGeneration/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/.idea/codeStyles/Project.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/.idea/runConfigurations.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/.idea/runConfigurations.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/proguard-rules.pro" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/androidTest/java/com/example/polina/adminapp/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/androidTest/java/com/example/polina/adminapp/ExampleInstrumentedTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/androidTest/java/com/example/polina/adminapp/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/src/androidTest/java/com/example/polina/adminapp/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/java/com/example/polina/adminapp/AttendedClientsActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/java/com/example/polina/adminapp/ClientFormActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/java/com/example/polina/adminapp/Lecture.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/java/com/example/polina/adminapp/LectureAddition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/java/com/example/polina/adminapp/LectureDeletion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/java/com/example/polina/adminapp/LectureEdition.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/java/com/example/polina/adminapp/LectureListActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/java/com/example/polina/adminapp/OnSwipeTouchListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/java/com/example/polina/adminapp/RunnerActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/drawable/ic_add_black_24dp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/drawable/ic_add_black_24dp.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/drawable/ic_add_black_24dp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/src/main/res/drawable/ic_add_black_24dp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/layout/activity_attended_clients.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/layout/activity_attended_clients.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/layout/activity_attended_clients.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/src/main/res/layout/activity_attended_clients.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/layout/activity_attented_client_form.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/src/main/res/layout/activity_attented_client_form.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/layout/activity_common_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/src/main/res/layout/activity_common_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/layout/activity_lecture_edition.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/layout/activity_lecture_edition.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/layout/activity_lecture_edition.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/src/main/res/layout/activity_lecture_edition.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/layout/activity_runner.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/src/main/res/layout/activity_runner.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/values/colors.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/src/main/res/values/colors.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/values/dimens.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/src/main/res/values/dimens.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/values/strings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/values/styles.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/test/java/com/example/polina/adminapp/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/test/java/com/example/polina/adminapp/ExampleUnitTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/app/src/test/java/com/example/polina/adminapp/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/app/src/test/java/com/example/polina/adminapp/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/gradle.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/gradlew" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/gradlew.bat" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/settings.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AdminApp/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppForGeneration__/AdminApp/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/AppForGeneration/AppForGeneration/app/src/main/java/com/example/polina/adminapp/LectureListActivity.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppGeneration.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppGeneration.csproj" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/AppGenerator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/AppGenerator.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/FeatureModel.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/FeatureModel.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/FeatureWithParameters.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/FeatureWithParameters.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/LectureListActivityTemplate.cshtml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/LectureListActivityTemplate.cshtml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppGeneration/adminapp/AnnotationList.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/adminapp_/AnnotationList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppGeneration/adminapp/AttendedClientsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/adminapp_/AttendedClientsActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppGeneration/adminapp/ClientFormActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/adminapp_/ClientFormActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppGeneration/adminapp/Lecture.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/adminapp_/Lecture.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppGeneration/adminapp/LectureEdition.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/adminapp_/LectureEdition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppGeneration/adminapp/ServerConnectionInstallation/IServerConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/adminapp_/ServerConnectionInstallation/IServerConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppGeneration/adminapp/ServerConnectionInstallation/NoServerConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/adminapp_/ServerConnectionInstallation/NoServerConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppGeneration/adminapp/ServerConnectionInstallation/ServerConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/adminapp_/ServerConnectionInstallation/ServerConnection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AppGeneration/adminapp/ServerConnectionInstallation/ServerSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/adminapp_/ServerConnectionInstallation/ServerSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/adminapp/AnnotationList.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/adminapp/AnnotationList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/adminapp/AttendedClientsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/adminapp/AttendedClientsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/adminapp/ClientFormActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/adminapp/ClientFormActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/adminapp/Lecture.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/adminapp/Lecture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/adminapp/LectureEdition.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/adminapp/LectureEdition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/adminapp/ServerConnectionInstallation/IServerConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/adminapp/ServerConnectionInstallation/IServerConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/adminapp/ServerConnectionInstallation/NoServerConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/adminapp/ServerConnectionInstallation/NoServerConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/adminapp/ServerConnectionInstallation/ServerConnection.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/adminapp/ServerConnectionInstallation/ServerConnection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/adminapp/ServerConnectionInstallation/ServerSetting.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/adminapp/ServerConnectionInstallation/ServerSetting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/proguard-rules.pro" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/proguard-rules.pro" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/androidTest/java/com/example/polina/adminapp/ExampleInstrumentedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/androidTest/java/com/example/polina/adminapp/ExampleInstrumentedTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/java/com/example/polina/adminapp/AttendedClientsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/java/com/example/polina/adminapp/AttendedClientsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/java/com/example/polina/adminapp/ClientFormActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/java/com/example/polina/adminapp/ClientFormActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/java/com/example/polina/adminapp/LectureAddition.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/java/com/example/polina/adminapp/LectureAddition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/java/com/example/polina/adminapp/LectureDeletion.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/java/com/example/polina/adminapp/LectureDeletion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/java/com/example/polina/adminapp/LectureEdition.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/java/com/example/polina/adminapp/LectureEdition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/java/com/example/polina/adminapp/LectureListActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/java/com/example/polina/adminapp/LectureListActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/java/com/example/polina/adminapp/OnSwipeTouchListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/java/com/example/polina/adminapp/OnSwipeTouchListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/java/com/example/polina/adminapp/RunnerActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/java/com/example/polina/adminapp/RunnerActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/drawable/ic_add_black_24dp.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/drawable/ic_add_black_24dp.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/layout/activity_attended_clients.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/layout/activity_attended_clients.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/layout/activity_lecture_edition.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/layout/activity_lecture_edition.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/values/styles.xml" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/main/res/values/styles.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/test/java/com/example/polina/adminapp/ExampleUnitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/app/src/test/java/com/example/polina/adminapp/ExampleUnitTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AdminApp/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppGeneration/dissertation/AppForGeneration/app/src/main/java/com/example/polina/adminapp/LectureListActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/AppGeneration/dissertation/AppForGeneration/app/src/main/java/com/example/polina/adminapp/LectureListActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AppGeneration/generatedModel.xml" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -102,82 +255,45 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AppGeneration/Program.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
-              <folding>
-                <marker date="1561542644648" expanded="true" signature="6:64" ph="..." />
-                <marker date="1561542644648" expanded="true" signature="89:992" ph="{...}" />
-                <marker date="1561542644648" expanded="true" signature="109:990" ph="{...}" />
-                <marker date="1561542644648" expanded="true" signature="578:984" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AppGeneration/AppGenerator.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="312">
-              <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
+            <state relative-caret-position="2460">
+              <caret line="164" column="46" lean-forward="true" selection-start-line="164" selection-start-column="46" selection-end-line="164" selection-end-column="46" />
               <folding>
-                <marker date="1572381185017" expanded="true" signature="6:267" ph="..." />
-                <marker date="1572381185017" expanded="true" signature="292:12943" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="331:12941" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="523:918" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="609:908" ph="/* FeatureModel model = LoadModel(modelFileName); ... */" />
-                <marker date="1572381185017" expanded="true" signature="1015:1222" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="1309:4760" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="2231:4699" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="2435:4685" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="2841:4354" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="3055:4332" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="4896:7310" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="5256:7211" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="5451:6923" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="5522:5651" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="7488:8023" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="8092:9785" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="8380:9742" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="8448:8625" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="8716:9728" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="8813:9710" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="9096:9688" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="9196:9388" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="9389:9662" ph="/* if (concreteNodeItem.Name.Equals(&quot;required&quot;)) ... */" />
-                <marker date="1572381185017" expanded="true" signature="9912:10285" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="10387:11170" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="10516:10874" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="10601:10667" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="10959:11160" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="11371:12926" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="11774:12916" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="11978:12902" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="12189:12884" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="12337:12667" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="12508:12641" ph="{...}" />
-                <marker date="1572381185017" expanded="true" signature="12738:12862" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="6:267" ph="..." />
+                <marker date="1572395945525" expanded="true" signature="292:13684" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="331:13682" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="523:918" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="609:908" ph="/* FeatureModel model = LoadModel(modelFileName); ... */" />
+                <marker date="1572395945525" expanded="true" signature="1016:1241" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="1328:7714" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="2925:7653" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="3129:7639" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="3950:7104" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="4164:7082" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="7898:8483" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="8557:10400" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="8875:10347" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="8953:9150" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="9246:10328" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="9353:10305" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="9656:10278" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="9766:9973" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="9974:10247" ph="/* if (concreteNodeItem.Name.Equals(&quot;required&quot;)) ... */" />
+                <marker date="1572395945525" expanded="true" signature="10532:10940" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="11047:11911" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="11191:11585" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="11286:11367" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="11675:11896" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="12112:13667" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="12515:13657" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="12719:13643" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="12930:13625" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="13078:13408" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="13249:13382" ph="{...}" />
+                <marker date="1572395945525" expanded="true" signature="13479:13603" ph="{...}" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79984452-719B-4E08-BAA5-54379632421B/97/a6a1c4e8/RazorLightEngine.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="53" column="24" selection-start-line="53" selection-start-column="24" selection-end-line="53" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79984452-719B-4E08-BAA5-54379632421B/14/6140bc91/RazorLightEngineBuilder.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="43" column="35" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -185,68 +301,86 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AppGeneration/generatedModel.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="35" column="24" selection-start-line="32" selection-start-column="8" selection-end-line="35" selection-end-column="24" />
+            <state relative-caret-position="330">
+              <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AppGeneration/adminapp_/AnnotationList.java">
+        <entry file="file://$PROJECT_DIR$/AppGeneration/XmlModelGenerator.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="562">
-              <caret line="75" column="23" selection-start-line="75" selection-start-column="23" selection-end-line="75" selection-end-column="23" />
+            <state relative-caret-position="234">
+              <caret line="182" column="51" selection-start-line="182" selection-start-column="51" selection-end-line="182" selection-end-column="51" />
+              <folding>
+                <marker date="1572395945528" expanded="true" signature="6:267" ph="..." />
+                <marker date="1572395945528" expanded="true" signature="292:9094" ph="{...}" />
+                <marker date="1572395945528" expanded="true" signature="336:9092" ph="{...}" />
+                <marker date="1572395945528" expanded="true" signature="533:1525" ph="{...}" />
+                <marker date="1572395945528" expanded="true" signature="1717:2613" ph="{...}" />
+                <marker date="1572395945528" expanded="true" signature="2731:2932" ph="{...}" />
+                <marker date="1572395945528" expanded="true" signature="2839:2896" ph="{...}" />
+                <marker date="1572395945528" expanded="true" signature="3067:4844" ph="{...}" />
+                <marker date="1572395945528" expanded="true" signature="3605:4410" ph="{...}" />
+                <marker date="1572395945528" expanded="true" signature="3773:4396" ph="{...}" />
+                <marker date="1572395945528" expanded="true" signature="4047:4160" ph="{...}" />
+                <marker date="1572395945528" expanded="true" signature="4185:4378" ph="{...}" />
+                <marker date="1572395945528" expanded="true" signature="4427:4744" ph="{...}" />
+                <marker date="1572395945528" expanded="true" signature="5013:7381" ph="{...}" />
+                <marker date="1572395945528" expanded="true" signature="5152:7333" ph="{...}" />
+                <marker date="1572395945528" expanded="true" signature="5586:6724" ph="{...}" />
+                <marker date="1572395945528" expanded="true" signature="5752:6706" ph="{...}" />
+                <marker date="1572395945528" expanded="true" signature="6198:6353" ph="{...}" />
+                <marker date="1572395945528" expanded="true" signature="6382:6567" ph="{...}" />
+                <marker date="1572395945528" expanded="true" signature="6745:7319" ph="{...}" />
+                <marker date="1572395945528" expanded="true" signature="7504:9076" ph="{...}" />
+                <marker date="1572395945528" expanded="true" signature="7635:9029" ph="{...}" />
+              </folding>
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D37F47B0-5F72-4FB8-BBC2-D1E7D2CE8829/36/13cadade/XAttribute.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AppGeneration/adminapp/LectureDeletion.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AppGeneration/adminapp/LectureAddition.java">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AppGeneration/adminapp/LectureEdition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-29" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AppGeneration/FeatureWithParameters.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+            <state relative-caret-position="-54">
+              <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
               <folding>
-                <marker date="1569939037266" expanded="true" signature="40:1173" ph="{...}" />
-                <marker date="1569939037266" expanded="true" signature="81:1171" ph="{...}" />
-                <marker date="1569939037266" expanded="true" signature="838:1165" ph="{...}" />
+                <marker date="1572384596201" expanded="true" signature="40:2485" ph="{...}" />
+                <marker date="1572384596201" expanded="true" signature="81:2483" ph="{...}" />
+                <marker date="1572384596201" expanded="true" signature="1766:2477" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/AppGeneration/LectureListActivityTemplate__.cshtml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="52">
-              <caret line="206" column="9" selection-start-line="206" selection-start-column="9" selection-end-line="206" selection-end-column="9" />
-              <folding>
-                <marker date="1561128805126" expanded="false" signature="7:38" ph="..." />
-                <marker date="1561128805126" expanded="true" signature="1549:1652" ph="@..." />
-                <marker date="1561128805126" expanded="true" signature="1579:1652" ph="{...}" />
-                <marker date="1561128805126" expanded="true" signature="1661:1758" ph="@..." />
-                <marker date="1561128805126" expanded="true" signature="1692:1758" ph="{...}" />
-                <marker date="1561128805126" expanded="true" signature="3100:3357" ph="@..." />
-                <marker date="1561128805126" expanded="true" signature="3139:3357" ph="{...}" />
-                <marker date="1561128805126" expanded="true" signature="3162:3347" ph="@{...}" />
-                <marker date="1561128805126" expanded="true" signature="3597:4031" ph="@..." />
-                <marker date="1561128805126" expanded="true" signature="3635:4031" ph="{...}" />
-                <marker date="1561128805126" expanded="true" signature="3658:4021" ph="@{...}" />
-                <marker date="1561128805126" expanded="true" signature="4041:4485" ph="@..." />
-                <marker date="1561128805126" expanded="true" signature="4075:4485" ph="{...}" />
-                <marker date="1561128805126" expanded="true" signature="4098:4475" ph="@{...}" />
-                <marker date="1561128805126" expanded="true" signature="4495:4633" ph="@..." />
-                <marker date="1561128805126" expanded="true" signature="4567:4633" ph="{...}" />
-                <marker date="1561128805126" expanded="true" signature="5897:6279" ph="@..." />
-                <marker date="1561128805126" expanded="true" signature="5935:6279" ph="{...}" />
-                <marker date="1561128805126" expanded="true" signature="5958:6269" ph="@{...}" />
-                <marker date="1561128805126" expanded="true" signature="6288:6383" ph="@..." />
-                <marker date="1561128805126" expanded="true" signature="6327:6383" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/AppGeneration/FeatureModel.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="60">
@@ -265,7 +399,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>appgen</find>
       <find>if</find>
       <find>onListItemClick</find>
       <find>onItemLongClick</find>
@@ -292,7 +425,10 @@
       <find>CopyAppDirectoryToEnvironment</find>
       <find>LectureListActivityTemplate</find>
       <find>raz</find>
+      <find>NeededAnywayFeatureFile</find>
       <find>GenerateMainFile</find>
+      <find>onButtonClickFromArgTO</find>
+      <find>priv</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -301,30 +437,48 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79984452-719B-4E08-BAA5-54379632421B/ab/1bae2d59/TemplateFactoryProvider.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/088051FB-72DE-4607-81C4-D1937DDE71E2/bb/d7fa0ad2/String.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AppGeneration/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AppGeneration/LectureListActivityTemplate__.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BBAD746A-B614-4D9F-90F1-8E1D6EEE458B/06/4bc807bd/ConcurrentDictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79984452-719B-4E08-BAA5-54379632421B/4a/1bc519a5/ITemplateFactoryProvider.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79984452-719B-4E08-BAA5-54379632421B/20/337a9b9f/RazorSourceGenerator.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BB916E5D-77F9-4A2E-888B-6F58CF7A713C/df/52841eff/Environment.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/AppGeneration/XmlModelGenerator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79984452-719B-4E08-BAA5-54379632421B/8f/99072a27/FileSystemRazorProject.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AppGeneration/AppGenerator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E75ECE5B-6641-41CC-A623-CFA83F657588/d7/00644bfa/TypeDesc.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/088051FB-72DE-4607-81C4-D1937DDE71E2/91/4ffdcaaf/Task`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/088051FB-72DE-4607-81C4-D1937DDE71E2/16/420f12db/Task.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79984452-719B-4E08-BAA5-54379632421B/14/6140bc91/RazorLightEngineBuilder.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/088051FB-72DE-4607-81C4-D1937DDE71E2/8f/d9a34113/ConfiguredTaskAwaitable`1.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BB916E5D-77F9-4A2E-888B-6F58CF7A713C/46/b7820538/StringReader.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AppGeneration/FeatureWithParameters.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/088051FB-72DE-4607-81C4-D1937DDE71E2/f5/b9748ca1/Dictionary`2.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/19CEFD2C-51FB-4C83-8489-238D9F3B2749/cf/ed387a96/Regex.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E75ECE5B-6641-41CC-A623-CFA83F657588/6c/672cd7c6/XmlSerializer.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/088051FB-72DE-4607-81C4-D1937DDE71E2/e0/dd321943/List`1.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AppGeneration/LectureListActivityTemplate.cshtml" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/AppGeneration/FeatureModel.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E75ECE5B-6641-41CC-A623-CFA83F657588/6e/76e9f5df/XmlNode.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79984452-719B-4E08-BAA5-54379632421B/97/a6a1c4e8/RazorLightEngine.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D37F47B0-5F72-4FB8-BBC2-D1E7D2CE8829/36/13cadade/XAttribute.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/E75ECE5B-6641-41CC-A623-CFA83F657588/fe/b11e5f02/XmlNodeList.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79984452-719B-4E08-BAA5-54379632421B/59/2bbda9c4/MemoryCachingProvider.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -365,9 +519,10 @@
         <option value="$PROJECT_DIR$/AppGeneration/adminapp/ServerConnectionInstallation/ServerSetting.java" />
         <option value="$PROJECT_DIR$/AppGeneration/Program.cs" />
         <option value="$PROJECT_DIR$/AppGeneration/adminapp/AttendedClientsActivity.java" />
-        <option value="$PROJECT_DIR$/AppGeneration/FeatureWithParameters.cs" />
         <option value="$PROJECT_DIR$/AppGeneration/generatedModel.xml" />
         <option value="$PROJECT_DIR$/AppGeneration/adminapp/AnnotationList.java" />
+        <option value="$PROJECT_DIR$/AppGeneration/FeatureWithParameters.cs" />
+        <option value="$PROJECT_DIR$/AppGeneration/XmlModelGenerator.cs" />
         <option value="$PROJECT_DIR$/AppGeneration/AppGenerator.cs" />
       </list>
     </option>
@@ -418,7 +573,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="SolutionBuilderGeneralOptionsPageId" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -466,12 +621,12 @@
       <workItem from="1561327117223" duration="23264000" />
       <workItem from="1569361442850" duration="7489000" />
       <workItem from="1570636961421" duration="494000" />
-      <workItem from="1572099149414" duration="2379000" />
+      <workItem from="1572099149414" duration="15020000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="84998000" />
+    <option name="totallyTimeSpent" value="97639000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -487,7 +642,7 @@
     <editor active="true" />
     <layout>
       <window_info id="Favorites" order="0" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.25035766" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.23319027" />
       <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
       <window_info anchor="bottom" id="Unit Tests" order="1" />
@@ -496,12 +651,12 @@
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="5" />
       <window_info anchor="bottom" id="Performance Profiler" order="6" />
-      <window_info anchor="bottom" id="Build" order="7" weight="0.32409638" />
+      <window_info anchor="bottom" id="Build" order="7" weight="0.22547771" />
       <window_info anchor="bottom" id="NuGet" order="8" weight="0.28674698" />
       <window_info anchor="bottom" id="Message" order="9" />
       <window_info anchor="bottom" id="Find" order="10" />
-      <window_info anchor="bottom" id="Run" order="11" weight="0.27951807" />
-      <window_info anchor="bottom" id="Debug" order="12" visible="true" weight="0.33012047" />
+      <window_info anchor="bottom" id="Run" order="11" visible="true" weight="0.22420382" />
+      <window_info anchor="bottom" id="Debug" order="12" weight="0.3490446" />
       <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="15" />
@@ -596,52 +751,39 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/AppGeneration/AppGenerator.cs</url>
-          <line>157</line>
+          <line>153</line>
           <properties documentPath="$PROJECT_DIR$/AppGeneration/AppGenerator.cs" initialLine="144">
             <startOffsets>
-              <option value="7511" />
+              <option value="7931" />
             </startOffsets>
             <endOffsets>
-              <option value="7552" />
+              <option value="7972" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="64" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="DotNet Breakpoints">
-          <url>file://$PROJECT_DIR$/AppGeneration/AppGenerator.cs</url>
-          <line>138</line>
-          <properties documentPath="$PROJECT_DIR$/AppGeneration/AppGenerator.cs" initialLine="128">
-            <startOffsets>
-              <option value="6760" />
-            </startOffsets>
-            <endOffsets>
-              <option value="6831" />
-            </endOffsets>
-          </properties>
-          <option name="timeStamp" value="72" />
-        </line-breakpoint>
         <line-breakpoint type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/AppGeneration/AppGenerator.cs</url>
-          <line>193</line>
+          <line>189</line>
           <properties documentPath="$PROJECT_DIR$/AppGeneration/AppGenerator.cs" initialLine="183">
             <startOffsets>
-              <option value="9151" />
+              <option value="9721" />
             </startOffsets>
             <endOffsets>
-              <option value="9196" />
+              <option value="9766" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="74" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/AppGeneration/AppGenerator.cs</url>
-          <line>214</line>
+          <line>210</line>
           <properties documentPath="$PROJECT_DIR$/AppGeneration/AppGenerator.cs" initialLine="201">
             <startOffsets>
-              <option value="10150" />
+              <option value="10795" />
             </startOffsets>
             <endOffsets>
-              <option value="10210" />
+              <option value="10855" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="79" />
@@ -661,93 +803,117 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/AppGeneration/AppGenerator.cs</url>
-          <line>205</line>
+          <line>201</line>
           <properties documentPath="$PROJECT_DIR$/AppGeneration/AppGenerator.cs" initialLine="205">
             <startOffsets>
-              <option value="9755" />
+              <option value="10365" />
             </startOffsets>
             <endOffsets>
-              <option value="9775" />
+              <option value="10385" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="82" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/AppGeneration/AppGenerator.cs</url>
-          <line>188</line>
+          <line>184</line>
           <properties documentPath="$PROJECT_DIR$/AppGeneration/AppGenerator.cs" initialLine="188">
             <startOffsets>
-              <option value="8860" />
+              <option value="9410" />
             </startOffsets>
             <endOffsets>
-              <option value="8937" />
+              <option value="9487" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="90" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/AppGeneration/AppGenerator.cs</url>
+          <line>19</line>
+          <properties documentPath="$PROJECT_DIR$/AppGeneration/AppGenerator.cs" initialLine="19">
+            <startOffsets>
+              <option value="546" />
+            </startOffsets>
+            <endOffsets>
+              <option value="608" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/AppGeneration/AppGenerator.cs</url>
+          <line>114</line>
+          <properties documentPath="$PROJECT_DIR$/AppGeneration/AppGenerator.cs" initialLine="114">
+            <startOffsets>
+              <option value="5770" />
+            </startOffsets>
+            <endOffsets>
+              <option value="5850" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
-    <watches-manager>
-      <configuration name="DotNetProject">
-        <watch expression="concreteNodes.ChildNodes" language="C#" custom="RiderImportsList:" />
-        <watch expression="concreteNodes.ChildNodes[0]" language="C#" custom="RiderImportsList:" />
-        <watch expression="concreteNode.Name" language="C#" custom="RiderImportsList:" />
-        <watch expression="concreteNodes.ChildNodes[0].Attributes" language="C#" custom="RiderImportsList:" />
-      </configuration>
-    </watches-manager>
   </component>
   <component name="debuggerHistoryManager">
     <expressions id="watch">
       <expression>
-        <expression-string>concreteNode.Name</expression-string>
+        <expression-string>groupedByXorAbstract.Count</expression-string>
         <language-id>C#</language-id>
         <custom-info>RiderImportsList:</custom-info>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>concreteNode.Value</expression-string>
+        <expression-string>featureListForModelGeneration.GroupBy(x =&gt; x.xorAbstractGroup).ToList()</expression-string>
         <language-id>C#</language-id>
         <custom-info>RiderImportsList:</custom-info>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>concreteNode</expression-string>
+        <expression-string>groupedByXorAbstract.ToList()</expression-string>
         <language-id>C#</language-id>
         <custom-info>RiderImportsList:</custom-info>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>concreteNodes.ChildNodes[0]</expression-string>
+        <expression-string>groupedByXorAbstract.Count()</expression-string>
         <language-id>C#</language-id>
         <custom-info>RiderImportsList:</custom-info>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>concreteNodes.ChildNodes[0].Attributes.GetNamedItem(&quot;name&quot;).Value</expression-string>
+        <expression-string>groupedByXorAbstract.Count() &gt; 1</expression-string>
         <language-id>C#</language-id>
         <custom-info>RiderImportsList:</custom-info>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>concreteNodes.ChildNodes[0].Attributes.GetNamedItem(&quot;name&quot;)</expression-string>
+        <expression-string>Type(groupedByXorAbstract)</expression-string>
         <language-id>C#</language-id>
         <custom-info>RiderImportsList:</custom-info>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>concreteNodes.ChildNodes[0].Attributes</expression-string>
+        <expression-string>groupedByXorAbstract.GetType().ToString()</expression-string>
         <language-id>C#</language-id>
         <custom-info>RiderImportsList:</custom-info>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>concreteNodes.ChildNodes.ToString</expression-string>
+        <expression-string>groupedByXorAbstract.GetType().ToString()()</expression-string>
         <language-id>C#</language-id>
         <custom-info>RiderImportsList:</custom-info>
         <evaluation-mode>EXPRESSION</evaluation-mode>
       </expression>
       <expression>
-        <expression-string>concreteNodes.ChildNodes</expression-string>
+        <expression-string>groupedByXorAbstract.GetType()</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>typeof(groupedByXorAbstract)</expression-string>
         <language-id>C#</language-id>
         <custom-info>RiderImportsList:</custom-info>
         <evaluation-mode>EXPRESSION</evaluation-mode>
@@ -755,42 +921,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AppGen/LectureListActivityTemplate.template" />
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79984452-719B-4E08-BAA5-54379632421B/59/2bbda9c4/MemoryCachingProvider.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="23" column="6" selection-start-line="23" selection-start-column="6" selection-end-line="23" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/BBAD746A-B614-4D9F-90F1-8E1D6EEE458B/06/4bc807bd/ConcurrentDictionary`2.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="204" column="6" selection-start-line="204" selection-start-column="6" selection-end-line="204" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/088051FB-72DE-4607-81C4-D1937DDE71E2/91/4ffdcaaf/Task`1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="227" column="8" selection-start-line="227" selection-start-column="8" selection-end-line="227" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/79984452-719B-4E08-BAA5-54379632421B/ab/1bae2d59/TemplateFactoryProvider.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="276">
-          <caret line="67" column="6" selection-start-line="67" selection-start-column="6" selection-end-line="67" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/088051FB-72DE-4607-81C4-D1937DDE71E2/8f/d9a34113/ConfiguredTaskAwaitable`1.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="65">
-          <caret line="42" column="7" selection-start-line="42" selection-start-column="7" selection-end-line="42" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/088051FB-72DE-4607-81C4-D1937DDE71E2/bb/d7fa0ad2/String.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="149">
@@ -899,13 +1029,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D37F47B0-5F72-4FB8-BBC2-D1E7D2CE8829/36/13cadade/XAttribute.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="29" column="41" selection-start-line="29" selection-start-column="41" selection-end-line="29" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AppGeneration/adminapp_/ServerConnectionInstallation/ServerConnection.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -1010,18 +1133,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AppGeneration/FeatureWithParameters.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding>
-            <marker date="1569939037266" expanded="true" signature="40:1173" ph="{...}" />
-            <marker date="1569939037266" expanded="true" signature="81:1171" ph="{...}" />
-            <marker date="1569939037266" expanded="true" signature="838:1165" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AppGeneration/LectureListActivityTemplate__.cshtml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="52">
@@ -1080,58 +1191,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AppGeneration/generatedModel.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="35" column="24" selection-start-line="32" selection-start-column="8" selection-end-line="35" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AppGeneration/AppGenerator.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="28" column="24" selection-start-line="28" selection-start-column="24" selection-end-line="28" selection-end-column="24" />
-          <folding>
-            <marker date="1572381185017" expanded="true" signature="6:267" ph="..." />
-            <marker date="1572381185017" expanded="true" signature="292:12943" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="331:12941" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="523:918" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="609:908" ph="/* FeatureModel model = LoadModel(modelFileName); ... */" />
-            <marker date="1572381185017" expanded="true" signature="1015:1222" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="1309:4760" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="2231:4699" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="2435:4685" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="2841:4354" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="3055:4332" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="4896:7310" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="5256:7211" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="5451:6923" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="5522:5651" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="7488:8023" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="8092:9785" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="8380:9742" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="8448:8625" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="8716:9728" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="8813:9710" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="9096:9688" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="9196:9388" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="9389:9662" ph="/* if (concreteNodeItem.Name.Equals(&quot;required&quot;)) ... */" />
-            <marker date="1572381185017" expanded="true" signature="9912:10285" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="10387:11170" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="10516:10874" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="10601:10667" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="10959:11160" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="11371:12926" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="11774:12916" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="11978:12902" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="12189:12884" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="12337:12667" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="12508:12641" ph="{...}" />
-            <marker date="1572381185017" expanded="true" signature="12738:12862" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AppGeneration/FeatureModel.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="60">
@@ -1141,6 +1200,129 @@
             <marker date="1561502290901" expanded="true" signature="90:387" ph="{...}" />
             <marker date="1561502290901" expanded="true" signature="221:241" ph="{...}" />
             <marker date="1561502290901" expanded="true" signature="317:381" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/generatedModel__.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="40" column="24" selection-start-line="40" selection-start-column="24" selection-end-line="40" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/D37F47B0-5F72-4FB8-BBC2-D1E7D2CE8829/36/13cadade/XAttribute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="31" column="8" selection-start-line="31" selection-start-column="8" selection-end-line="31" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/adminapp/LectureEdition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/adminapp/LectureAddition.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/adminapp/LectureDeletion.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/088051FB-72DE-4607-81C4-D1937DDE71E2/e0/dd321943/List`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="186">
+          <caret line="188" column="16" selection-start-line="188" selection-start-column="16" selection-end-line="188" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/FeatureWithParameters.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-54">
+          <caret line="24" column="48" selection-start-line="24" selection-start-column="48" selection-end-line="24" selection-end-column="48" />
+          <folding>
+            <marker date="1572384596201" expanded="true" signature="40:2485" ph="{...}" />
+            <marker date="1572384596201" expanded="true" signature="81:2483" ph="{...}" />
+            <marker date="1572384596201" expanded="true" signature="1766:2477" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/XmlModelGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="182" column="51" selection-start-line="182" selection-start-column="51" selection-end-line="182" selection-end-column="51" />
+          <folding>
+            <marker date="1572395945528" expanded="true" signature="6:267" ph="..." />
+            <marker date="1572395945528" expanded="true" signature="292:9094" ph="{...}" />
+            <marker date="1572395945528" expanded="true" signature="336:9092" ph="{...}" />
+            <marker date="1572395945528" expanded="true" signature="533:1525" ph="{...}" />
+            <marker date="1572395945528" expanded="true" signature="1717:2613" ph="{...}" />
+            <marker date="1572395945528" expanded="true" signature="2731:2932" ph="{...}" />
+            <marker date="1572395945528" expanded="true" signature="2839:2896" ph="{...}" />
+            <marker date="1572395945528" expanded="true" signature="3067:4844" ph="{...}" />
+            <marker date="1572395945528" expanded="true" signature="3605:4410" ph="{...}" />
+            <marker date="1572395945528" expanded="true" signature="3773:4396" ph="{...}" />
+            <marker date="1572395945528" expanded="true" signature="4047:4160" ph="{...}" />
+            <marker date="1572395945528" expanded="true" signature="4185:4378" ph="{...}" />
+            <marker date="1572395945528" expanded="true" signature="4427:4744" ph="{...}" />
+            <marker date="1572395945528" expanded="true" signature="5013:7381" ph="{...}" />
+            <marker date="1572395945528" expanded="true" signature="5152:7333" ph="{...}" />
+            <marker date="1572395945528" expanded="true" signature="5586:6724" ph="{...}" />
+            <marker date="1572395945528" expanded="true" signature="5752:6706" ph="{...}" />
+            <marker date="1572395945528" expanded="true" signature="6198:6353" ph="{...}" />
+            <marker date="1572395945528" expanded="true" signature="6382:6567" ph="{...}" />
+            <marker date="1572395945528" expanded="true" signature="6745:7319" ph="{...}" />
+            <marker date="1572395945528" expanded="true" signature="7504:9076" ph="{...}" />
+            <marker date="1572395945528" expanded="true" signature="7635:9029" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/generatedModel.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AppGeneration/AppGenerator.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2460">
+          <caret line="164" column="46" lean-forward="true" selection-start-line="164" selection-start-column="46" selection-end-line="164" selection-end-column="46" />
+          <folding>
+            <marker date="1572395945525" expanded="true" signature="6:267" ph="..." />
+            <marker date="1572395945525" expanded="true" signature="292:13684" ph="{...}" />
+            <marker date="1572395945525" expanded="true" signature="331:13682" ph="{...}" />
+            <marker date="1572395945525" expanded="true" signature="523:918" ph="{...}" />
+            <marker date="1572395945525" expanded="true" signature="609:908" ph="/* FeatureModel model = LoadModel(modelFileName); ... */" />
+            <marker date="1572395945525" expanded="true" signature="1016:1241" ph="{...}" />
+            <marker date="1572395945525" expanded="true" signature="1328:7714" ph="{...}" />
+            <marker date="1572395945525" expanded="true" signature="2925:7653" ph="{...}" />
+            <marker date="1572395945525" expanded="true" signature="3129:7639" ph="{...}" />
+            <marker date="1572395945525" expanded="true" signature="3950:7104" ph="{...}" />
+            <marker date="1572395945525" expanded="true" signature="4164:7082" ph="{...}" />
+            <marker date="1572395945525" expanded="true" signature="7898:8483" ph="{...}" />
+            <marker date="1572395945525" expanded="true" signature="8557:10400" ph="{...}" />
+            <marker date="1572395945525" expanded="true" signature="8875:10347" ph="{...}" />
+            <marker date="1572395945525" expanded="true" signature="8953:9150" ph="{...}" />
+            <marker date="1572395945525" expanded="true" signature="9246:10328" ph="{...}" />
+            <marker date="1572395945525" expanded="true" signature="9353:10305" ph="{...}" />
+            <marker date="1572395945525" expanded="true" signature="9656:10278" ph="{...}" />
+            <marker date="1572395945525" expanded="true" signature="9766:9973" ph="{...}" />
+            <marker date="1572395945525" expanded="true" signature="9974:10247" ph="/* if (concreteNodeItem.Name.Equals(&quot;required&quot;)) ... */" />
+            <marker date="1572395945525" expanded="true" signature="10532:10940" ph="{...}" />
+            <marker date="1572395945525" expanded="true" signature="11047:11911" ph="{...}" />
+            <marker date="1572395945525" expanded="true" signature="11191:11585" ph="{...}" />
+            <marker date="1572395945525" expanded="true" signature="11286:11367" ph="{...}" />
+            <marker date="1572395945525" expanded="true" signature="11675:11896" ph="{...}" />
+            <marker date="1572395945525" expanded="true" signature="12112:13667" ph="{...}" />
+            <marker date="1572395945525" expanded="true" signature="12515:13657" ph="{...}" />
+            <marker date="1572395945525" expanded="true" signature="12719:13643" ph="{...}" />
+            <marker date="1572395945525" expanded="true" signature="12930:13625" ph="{...}" />
+            <marker date="1572395945525" expanded="true" signature="13078:13408" ph="{...}" />
+            <marker date="1572395945525" expanded="true" signature="13249:13382" ph="{...}" />
+            <marker date="1572395945525" expanded="true" signature="13479:13603" ph="{...}" />
           </folding>
         </state>
       </provider>
