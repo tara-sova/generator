@@ -5,7 +5,7 @@
     <e p="$USER_HOME$/Library/Caches/Rider2019.1/resharper-host/local/Transient/ReSharperHost/v191/SolutionCaches/_AppGeneration.1728328516.00" t="ExcludeRecursive" />
     <e p="$PROJECT_DIR$" t="IncludeFlat">
       <e p="AppGeneration" t="IncludeRecursive">
-        <e p="adminapp" t="Include">
+        <e p="adminapp_" t="Include">
           <e p="AnnotationList.java" t="Include" />
           <e p="AttendedClientsActivity.java" t="Include" />
           <e p="ClientFormActivity.java" t="Include" />
@@ -19,7 +19,7 @@
             <e p="ServerSetting.java" t="Include" />
           </e>
         </e>
-        <e p="AppForGeneration" t="Include">
+        <e p="AppForGeneration__" t="Include">
           <e p=".idea" t="Include">
             <e p="Caches" t="Include">
               <e p="build_file_checksums.ser" t="Include" />
@@ -80,37 +80,6 @@
           </e>
           <e p="adminapp" t="Include">
             <e p=".gitignore" t="Include" />
-            <e p=".gradle" t="Include">
-              <e p="4.4" t="Include">
-                <e p="fileChanges" t="Include">
-                  <e p="last-build.bin" t="Include" />
-                </e>
-                <e p="fileContent" t="Include">
-                  <e p="fileContent.lock" t="Include" />
-                </e>
-                <e p="fileHashes" t="Include">
-                  <e p="fileHashes.bin" t="Include" />
-                  <e p="fileHashes.lock" t="Include" />
-                  <e p="resourceHashesCache.bin" t="Include" />
-                </e>
-                <e p="javaCompile" t="Include">
-                  <e p="classAnalysis.bin" t="Include" />
-                  <e p="jarAnalysis.bin" t="Include" />
-                  <e p="javaCompile.lock" t="Include" />
-                  <e p="taskHistory.bin" t="Include" />
-                  <e p="taskJars.bin" t="Include" />
-                </e>
-                <e p="taskHistory" t="Include">
-                  <e p="taskHistory.bin" t="Include" />
-                  <e p="taskHistory.lock" t="Include" />
-                </e>
-              </e>
-              <e p="buildOutputCleanup" t="Include">
-                <e p="buildOutputCleanup.lock" t="Include" />
-                <e p="cache.properties" t="Include" />
-                <e p="outputFiles.bin" t="Include" />
-              </e>
-            </e>
             <e p="AdminApp.iml" t="Include" />
             <e p="app" t="Include">
               <e p=".gitignore" t="Include" />
@@ -565,20 +534,17 @@
                       <e p="com" t="Include">
                         <e p="adminapp" t="Include">
                           <e p="AnnotationList$AbstractFeature.class" t="Include" />
+                          <e p="AnnotationList$ConnectedToFeature.class" t="Include" />
                           <e p="AnnotationList$Feature.class" t="Include" />
                           <e p="AnnotationList$InComingArg.class" t="Include" />
+                          <e p="AnnotationList$NeededAnyway.class" t="Include" />
                           <e p="AnnotationList$OnItemClickFROM.class" t="Include" />
                           <e p="AnnotationList$OnItemClickTO.class" t="Include" />
                           <e p="AnnotationList$OnLongItemClickFROM.class" t="Include" />
                           <e p="AnnotationList$OnLongItemClickTO.class" t="Include" />
                           <e p="AnnotationList$OutComingArg.class" t="Include" />
                           <e p="AnnotationList.class" t="Include" />
-                          <e p="AttendedClientsActivity.class" t="Include" />
-                          <e p="ClientFormActivity$1.class" t="Include" />
-                          <e p="ClientFormActivity.class" t="Include" />
                           <e p="Lecture.class" t="Include" />
-                          <e p="LectureEdition$1.class" t="Include" />
-                          <e p="LectureEdition.class" t="Include" />
                           <e p="LectureListActivity$1.class" t="Include" />
                           <e p="LectureListActivity.class" t="Include" />
                           <e p="ServerConnectionInstallation" t="Include">
@@ -1857,20 +1823,17 @@
                           <e p="com" t="Include">
                             <e p="adminapp" t="Include">
                               <e p="AnnotationList$AbstractFeature.class" t="Include" />
+                              <e p="AnnotationList$ConnectedToFeature.class" t="Include" />
                               <e p="AnnotationList$Feature.class" t="Include" />
                               <e p="AnnotationList$InComingArg.class" t="Include" />
+                              <e p="AnnotationList$NeededAnyway.class" t="Include" />
                               <e p="AnnotationList$OnItemClickFROM.class" t="Include" />
                               <e p="AnnotationList$OnItemClickTO.class" t="Include" />
                               <e p="AnnotationList$OnLongItemClickFROM.class" t="Include" />
                               <e p="AnnotationList$OnLongItemClickTO.class" t="Include" />
                               <e p="AnnotationList$OutComingArg.class" t="Include" />
                               <e p="AnnotationList.class" t="Include" />
-                              <e p="AttendedClientsActivity.class" t="Include" />
-                              <e p="ClientFormActivity$1.class" t="Include" />
-                              <e p="ClientFormActivity.class" t="Include" />
                               <e p="Lecture.class" t="Include" />
-                              <e p="LectureEdition$1.class" t="Include" />
-                              <e p="LectureEdition.class" t="Include" />
                               <e p="LectureListActivity$1.class" t="Include" />
                               <e p="LectureListActivity.class" t="Include" />
                               <e p="ServerConnectionInstallation" t="Include">
@@ -2142,20 +2105,17 @@
                           <e p="com" t="Include">
                             <e p="adminapp" t="Include">
                               <e p="AnnotationList$AbstractFeature.dex" t="Include" />
+                              <e p="AnnotationList$ConnectedToFeature.dex" t="Include" />
                               <e p="AnnotationList$Feature.dex" t="Include" />
                               <e p="AnnotationList$InComingArg.dex" t="Include" />
+                              <e p="AnnotationList$NeededAnyway.dex" t="Include" />
                               <e p="AnnotationList$OnItemClickFROM.dex" t="Include" />
                               <e p="AnnotationList$OnItemClickTO.dex" t="Include" />
                               <e p="AnnotationList$OnLongItemClickFROM.dex" t="Include" />
                               <e p="AnnotationList$OnLongItemClickTO.dex" t="Include" />
                               <e p="AnnotationList$OutComingArg.dex" t="Include" />
                               <e p="AnnotationList.dex" t="Include" />
-                              <e p="AttendedClientsActivity.dex" t="Include" />
-                              <e p="ClientFormActivity$1.dex" t="Include" />
-                              <e p="ClientFormActivity.dex" t="Include" />
                               <e p="Lecture.dex" t="Include" />
-                              <e p="LectureEdition$1.dex" t="Include" />
-                              <e p="LectureEdition.dex" t="Include" />
                               <e p="LectureListActivity$1.dex" t="Include" />
                               <e p="LectureListActivity.dex" t="Include" />
                               <e p="ServerConnectionInstallation" t="Include">
@@ -2314,22 +2274,7 @@
                 <e p="main" t="Include">
                   <e p="AndroidManifest.xml" t="Include" />
                   <e p="java" t="Include">
-                    <e p="com" t="Include">
-                      <e p="adminapp" t="Include">
-                        <e p="AnnotationList.java" t="Include" />
-                        <e p="AttendedClientsActivity.java" t="Include" />
-                        <e p="ClientFormActivity.java" t="Include" />
-                        <e p="Lecture.java" t="Include" />
-                        <e p="LectureEdition.java" t="Include" />
-                        <e p="LectureListActivity.java" t="Include" />
-                        <e p="ServerConnectionInstallation" t="Include">
-                          <e p="IServerConnection.java" t="Include" />
-                          <e p="NoServerConnection.java" t="Include" />
-                          <e p="ServerConnection.java" t="Include" />
-                          <e p="ServerSetting.java" t="Include" />
-                        </e>
-                      </e>
-                    </e>
+                    <e p="com" t="Include" />
                   </e>
                   <e p="res" t="Include">
                     <e p="drawable" t="Include">
@@ -2406,6 +2351,15 @@
             <e p="gradlew.bat" t="Include" />
             <e p="local.properties" t="Include" />
             <e p="settings.gradle" t="Include" />
+          </e>
+          <e p="app" t="Include">
+            <e p="src" t="Include">
+              <e p="main" t="Include">
+                <e p="java" t="Include">
+                  <e p="com" t="Include" />
+                </e>
+              </e>
+            </e>
           </e>
         </e>
         <e p="AppGeneration.csproj" t="IncludeRecursive" />

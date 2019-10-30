@@ -1,19 +1,17 @@
-package com.adminapp.ServerConnectionInstallation;
-import com.adminapp.Lecture;
+package com.example.polina.adminapp.ServerConnectionInstallation;
+import com.example.polina.adminapp.AnnotationList;
+import com.example.polina.adminapp.Lecture;
 
 import org.springframework.http.ResponseEntity;
 
-import com.adminapp.AnnotationList;
-import com.adminapp.Lecture;
-
 @AnnotationList.AbstractFeature(abstractFatureName = "UseServer")
 @AnnotationList.Feature(featureName = "Server")
+@AnnotationList.NeededAnywayFeatureFile(featureName = "Server")
 public class ServerSetting {
 
     private static IServerConnection server = null;
 
     public static void init(boolean serverFeatureActivated) {
-//        server = FeatureInstances.serverFeature.isFeatureActivated()
         server = serverFeatureActivated
                  ? new ServerConnection()
                  : new NoServerConnection();
@@ -36,5 +34,9 @@ public class ServerSetting {
     public static Lecture getLectureByPosition(long position) {
         Lecture lecture = server.getLectureByPosition(position);
         return lecture;
+    }
+
+    public static void deleteLecture(long position) {
+        server.deleteLecture(position);
     }
 }

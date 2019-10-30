@@ -1,8 +1,11 @@
-package com.adminapp;
+package com.example.polina.adminapp;
 
 import android.app.Activity;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
+
+
+
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -13,10 +16,11 @@ import com.google.gson.Gson;
 
 import java.util.ArrayList;
 
-import com.example.polina.adminapp.R;
-
 @AnnotationList.AbstractFeature(abstractFatureName = "RegisterOnAnEvent")
 @AnnotationList.Feature(featureName = "BeAttended")
+
+@AnnotationList.XorAbstractGroup(groupName = "1")
+
 public class ClientFormActivity extends AppCompatActivity {
 
     @AnnotationList.OnLongItemClickTO(featureNameFrom = "LectureListActivity")
@@ -92,13 +96,11 @@ public class ClientFormActivity extends AppCompatActivity {
                     }
                 }
 
-//                String editedLectureAsAString = gson.toJson(lecture);
                 lectureAsAString = gson.toJson(lecture);
 
                 Intent intent = new Intent(ClientFormActivity.this, LectureListActivity.class);
                 intent.putExtra("currentClient", currentClient);
                 intent.putExtra("lectureAsAString", lectureAsAString);
-//                intent.putExtra("editedLectureAsAString", editedLectureAsAString);
                 intent.putExtra("position", position);
 
                 setResult(Activity.RESULT_OK, intent);

@@ -17,10 +17,11 @@ namespace AppGeneration
         public static void generate(string modelFileName, string classForGeneration, string classTemplate, 
             string pathToDirectoryWithFeatures, string pathToTargetDirectory)
         {
-//            GenerateModelXml(pathToDirectoryWithFeatures,  modelFileName);
-            FeatureModel model = LoadModel(modelFileName);
-            GenerateMainFile(model, classTemplate, classForGeneration, pathToDirectoryWithFeatures).Wait();
-            CopyAppDirectoryToEnvironment(pathToDirectoryWithFeatures, pathToTargetDirectory);
+            GenerateModelXml(pathToDirectoryWithFeatures,  modelFileName);
+//            FeatureModel model = LoadModel(modelFileName);
+//            int a = 0;
+//            GenerateMainFile(model, classTemplate, classForGeneration, pathToDirectoryWithFeatures).Wait();
+//            CopyAppDirectoryToEnvironment(pathToDirectoryWithFeatures, pathToTargetDirectory, model);
         }
         
         public static void GenerateModelXml(string path, string generatedModelFileName)
@@ -36,6 +37,7 @@ namespace AppGeneration
             string annotationPattern = @"\s*@AnnotationList.\w*";
             string patternFeature = @"\s*@AnnotationList.Feature\w*";
             string patternAbstract = @"\s*@AnnotationList.AbstractFeature\w*";
+            string patternRequired = @"\s*@AnnotationList.RequiredFeature\w*";
             string patternOnItemClickTO = @"\s*@AnnotationList.OnItemClickTO\w*";
             string patternOnItemClickFROM = @"\s*@AnnotationList.OnItemClickFROM\w*";
             string patternOnLongItemClickTO = @"\s*@AnnotationList.OnLongItemClickTO\w*";
@@ -50,6 +52,7 @@ namespace AppGeneration
                 {
                     string featureName = null;
                     string abstractFeatureName = null;
+                    bool requiredFeature = false;
                     string longClickTO = null;
                     string longClickFROM = null;
                     string clickTO = null;
@@ -79,11 +82,17 @@ namespace AppGeneration
 
                             if (Regex.Match(line, patternAbstract).Success)
                                 abstractFeatureName = line.Split("AbstractFeature")[1].Split("\"")[1];
+
+                            if (Regex.Match(line, patternRequired).Success)
+                                requiredFeature = true;
+
                         }
                     }
                     if (featureName != null)
                         featureListForModelGeneration.Add(
-                        new FeatureWithParameters(featureName, abstractFeatureName, longClickTO, longClickFROM, clickTO, clickFROM));
+                        new FeatureWithParameters(
+                            featureName, abstractFeatureName, requiredFeature, 
+                            longClickTO, longClickFROM, clickTO, clickFROM));
                 }
             }
 
@@ -124,6 +133,10 @@ namespace AppGeneration
 
                     if (featureWithParams.longClickFROM != null)
                         concreteNode.Add(new XElement("longClickFROM", featureWithParams.longClickFROM));
+                    
+                    concreteNode.Add(new XElement("required", featureWithParams.required));
+
+//                    concreteNode.Add(new XElement("fileName", featureWithParams.fileName));
                     
                     concreteNodes.Add(concreteNode);
                 }
@@ -182,6 +195,10 @@ namespace AppGeneration
                             {
                                 featureModel.addFeatureWithSelectFlag(concreteNodeName, Boolean.Parse(concreteNodeItem.InnerText));
                             }
+//                            if (concreteNodeItem.Name.Equals("required"))
+//                            {
+//                                featureModel.addFeatureWithSelectFlag(concreteNodeName, Boolean.Parse(concreteNodeItem.InnerText));
+//                            }
                         }
                     }
                 }
@@ -189,30 +206,79 @@ namespace AppGeneration
             return featureModel;
         }
 
-        private static void CopyAppDirectoryToEnvironment(string sourceDirectory, string targetDirectory)
+        private static void CopyAppDirectoryToEnvironment(string sourceDirectory, string targetDirectory, FeatureModel model)
         {
-            DirectoryInfo diSource = new DirectoryInfo(sourceDirectory);
-            DirectoryInfo diTarget = 
+            DirectoryInfo dirSource = new DirectoryInfo(sourceDirectory);
+            DirectoryInfo dirTarget = 
                 new DirectoryInfo(Path.Combine(targetDirectory, sourceDirectory.Split("/").Last()));
+
+            FindFeatureFilesThatShouldNotBeLoad(sourceDirectory, model);
  
-            CopyAll(diSource, diTarget);
+            CopyAll(dirSource, dirTarget, model);
             
         }
  
-        private static void CopyAll(DirectoryInfo source, DirectoryInfo target)
+        private static void CopyAll(DirectoryInfo source, DirectoryInfo target, FeatureModel model)
         {
             Directory.CreateDirectory(target.FullName);
  
             foreach (FileInfo fileInfo in source.GetFiles())
             {
+                if (shouldNotBeLoadedFileList.Contains(fileInfo.Name))
+                {
+                    continue;
+                }
+                
                 Console.WriteLine(@"Copying {0}\{1}", target.FullName, fileInfo.Name);
-                fileInfo.CopyTo(Path.Combine(target.FullName, fileInfo.Name), true);
+                    fileInfo.CopyTo(Path.Combine(target.FullName, fileInfo.Name), true);
             }
  
             foreach (DirectoryInfo dirInfoSourceSubDir in source.GetDirectories())
             {
                 DirectoryInfo nextTargetSubDir = target.CreateSubdirectory(dirInfoSourceSubDir.Name);
-                CopyAll(dirInfoSourceSubDir, nextTargetSubDir);
+                CopyAll(dirInfoSourceSubDir, nextTargetSubDir, model);
+            }
+        }
+        
+        private static readonly List<string> shouldNotBeLoadedFileList =  new List<string>();
+
+        private static void FindFeatureFilesThatShouldNotBeLoad(string path, FeatureModel model)
+        {
+            string[] filePaths = Directory.GetFiles(path, "*.java", SearchOption.AllDirectories);
+            string patternFeature = @"\s*@AnnotationList.Feature\w*";
+            string patternAnyway = @"\s*@AnnotationList.NeededAnywayFeatureFile\w*";
+//            string patternFeatureConnected = @"\s*@AnnotationList.ConnectedToFeature\w*";
+
+            foreach(var filePath in filePaths)
+            {
+                if (filePath.Contains("AnnotationList.java")) 
+                    continue;
+                
+                using(var reader = new StreamReader(filePath))
+                {
+                    string featureName = null;
+                    string neededAnyway = null;
+                    string fileName = filePath.Split("/").Last();
+
+                    while (!reader.EndOfStream)
+                    {
+                        var line = reader.ReadLine();
+
+                        if (Regex.Match(line, patternFeature).Success)
+                        {
+                            featureName = line.Split("Feature")[1].Split("\"")[1];
+                            if (!model.Features[featureName])
+                            {
+                                shouldNotBeLoadedFileList.Add(fileName);
+                            }
+                        }
+
+                        if (Regex.Match(line, patternAnyway).Success)
+                        {
+                            shouldNotBeLoadedFileList.Remove(fileName);
+                        }
+                    }
+                }
             }
         }
         

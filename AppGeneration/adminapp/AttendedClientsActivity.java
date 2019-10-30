@@ -1,4 +1,4 @@
-package com.adminapp;
+package com.example.polina.adminapp;
 
 import android.app.ListActivity;
 import android.content.Intent;

@@ -4,8 +4,9 @@ namespace AppGeneration
 {
     public class FeatureModel
     {
-        public Dictionary<string, bool> Features =  new Dictionary<string, bool>();
-        
+        public readonly Dictionary<string, bool> Features =  new Dictionary<string, bool>();
+
+
         public FeatureModel()
         {
         }
@@ -14,6 +15,5 @@ namespace AppGeneration
         {
             Features.Add(name, isSelected);
         }
-            
     }
 }

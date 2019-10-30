@@ -1,8 +1,10 @@
-package com.adminapp;
+package com.example.polina.adminapp;
 
 import android.app.Activity;
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
+
+
 
 import android.os.Bundle;
 import android.view.View;
@@ -11,14 +13,22 @@ import android.widget.EditText;
 
 import com.google.gson.Gson;
 
-import com.example.polina.adminapp.R;  ///!!!!!!
 
-
-@AnnotationList.Feature(featureName = "LectureEdition")
 @AnnotationList.AbstractFeature(abstractFatureName = "EventManipulations")
+@AnnotationList.Feature(featureName = "LectureEdition")
+@AnnotationList.OrGroup(groupName = "1")
+
+@AnnotationList.XorAbstractGroup(groupName = "1")
+
 public class LectureEdition extends AppCompatActivity {
 
     @AnnotationList.OnLongItemClickTO(featureNameFrom = "LectureListActivity")
+
+    @AnnotationList.InComingArg(convertedClass = Integer.class)
+    int position;
+
+    @AnnotationList.InComingArg(convertedClass = Lecture.class)
+    String lectureAsAString;
 
     EditText lecturerEdit;
     EditText themeEdit;
@@ -27,12 +37,7 @@ public class LectureEdition extends AppCompatActivity {
     EditText timeEndEdit;
 
     Button button;
-
-    @AnnotationList.InComingArg(convertedClass = Integer.class)
-    int position;
-
-    @AnnotationList.InComingArg(convertedClass = Lecture.class)
-    String lectureAsAString;
+    Button removeButton;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -55,23 +60,12 @@ public class LectureEdition extends AppCompatActivity {
         button = findViewById(R.id.button);
         button.setOnClickListener(buttonListener);
 
-        // Case of addition
-        if (position == -1) {
-            button.setText("Добавить");
 
-            lecturerEdit.setText("Лектор");
-            themeEdit.setText("Тема");
-            abstractEdit.setText("Описание");
-            timeStartEdit.setText("Начало");
-            timeEndEdit.setText("Конец");
-
-        } else {
-            lecturerEdit.setText(lecture.lecturerName);
-            themeEdit.setText(lecture.theme);
-            abstractEdit.setText(lecture.abstractContent);
-            timeStartEdit.setText(lecture.timeStart);
-            timeEndEdit.setText(lecture.timeEnd);
-        }
+        lecturerEdit.setText(lecture.lecturerName);
+        themeEdit.setText(lecture.theme);
+        abstractEdit.setText(lecture.abstractContent);
+        timeStartEdit.setText(lecture.timeStart);
+        timeEndEdit.setText(lecture.timeEnd);
     }
 
     private String normalizeTime(String time) {
@@ -112,5 +106,4 @@ public class LectureEdition extends AppCompatActivity {
             }
         }
     };
-
 }

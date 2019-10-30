@@ -1,11 +1,13 @@
-package com.adminapp.ServerConnectionInstallation;
+package com.example.polina.adminapp.ServerConnectionInstallation;
 
 import android.os.StrictMode;
 
-import com.adminapp.Lecture;
+import com.example.polina.adminapp.AnnotationList;
+import com.example.polina.adminapp.Lecture;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
 import org.springframework.http.HttpEntity;
+import org.springframework.http.HttpHeaders;
 import org.springframework.http.HttpMethod;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
@@ -13,6 +15,7 @@ import org.springframework.web.client.RestTemplate;
 
 import java.io.IOException;
 
+@AnnotationList.ConnectedToFeature(featureName = "Server")
 public class ServerConnection implements IServerConnection {
 
     private static String URL = "http://10.0.2.2:8080";
@@ -100,5 +103,10 @@ public class ServerConnection implements IServerConnection {
     public void putLecture(Lecture lect, long position) {
         HttpEntity<Lecture> requestEntity = new HttpEntity<Lecture>(lect);
         HttpEntity<Lecture> response = (new RestTemplate()).exchange(lecturesURL + "/" + Long.toString(offset + position + 1), HttpMethod.PUT, requestEntity, Lecture.class);
+    }
+
+    public void deleteLecture(long position) {
+        RestTemplate restTemplate = new RestTemplate();
+        restTemplate.delete(lecturesURL + "/" + Long.toString(offset + position + 1));
     }
 }

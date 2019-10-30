@@ -19,7 +19,6 @@ import java.util.ArrayList;
 
 import com.adminapp.Lecture;
 import com.adminapp.ServerConnectionInstallation.ServerSetting;
-
 import com.example.polina.adminapp.R;  ///!!!!!!
 
 import com.google.gson.Gson;
@@ -64,7 +63,7 @@ public class LectureListActivity extends ListActivity implements AdapterView.OnI
         setListAdapter(mAdapter);
         getListView().setOnItemLongClickListener(this);
 
-        @if (Model.Features["AttendedClients"])
+        @if (Model.Features["Server"])
         {
             @Raw("        ServerSetting.init(true);\n")
                 
@@ -117,8 +116,7 @@ public class LectureListActivity extends ListActivity implements AdapterView.OnI
                  "Intent intent = new Intent(LectureListActivity.this, LectureEdition.class);\n        " +
                  "intent.putExtra(\"lectureAsAString\", lectureAsAString);\n        " +
                  "intent.putExtra(\"position\", position);\n\n        " +
-                 "startActivityForResult(intent, EDIT_ITEM);\n\n        " +
-                 "return true;")
+                 "startActivityForResult(intent, EDIT_ITEM);\n\n")
         }
         @if (Model.Features["BeAttended"])
         {
@@ -128,10 +126,11 @@ public class LectureListActivity extends ListActivity implements AdapterView.OnI
                  "intent.putExtra(\"lectureAsAString\", lectureAsAString);\n        " +
                  "intent.putExtra(\"position\", position);\n        " +
                  "intent.putExtra(\"currentClient\", currentClient);\n\n        " +
-                 "startActivityForResult(intent, EDIT_ITEM);\n\n        " +
-                 "return true;")
+                 "startActivityForResult(intent, EDIT_ITEM);\n\n")
             
         }
+
+        return true;
 
     }
 

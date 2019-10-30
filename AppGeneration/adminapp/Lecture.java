@@ -1,4 +1,4 @@
-package com.adminapp;
+package com.example.polina.adminapp;
 
 import com.google.gson.Gson;
 

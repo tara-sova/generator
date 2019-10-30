@@ -1,11 +1,13 @@
-package com.adminapp.ServerConnectionInstallation;
+package com.example.polina.adminapp.ServerConnectionInstallation;
 
-import com.adminapp.Lecture;
+import com.example.polina.adminapp.AnnotationList;
+import com.example.polina.adminapp.Lecture;
 
 import org.springframework.http.ResponseEntity;
 
 import java.util.ArrayList;
 
+@AnnotationList.ConnectedToFeature(featureName = "Server")
 public class NoServerConnection implements IServerConnection {
 
     private static ArrayList<Lecture> lectureList = null;
@@ -32,13 +34,7 @@ public class NoServerConnection implements IServerConnection {
     }
 
     public void putLecture(Lecture lecture, long id) {
-        Lecture lectureForRemove = null;
-        for (Lecture lect : lectureList) {
-            if (lect.getId() == id) {
-                lectureForRemove = lect;
-                break;
-            }
-        }
+        Lecture lectureForRemove = this.getLectureByPosition(id);
         lectureList.remove(lectureForRemove);
         lectureList.add(lecture);
     }
@@ -52,5 +48,10 @@ public class NoServerConnection implements IServerConnection {
             }
         }
         return lecture;
+    }
+
+    public void deleteLecture(long id) {
+        Lecture lectureForRemove = this.getLectureByPosition(id);
+        lectureList.remove(lectureForRemove);
     }
 }
